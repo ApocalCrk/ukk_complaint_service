@@ -1,0 +1,18 @@
+From 481dcf8fe4913752d953a7dbe4dc7adf38d8b4c7 Mon Sep 17 00:00:00 2001
+From: Sachin N <sachi77n@gmail.com>
+Date: Thu, 4 Aug 2016 09:17:05 +0530
+Subject: [PATCH] Update .npmignore
+
+---
+ .npmignore | 1 +
+ 1 file changed, 1 insertion(+)
+
+diff --git a/.npmignore b/.npmignore
+index b8e5c39..4b9af62 100644
+--- a/.npmignore
++++ b/.npmignore
+@@ -5,3 +5,4 @@
+ /bower.json
+ /karma.conf.js
+ /src
++!/src/scss

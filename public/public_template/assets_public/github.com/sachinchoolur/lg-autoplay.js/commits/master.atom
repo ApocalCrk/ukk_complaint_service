@@ -1,0 +1,152 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/" xml:lang="en-US">
+  <id>tag:github.com,2008:/sachinchoolur/lg-autoplay.js/commits/master</id>
+  <link type="text/html" rel="alternate" href="https://github.com/sachinchoolur/lg-autoplay.js/commits/master"/>
+  <link type="application/atom+xml" rel="self" href="https://github.com/sachinchoolur/lg-autoplay.js/commits/master.atom"/>
+  <title>Recent Commits to lg-autoplay.js:master</title>
+  <updated>2020-11-09T17:50:31Z</updated>
+  <entry>
+    <id>tag:github.com,2008:Grit::Commit/d2671590d8898f0aab35f9be0f77e732cddc517a</id>
+    <link type="text/html" rel="alternate" href="https://github.com/sachinchoolur/lg-autoplay.js/commit/d2671590d8898f0aab35f9be0f77e732cddc517a"/>
+    <title>
+        Update readme.md
+    </title>
+    <updated>2020-11-09T17:50:31Z</updated>
+    <media:thumbnail height="30" width="30" url="https://avatars.githubusercontent.com/u/6586706?s=30&amp;u=93c7e2e7271ec018e5e029c30c9e1857602894b3&amp;v=4"/>
+    <author>
+      <name>sachinchoolur</name>
+      <uri>https://github.com/sachinchoolur</uri>
+    </author>
+    <content type="html">
+      &lt;pre style=&#39;white-space:pre-wrap;width:81ex&#39;&gt;Update readme.md&lt;/pre&gt;
+    </content>
+  </entry>
+  <entry>
+    <id>tag:github.com,2008:Grit::Commit/ba02e2b4244ac55685e25cdffe2b1935f15b4310</id>
+    <link type="text/html" rel="alternate" href="https://github.com/sachinchoolur/lg-autoplay.js/commit/ba02e2b4244ac55685e25cdffe2b1935f15b4310"/>
+    <title>
+        accessibility - add button type
+    </title>
+    <updated>2020-06-04T17:09:00Z</updated>
+    <media:thumbnail height="30" width="30" url="https://avatars.githubusercontent.com/u/6586706?s=30&amp;u=93c7e2e7271ec018e5e029c30c9e1857602894b3&amp;v=4"/>
+    <author>
+      <name>sachinchoolur</name>
+      <uri>https://github.com/sachinchoolur</uri>
+    </author>
+    <content type="html">
+      &lt;pre style=&#39;white-space:pre-wrap;width:81ex&#39;&gt;accessibility - add button type&lt;/pre&gt;
+    </content>
+  </entry>
+  <entry>
+    <id>tag:github.com,2008:Grit::Commit/cbc045fbb62bc9ae1b6e76c2483e31c3a6bc9bd0</id>
+    <link type="text/html" rel="alternate" href="https://github.com/sachinchoolur/lg-autoplay.js/commit/cbc045fbb62bc9ae1b6e76c2483e31c3a6bc9bd0"/>
+    <title>
+        Version 1.2.0 release
+    </title>
+    <updated>2020-05-20T16:35:08Z</updated>
+    <media:thumbnail height="30" width="30" url="https://avatars.githubusercontent.com/u/6586706?s=30&amp;u=93c7e2e7271ec018e5e029c30c9e1857602894b3&amp;v=4"/>
+    <author>
+      <name>sachinchoolur</name>
+      <uri>https://github.com/sachinchoolur</uri>
+    </author>
+    <content type="html">
+      &lt;pre style=&#39;white-space:pre-wrap;width:81ex&#39;&gt;Version 1.2.0 release&lt;/pre&gt;
+    </content>
+  </entry>
+  <entry>
+    <id>tag:github.com,2008:Grit::Commit/9e1b3f84850614a47b7a676c1d72fe1054e2aa75</id>
+    <link type="text/html" rel="alternate" href="https://github.com/sachinchoolur/lg-autoplay.js/commit/9e1b3f84850614a47b7a676c1d72fe1054e2aa75"/>
+    <title>
+        accessibility improvements
+    </title>
+    <updated>2020-05-18T05:26:30Z</updated>
+    <media:thumbnail height="30" width="30" url="https://avatars.githubusercontent.com/u/6586706?s=30&amp;u=93c7e2e7271ec018e5e029c30c9e1857602894b3&amp;v=4"/>
+    <author>
+      <name>sachinchoolur</name>
+      <uri>https://github.com/sachinchoolur</uri>
+    </author>
+    <content type="html">
+      &lt;pre style=&#39;white-space:pre-wrap;width:81ex&#39;&gt;accessibility improvements&lt;/pre&gt;
+    </content>
+  </entry>
+  <entry>
+    <id>tag:github.com,2008:Grit::Commit/b68053480ae258a19ff0e232a11934a7d45ca746</id>
+    <link type="text/html" rel="alternate" href="https://github.com/sachinchoolur/lg-autoplay.js/commit/b68053480ae258a19ff0e232a11934a7d45ca746"/>
+    <title>
+        Update
+    </title>
+    <updated>2016-10-05T11:48:39Z</updated>
+    <media:thumbnail height="30" width="30" url="https://avatars.githubusercontent.com/u/6586706?s=30&amp;u=93c7e2e7271ec018e5e029c30c9e1857602894b3&amp;v=4"/>
+    <author>
+      <name>sachinchoolur</name>
+      <uri>https://github.com/sachinchoolur</uri>
+    </author>
+    <content type="html">
+      &lt;pre style=&#39;white-space:pre-wrap;width:81ex&#39;&gt;Update&lt;/pre&gt;
+    </content>
+  </entry>
+  <entry>
+    <id>tag:github.com,2008:Grit::Commit/e960eb3c022b8fae268f401a09193f6ae473fe09</id>
+    <link type="text/html" rel="alternate" href="https://github.com/sachinchoolur/lg-autoplay.js/commit/e960eb3c022b8fae268f401a09193f6ae473fe09"/>
+    <title>
+        Version 1.0.0 release
+    </title>
+    <updated>2016-10-05T11:41:29Z</updated>
+    <media:thumbnail height="30" width="30" url="https://avatars.githubusercontent.com/u/6586706?s=30&amp;u=93c7e2e7271ec018e5e029c30c9e1857602894b3&amp;v=4"/>
+    <author>
+      <name>sachinchoolur</name>
+      <uri>https://github.com/sachinchoolur</uri>
+    </author>
+    <content type="html">
+      &lt;pre style=&#39;white-space:pre-wrap;width:81ex&#39;&gt;Version 1.0.0 release&lt;/pre&gt;
+    </content>
+  </entry>
+  <entry>
+    <id>tag:github.com,2008:Grit::Commit/87bc62ab4b7eb9252cf4563eef82c0ee8da3ca79</id>
+    <link type="text/html" rel="alternate" href="https://github.com/sachinchoolur/lg-autoplay.js/commit/87bc62ab4b7eb9252cf4563eef82c0ee8da3ca79"/>
+    <title>
+        Update contributing.md
+    </title>
+    <updated>2016-08-01T10:44:36Z</updated>
+    <media:thumbnail height="30" width="30" url="https://avatars.githubusercontent.com/u/6586706?s=30&amp;u=93c7e2e7271ec018e5e029c30c9e1857602894b3&amp;v=4"/>
+    <author>
+      <name>sachinchoolur</name>
+      <uri>https://github.com/sachinchoolur</uri>
+    </author>
+    <content type="html">
+      &lt;pre style=&#39;white-space:pre-wrap;width:81ex&#39;&gt;Update contributing.md&lt;/pre&gt;
+    </content>
+  </entry>
+  <entry>
+    <id>tag:github.com,2008:Grit::Commit/71a65d9a39b8050d9947aae39f867c1a457baf66</id>
+    <link type="text/html" rel="alternate" href="https://github.com/sachinchoolur/lg-autoplay.js/commit/71a65d9a39b8050d9947aae39f867c1a457baf66"/>
+    <title>
+        Dist..
+    </title>
+    <updated>2016-08-01T03:43:48Z</updated>
+    <media:thumbnail height="30" width="30" url="https://avatars.githubusercontent.com/u/6586706?s=30&amp;u=93c7e2e7271ec018e5e029c30c9e1857602894b3&amp;v=4"/>
+    <author>
+      <name>sachinchoolur</name>
+      <uri>https://github.com/sachinchoolur</uri>
+    </author>
+    <content type="html">
+      &lt;pre style=&#39;white-space:pre-wrap;width:81ex&#39;&gt;Dist..&lt;/pre&gt;
+    </content>
+  </entry>
+  <entry>
+    <id>tag:github.com,2008:Grit::Commit/a20f8133924fc1f567fa1339a2c7de45595b4a5c</id>
+    <link type="text/html" rel="alternate" href="https://github.com/sachinchoolur/lg-autoplay.js/commit/a20f8133924fc1f567fa1339a2c7de45595b4a5c"/>
+    <title>
+        &quot;Init&quot;
+    </title>
+    <updated>2016-08-01T03:33:31Z</updated>
+    <media:thumbnail height="30" width="30" url="https://avatars.githubusercontent.com/u/6586706?s=30&amp;u=93c7e2e7271ec018e5e029c30c9e1857602894b3&amp;v=4"/>
+    <author>
+      <name>sachinchoolur</name>
+      <uri>https://github.com/sachinchoolur</uri>
+    </author>
+    <content type="html">
+      &lt;pre style=&#39;white-space:pre-wrap;width:81ex&#39;&gt;&amp;quot;Init&amp;quot;&lt;/pre&gt;
+    </content>
+  </entry>
+</feed>

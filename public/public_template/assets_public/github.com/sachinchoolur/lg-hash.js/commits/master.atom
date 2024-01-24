@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/" xml:lang="en-US">
+  <id>tag:github.com,2008:/sachinchoolur/lg-hash.js/commits/master</id>
+  <link type="text/html" rel="alternate" href="https://github.com/sachinchoolur/lg-hash.js/commits/master"/>
+  <link type="application/atom+xml" rel="self" href="https://github.com/sachinchoolur/lg-hash.js/commits/master.atom"/>
+  <title>Recent Commits to lg-hash.js:master</title>
+  <updated>2020-11-09T17:51:52Z</updated>
+  <entry>
+    <id>tag:github.com,2008:Grit::Commit/b9dcc886880882e92d4c3a632f4d513ddf5a0406</id>
+    <link type="text/html" rel="alternate" href="https://github.com/sachinchoolur/lg-hash.js/commit/b9dcc886880882e92d4c3a632f4d513ddf5a0406"/>
+    <title>
+        Update readme.md
+    </title>
+    <updated>2020-11-09T17:51:52Z</updated>
+    <media:thumbnail height="30" width="30" url="https://avatars.githubusercontent.com/u/6586706?s=30&amp;u=93c7e2e7271ec018e5e029c30c9e1857602894b3&amp;v=4"/>
+    <author>
+      <name>sachinchoolur</name>
+      <uri>https://github.com/sachinchoolur</uri>
+    </author>
+    <content type="html">
+      &lt;pre style=&#39;white-space:pre-wrap;width:81ex&#39;&gt;Update readme.md&lt;/pre&gt;
+    </content>
+  </entry>
+  <entry>
+    <id>tag:github.com,2008:Grit::Commit/dbd4e42608d578d5c8bd5b5fc3b85e6cc8db8025</id>
+    <link type="text/html" rel="alternate" href="https://github.com/sachinchoolur/lg-hash.js/commit/dbd4e42608d578d5c8bd5b5fc3b85e6cc8db8025"/>
+    <title>
+        Version 1.0.0 release
+    </title>
+    <updated>2016-10-05T11:48:10Z</updated>
+    <media:thumbnail height="30" width="30" url="https://avatars.githubusercontent.com/u/6586706?s=30&amp;u=93c7e2e7271ec018e5e029c30c9e1857602894b3&amp;v=4"/>
+    <author>
+      <name>sachinchoolur</name>
+      <uri>https://github.com/sachinchoolur</uri>
+    </author>
+    <content type="html">
+      &lt;pre style=&#39;white-space:pre-wrap;width:81ex&#39;&gt;Version 1.0.0 release&lt;/pre&gt;
+    </content>
+  </entry>
+  <entry>
+    <id>tag:github.com,2008:Grit::Commit/ff7b6873f7682517766977a5b7ff09c8db364245</id>
+    <link type="text/html" rel="alternate" href="https://github.com/sachinchoolur/lg-hash.js/commit/ff7b6873f7682517766977a5b7ff09c8db364245"/>
+    <title>
+        Update contributing.md
+    </title>
+    <updated>2016-08-01T10:45:35Z</updated>
+    <media:thumbnail height="30" width="30" url="https://avatars.githubusercontent.com/u/6586706?s=30&amp;u=93c7e2e7271ec018e5e029c30c9e1857602894b3&amp;v=4"/>
+    <author>
+      <name>sachinchoolur</name>
+      <uri>https://github.com/sachinchoolur</uri>
+    </author>
+    <content type="html">
+      &lt;pre style=&#39;white-space:pre-wrap;width:81ex&#39;&gt;Update contributing.md&lt;/pre&gt;
+    </content>
+  </entry>
+  <entry>
+    <id>tag:github.com,2008:Grit::Commit/dd1c54e8f1faef64f48ce8a416e579c5389172ef</id>
+    <link type="text/html" rel="alternate" href="https://github.com/sachinchoolur/lg-hash.js/commit/dd1c54e8f1faef64f48ce8a416e579c5389172ef"/>
+    <title>
+        Dist..
+    </title>
+    <updated>2016-08-01T03:43:06Z</updated>
+    <media:thumbnail height="30" width="30" url="https://avatars.githubusercontent.com/u/6586706?s=30&amp;u=93c7e2e7271ec018e5e029c30c9e1857602894b3&amp;v=4"/>
+    <author>
+      <name>sachinchoolur</name>
+      <uri>https://github.com/sachinchoolur</uri>
+    </author>
+    <content type="html">
+      &lt;pre style=&#39;white-space:pre-wrap;width:81ex&#39;&gt;Dist..&lt;/pre&gt;
+    </content>
+  </entry>
+  <entry>
+    <id>tag:github.com,2008:Grit::Commit/a64f099a076a4a02ad9f07f9eb980f13b3d9da50</id>
+    <link type="text/html" rel="alternate" href="https://github.com/sachinchoolur/lg-hash.js/commit/a64f099a076a4a02ad9f07f9eb980f13b3d9da50"/>
+    <title>
+        &quot;Init&quot;
+    </title>
+    <updated>2016-08-01T03:22:28Z</updated>
+    <media:thumbnail height="30" width="30" url="https://avatars.githubusercontent.com/u/6586706?s=30&amp;u=93c7e2e7271ec018e5e029c30c9e1857602894b3&amp;v=4"/>
+    <author>
+      <name>sachinchoolur</name>
+      <uri>https://github.com/sachinchoolur</uri>
+    </author>
+    <content type="html">
+      &lt;pre style=&#39;white-space:pre-wrap;width:81ex&#39;&gt;&amp;quot;Init&amp;quot;&lt;/pre&gt;
+    </content>
+  </entry>
+</feed>

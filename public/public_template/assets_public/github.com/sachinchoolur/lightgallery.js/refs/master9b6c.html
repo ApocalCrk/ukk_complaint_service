@@ -1,0 +1,107 @@
+
+<header class="SelectMenu-header">
+  <span class="SelectMenu-title">Switch branches/tags</span>
+  <button class="SelectMenu-closeButton" type="button" data-toggle-for="branch-select-menu"><svg aria-label="Close menu" class="octicon octicon-x" viewBox="0 0 16 16" version="1.1" width="16" height="16" role="img"><path fill-rule="evenodd" d="M3.72 3.72a.75.75 0 011.06 0L8 6.94l3.22-3.22a.75.75 0 111.06 1.06L9.06 8l3.22 3.22a.75.75 0 11-1.06 1.06L8 9.06l-3.22 3.22a.75.75 0 01-1.06-1.06L6.94 8 3.72 4.78a.75.75 0 010-1.06z"></path></svg></button>
+</header>
+
+<tab-container class="d-flex flex-column js-branches-tags-tabs" style="min-height: 0;">
+  <div class="SelectMenu-filter">
+    <filter-input aria-owns="ref-list-branches" data-controls-ref-menu-id="ref-list-branches">
+      <input
+        type="text"
+        id="context-commitish-filter-field"
+        class="SelectMenu-input form-control"
+        autofocus
+        autocomplete="off"
+        aria-label="Filter branches/tags"
+        placeholder="Filter branches/tags">
+    </filter-input>
+
+    <remote-input
+      src="https://github.com/sachinchoolur/lightgallery.js/refs-tags/master?source_action=show&amp;source_controller=commits&amp;tag_name=master"
+      aria-owns="tags-menu"
+      data-controls-ref-menu-id="tags-menu"
+      hidden>
+      <input type="text" class="SelectMenu-input form-control" aria-label="Find a tag" placeholder="Find a tag" autofocus>
+    </remote-input>
+  </div>
+
+  <div class="SelectMenu-tabs" role="tablist">
+    <button class="SelectMenu-tab" type="button" data-filter-placeholder="Filter branches/tags" role="tab" aria-selected="true">Branches</button>
+    <button class="SelectMenu-tab" type="button" data-filter-placeholder="Find a tag" role="tab">Tags</button>
+  </div>
+
+  <div role="tabpanel" id="ref-list-branches" class="d-flex flex-column flex-auto overflow-auto">
+    <div class="SelectMenu-list" data-filter-list>
+
+
+        <a class="SelectMenu-item"
+           href="https://github.com/sachinchoolur/lightgallery.js/commits/master"
+           role="menuitemradio"
+           aria-checked="true"
+           rel="nofollow">
+          <svg class="octicon octicon-check SelectMenu-icon SelectMenu-icon--check" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M13.78 4.22a.75.75 0 010 1.06l-7.25 7.25a.75.75 0 01-1.06 0L2.22 9.28a.75.75 0 011.06-1.06L6 10.94l6.72-6.72a.75.75 0 011.06 0z"></path></svg>
+            <span class="flex-1 break-word" data-menu-button-text data-filter-item-text>master</span>
+            <span class="Label Label--secondary flex-self-start">default</span>
+        </a>
+        <a class="SelectMenu-item"
+           href="https://github.com/sachinchoolur/lightgallery.js/commits/68"
+           role="menuitemradio"
+           aria-checked="false"
+           rel="nofollow">
+          <svg class="octicon octicon-check SelectMenu-icon SelectMenu-icon--check" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M13.78 4.22a.75.75 0 010 1.06l-7.25 7.25a.75.75 0 01-1.06 0L2.22 9.28a.75.75 0 011.06-1.06L6 10.94l6.72-6.72a.75.75 0 011.06 0z"></path></svg>
+            <span class="break-word" data-menu-button-text data-filter-item-text>68</span>
+        </a>
+        <a class="SelectMenu-item"
+           href="https://github.com/sachinchoolur/lightgallery.js/commits/155"
+           role="menuitemradio"
+           aria-checked="false"
+           rel="nofollow">
+          <svg class="octicon octicon-check SelectMenu-icon SelectMenu-icon--check" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M13.78 4.22a.75.75 0 010 1.06l-7.25 7.25a.75.75 0 01-1.06 0L2.22 9.28a.75.75 0 011.06-1.06L6 10.94l6.72-6.72a.75.75 0 011.06 0z"></path></svg>
+            <span class="break-word" data-menu-button-text data-filter-item-text>155</span>
+        </a>
+        <a class="SelectMenu-item"
+           href="https://github.com/sachinchoolur/lightgallery.js/commits/181"
+           role="menuitemradio"
+           aria-checked="false"
+           rel="nofollow">
+          <svg class="octicon octicon-check SelectMenu-icon SelectMenu-icon--check" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M13.78 4.22a.75.75 0 010 1.06l-7.25 7.25a.75.75 0 01-1.06 0L2.22 9.28a.75.75 0 011.06-1.06L6 10.94l6.72-6.72a.75.75 0 011.06 0z"></path></svg>
+            <span class="break-word" data-menu-button-text data-filter-item-text>181</span>
+        </a>
+        <a class="SelectMenu-item"
+           href="https://github.com/sachinchoolur/lightgallery.js/commits/dependabot-fixes"
+           role="menuitemradio"
+           aria-checked="false"
+           rel="nofollow">
+          <svg class="octicon octicon-check SelectMenu-icon SelectMenu-icon--check" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M13.78 4.22a.75.75 0 010 1.06l-7.25 7.25a.75.75 0 01-1.06 0L2.22 9.28a.75.75 0 011.06-1.06L6 10.94l6.72-6.72a.75.75 0 011.06 0z"></path></svg>
+            <span class="break-word" data-menu-button-text data-filter-item-text>dependabot-fixes</span>
+        </a>
+        <a class="SelectMenu-item"
+           href="https://github.com/sachinchoolur/lightgallery.js/commits/dev"
+           role="menuitemradio"
+           aria-checked="false"
+           rel="nofollow">
+          <svg class="octicon octicon-check SelectMenu-icon SelectMenu-icon--check" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M13.78 4.22a.75.75 0 010 1.06l-7.25 7.25a.75.75 0 01-1.06 0L2.22 9.28a.75.75 0 011.06-1.06L6 10.94l6.72-6.72a.75.75 0 011.06 0z"></path></svg>
+            <span class="break-word" data-menu-button-text data-filter-item-text>dev</span>
+        </a>
+        <a class="SelectMenu-item"
+           href="https://github.com/sachinchoolur/lightgallery.js/commits/gh-pages"
+           role="menuitemradio"
+           aria-checked="false"
+           rel="nofollow">
+          <svg class="octicon octicon-check SelectMenu-icon SelectMenu-icon--check" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M13.78 4.22a.75.75 0 010 1.06l-7.25 7.25a.75.75 0 01-1.06 0L2.22 9.28a.75.75 0 011.06-1.06L6 10.94l6.72-6.72a.75.75 0 011.06 0z"></path></svg>
+            <span class="break-word" data-menu-button-text data-filter-item-text>gh-pages</span>
+        </a>
+
+        <div class="SelectMenu-message" data-filter-empty-state hidden>Nothing to show</div>
+    </div>
+    <footer class="SelectMenu-footer"><a data-ga-click="Repository, Branch selector, view all branches" href="https://github.com/sachinchoolur/lightgallery.js/branches">View all branches</a></footer>
+  </div>
+
+  <div role="tabpanel" id="tags-menu" class="d-flex flex-column flex-auto overflow-auto" hidden>
+    <div class="SelectMenu-list">
+      <div class="SelectMenu-message">Search for a tag</div>
+    </div>
+    <footer class="SelectMenu-footer"><a data-ga-click="Repository, Branch selector, view all tags" href="https://github.com/sachinchoolur/lightgallery.js/tags">View all tags</a></footer>
+  </div>
+</tab-container>

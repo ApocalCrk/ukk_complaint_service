@@ -1,0 +1,22 @@
+From d26bb69d336a0d17f46d0ea6c1ce310ca6fec0cf Mon Sep 17 00:00:00 2001
+From: Sachin N <sachi77n@gmail.com>
+Date: Mon, 9 Nov 2020 09:49:32 -0800
+Subject: [PATCH] Update readme.md
+
+---
+ readme.md | 2 +-
+ 1 file changed, 1 insertion(+), 1 deletion(-)
+
+diff --git a/readme.md b/readme.md
+index f5669a7..356b162 100644
+--- a/readme.md
++++ b/readme.md
+@@ -197,7 +197,7 @@ License
+ ---
+ 
+ #### Commercial license
+-If you want to use lightgallery.js to develop commercial sites, themes, projects, and applications, the Commercial license is the appropriate license. With this option, your source code is kept proprietary. Purchase a lightgallery.js Commercial License at [uplabs.com/posts/lightgallery-js](https://www.uplabs.com/posts/lightgallery-js)
++If you want to use lightgallery.js to develop commercial sites, themes, projects, and applications, the Commercial license is the appropriate license. With this option, your source code is kept proprietary. [Read more about the commercial license](https://sachinchoolur.github.io/lightgallery.js/docs/license.html)
+ 
+ #### Open source license
+ 

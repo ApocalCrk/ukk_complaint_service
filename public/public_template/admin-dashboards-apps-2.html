@@ -1,0 +1,1934 @@
+<!DOCTYPE html>
+<html lang="en">
+
+
+<!-- Mirrored from huro.cssninja.io/admin-dashboards-apps-2.html by HTTrack Website Copier/3.x [XR&CO'2014], Mon, 22 Feb 2021 09:53:36 GMT -->
+<!-- Added by HTTrack --><meta http-equiv="content-type" content="text/html;charset=utf-8" /><!-- /Added by HTTrack -->
+<head>
+    <!-- Required meta tags  -->
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+    <meta http-equiv="x-ua-compatible" content="ie=edge">
+
+    <title> Huro :: Inbox</title>
+    <link rel="icon" type="image/png" href="assets/img/favicon.png" />
+
+    <!--Core CSS -->
+    <link rel="stylesheet" href="assets/css/app.css">
+    <link rel="stylesheet" href="assets/css/main.css">
+
+    <!-- Fonts -->
+    <link href="https://fonts.googleapis.com/css2?family=Montserrat:wght@500;600;700;800;900&amp;display=swap" rel="stylesheet">
+    <link href="https://fonts.googleapis.com/css?family=Roboto:300,400,700" rel="stylesheet">
+
+</head>
+
+<body>
+    <div id="huro-app" class="app-wrapper">
+
+        <!-- Pageloader -->
+        <div class="pageloader is-full"></div>
+        <div class="infraloader is-full is-active"></div>
+        <div class="minimal-wrapper darker">
+
+            <div class="inbox-wrapper">
+                <div class="wrapper-inner">
+                    <!--Inbox sidebar-->
+                    <div class="inbox-sidebar">
+                        <!-- Header -->
+                        <div class="header-area">
+                            <div class="inbox-title">
+                                <a href="index-2.html" class="inbox-brand">
+                                    <img class="light-image" src="assets/img/logos/logo/logo.svg" alt="" />
+                                    <img class="dark-image" src="assets/img/logos/logo/logo-light.svg" alt="" />
+                                </a>
+                                <span>Inbox</span>
+
+                                <label class="dark-mode">
+                                    <input type="checkbox" checked>
+                                    <span></span>
+                                </label>
+                            </div>
+                            <div class="dropdown inbox-dropdown dropdown-trigger is-right">
+                                <div>
+                                    <button class="button">
+                                        <span class="icon is-small">
+                                                <i data-feather="more-vertical"></i>
+                                            </span>
+                                    </button>
+                                </div>
+                                <div class="dropdown-menu">
+                                    <div class="dropdown-content">
+                                        <a class="dropdown-item">
+                                            <i data-feather="refresh-cw"></i>
+                                            <span>Refresh</span>
+                                        </a>
+                                        <a class="dropdown-item">
+                                            <i data-feather="bell"></i>
+                                            <span>Notifications</span>
+                                        </a>
+                                        <a class="dropdown-item">
+                                            <i data-feather="user-plus"></i>
+                                            <span>Invite People</span>
+                                        </a>
+                                        <a class="dropdown-item">
+                                            <i data-feather="settings"></i>
+                                            <span>Settings</span>
+                                        </a>
+                                    </div>
+                                </div>
+                            </div>
+                            <a class="inbox-action inbox-close-sidebar-mobile">
+                                <i data-feather="x"></i>
+                            </a>
+                        </div>
+                        <!--Inner-->
+                        <div class="sidebar-inner">
+                            <!--Inner menu-->
+                            <div class="inner-menu">
+                                <a class="button compose-button is-fullwidth">Compose</a>
+                                <div class="inbox-menu">
+                                    <ul>
+                                        <li>
+                                            <a class="is-active">
+                                                <i data-feather="mail"></i>
+                                                <span>Inbox</span>
+                                                <span class="tag">24</span>
+                                            </a>
+                                        </li>
+                                        <li>
+                                            <a>
+                                                <i data-feather="file-text"></i>
+                                                <span>Drafts</span>
+                                                <span class="tag">2</span>
+                                            </a>
+                                        </li>
+                                        <li>
+                                            <a>
+                                                <i data-feather="send"></i>
+                                                <span>Sent</span>
+                                                <span class="tag">7</span>
+                                            </a>
+                                        </li>
+                                        <li>
+                                            <a>
+                                                <i data-feather="trash-2"></i>
+                                                <span>Trash</span>
+                                                <span class="tag">18</span>
+                                            </a>
+                                        </li>
+                                        <li>
+                                            <a>
+                                                <i data-feather="alert-octagon"></i>
+                                                <span>Spam</span>
+                                                <span class="tag">29</span>
+                                            </a>
+                                        </li>
+                                    </ul>
+                                </div>
+                            </div>
+                            <!--Scroll menu-->
+                            <div class="scroll-menu">
+                                <div class="title-wrap">
+                                    <h3>Contacts</h3>
+                                    <div class="control has-icon is-hidden">
+                                        <input type="text" class="input" placeholder="Search Contacts...">
+                                        <div class="form-icon">
+                                            <i data-feather="search"></i>
+                                        </div>
+                                    </div>
+                                    <a class="button search-button">
+                                        <span class="icon is-small">
+                                                <i data-feather="search"></i>
+                                            </span>
+                                    </a>
+                                    <a class="button cancel-search-button is-hidden">
+                                        <span class="icon is-small">
+                                                <i data-feather="x"></i>
+                                            </span>
+                                    </a>
+                                </div>
+                                <div class="contact-list has-slimscroll">
+                                    <!--Contact-->
+                                    <div class="contact-block">
+                                        <img src="https://via.placeholder.com/150x150" data-demo-src="assets/img/avatars/photos/7.jpg" alt="">
+                                        <div class="contact-meta">
+                                            <span>Alice Carasca</span>
+                                            <span>alice@huro.io</span>
+                                        </div>
+                                    </div>
+                                    <!--Contact-->
+                                    <div class="contact-block">
+                                        <img src="https://via.placeholder.com/150x150" data-demo-src="assets/img/avatars/photos/25.jpg" alt="">
+                                        <div class="contact-meta">
+                                            <span>Melany Wallace</span>
+                                            <span>melany@huro.io</span>
+                                        </div>
+                                    </div>
+                                    <!--Contact-->
+                                    <div class="contact-block">
+                                        <img src="https://via.placeholder.com/150x150" data-demo-src="assets/img/avatars/photos/18.jpg" alt="">
+                                        <div class="contact-meta">
+                                            <span>Esteban Castellanos</span>
+                                            <span>esteban@huro.io</span>
+                                        </div>
+                                    </div>
+                                    <!--Contact-->
+                                    <div class="contact-block">
+                                        <img src="https://via.placeholder.com/150x150" data-demo-src="assets/img/avatars/photos/32.jpg" alt="">
+                                        <div class="contact-meta">
+                                            <span>Jonathan Krugger</span>
+                                            <span>jonathan@huro.io</span>
+                                        </div>
+                                    </div>
+                                    <!--Contact-->
+                                    <div class="contact-block">
+                                        <img src="https://via.placeholder.com/150x150" data-demo-src="assets/img/avatars/photos/38.jpg" alt="">
+                                        <div class="contact-meta">
+                                            <span>Christie Dallas</span>
+                                            <span>christie@huro.io</span>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+
+                    <!--Messages list-->
+                    <div class="inbox-messages">
+                        <div class="header-area">
+                            <div class="actions">
+                                <a class="inbox-action mobile-menu-action">
+                                    <i data-feather="chevron-right"></i>
+                                </a>
+                                <a class="inbox-action check-all-action">
+                                    <i data-feather="check"></i>
+                                </a>
+                            </div>
+                            <div class="actions">
+                                <div class="control inbox-search has-icon">
+                                    <input type="text" class="input is-rounded" placeholder="Search Inbox...">
+                                    <div class="form-icon">
+                                        <i data-feather="search"></i>
+                                    </div>
+                                </div>
+
+                                <div class="dropdown inbox-dropdown dropdown-trigger is-right">
+                                    <div>
+                                        <button class="button">
+                                            <span class="icon is-small">
+                                                    <i data-feather="more-vertical"></i>
+                                                </span>
+                                        </button>
+                                    </div>
+                                    <div class="dropdown-menu">
+                                        <div class="dropdown-content">
+                                            <a class="dropdown-item">
+                                                <i data-feather="check"></i>
+                                                <span>Mark all as read</span>
+                                            </a>
+                                            <a class="dropdown-item">
+                                                <i data-feather="eye-off"></i>
+                                                <span>Hide read</span>
+                                            </a>
+                                            <hr class="dropdown-divider">
+                                            <a class="dropdown-item">
+                                                <i data-feather="calendar"></i>
+                                                <span>Sort by date</span>
+                                            </a>
+                                            <a class="dropdown-item">
+                                                <i data-feather="user"></i>
+                                                <span>Sort by user</span>
+                                            </a>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                        <!--Messages-->
+                        <div class="messages-list has-slimscroll">
+                            <!--messages list partial-->
+                            <!--Message-->
+                            <div class="inbox-message is-unread" data-message="message-2">
+                                <div class="message-checkbox">
+                                    <label class="checkbox is-outlined is-primary">
+                                        <input id="checkbox-mail-1" type="checkbox">
+                                        <span></span>
+                                    </label>
+                                </div>
+                                <div class="message-meta">
+                                    <span class="name">Jonathan Krugger</span>
+                                    <span class="email">&lt;jonathan@huro.io&gt;</span>
+                                    <span class="subject"><b>I couldn't catch up on last time's dinner</b></span>
+                                </div>
+                                <div class="pushed">
+                                    Oct 22
+                                </div>
+                            </div>
+                            <!--Message-->
+                            <div class="inbox-message is-selected" data-message="message-1">
+                                <div class="message-checkbox">
+                                    <label class="checkbox is-outlined is-primary">
+                                        <input id="checkbox-mail-2" type="checkbox">
+                                        <span></span>
+                                    </label>
+                                </div>
+                                <div class="message-meta">
+                                    <span class="name">Melany Wallace</span>
+                                    <span class="email">&lt;melany@huro.io&gt;</span>
+                                    <span class="subject">Important project review next thursday</span>
+                                </div>
+                                <div class="pushed">
+                                    Oct 21
+                                </div>
+                            </div>
+                            <!--Message-->
+                            <div class="inbox-message" data-message="message-3">
+                                <div class="message-checkbox">
+                                    <label class="checkbox is-outlined is-primary">
+                                        <input id="checkbox-mail-3" type="checkbox">
+                                        <span></span>
+                                    </label>
+                                </div>
+                                <div class="message-meta">
+                                    <span class="name">Greta Kroppfer</span>
+                                    <span class="email">&lt;greta@huro.io&gt;</span>
+                                    <span class="subject">Don't forget to send me those budget notes</span>
+                                </div>
+                                <div class="pushed">
+                                    Oct 20
+                                </div>
+                            </div>
+                            <!--Message-->
+                            <div class="inbox-message" data-message="message-4">
+                                <div class="message-checkbox">
+                                    <label class="checkbox is-outlined is-primary">
+                                        <input id="checkbox-mail-4" type="checkbox">
+                                        <span></span>
+                                    </label>
+                                </div>
+                                <div class="message-meta">
+                                    <span class="name">Elizabeth Fisher</span>
+                                    <span class="email">&lt;elizabeth@huro.io&gt;</span>
+                                    <span class="subject">Meeting with the new customer on Monday</span>
+                                </div>
+                                <div class="pushed">
+                                    Oct 19
+                                </div>
+                            </div>
+                            <!--Message-->
+                            <div class="inbox-message" data-message="message-5">
+                                <div class="message-checkbox">
+                                    <label class="checkbox is-outlined is-primary">
+                                        <input id="checkbox-mail-5" type="checkbox">
+                                        <span></span>
+                                    </label>
+                                </div>
+                                <div class="message-meta">
+                                    <span class="name">Carmen Escudero</span>
+                                    <span class="email">&lt;carmen@huro.io&gt;</span>
+                                    <span class="subject">I got some new delightful stuff that you absolutely must see</span>
+                                </div>
+                                <div class="pushed">
+                                    Oct 19
+                                </div>
+                            </div>
+                            <!--Message-->
+                            <div class="inbox-message" data-message="message-6">
+                                <div class="message-checkbox">
+                                    <label class="checkbox is-outlined is-primary">
+                                        <input id="checkbox-mail-6" type="checkbox">
+                                        <span></span>
+                                    </label>
+                                </div>
+                                <div class="message-meta">
+                                    <span class="name">Irina Vierbovsky</span>
+                                    <span class="email">&lt;irina@huro.io&gt;</span>
+                                    <span class="subject">This month's lead generation report</span>
+                                </div>
+                                <div class="pushed">
+                                    Oct 18
+                                </div>
+                            </div>
+                            <!--Message-->
+                            <div class="inbox-message" data-message="message-7">
+                                <div class="message-checkbox">
+                                    <label class="checkbox is-outlined is-primary">
+                                        <input id="checkbox-mail-7" type="checkbox">
+                                        <span></span>
+                                    </label>
+                                </div>
+                                <div class="message-meta">
+                                    <span class="name">Alejandro Badajoz</span>
+                                    <span class="email">&lt;alejandro@huro.io&gt;</span>
+                                    <span class="subject">New design ideas from the user experience team</span>
+                                </div>
+                                <div class="pushed">
+                                    Oct 18
+                                </div>
+                            </div>
+                            <!--Message-->
+                            <div class="inbox-message" data-message="message-8">
+                                <div class="message-checkbox">
+                                    <label class="checkbox is-outlined is-primary">
+                                        <input id="checkbox-mail-8" type="checkbox">
+                                        <span></span>
+                                    </label>
+                                </div>
+                                <div class="message-meta">
+                                    <span class="name">Edouard Falant</span>
+                                    <span class="email">&lt;edouard@huro.io&gt;</span>
+                                    <span class="subject">Customer dashboard february bug report</span>
+                                </div>
+                                <div class="pushed">
+                                    Oct 17
+                                </div>
+                            </div>
+                            <!--Message-->
+                            <div class="inbox-message" data-message="message-9">
+                                <div class="message-checkbox">
+                                    <label class="checkbox is-outlined is-primary">
+                                        <input id="checkbox-mail-9" type="checkbox">
+                                        <span></span>
+                                    </label>
+                                </div>
+                                <div class="message-meta">
+                                    <span class="name">Sandrine Coulart</span>
+                                    <span class="email">&lt;sandrine@huro.io&gt;</span>
+                                    <span class="subject">You didn't answer my last email !</span>
+                                </div>
+                                <div class="pushed">
+                                    Oct 17
+                                </div>
+                            </div>
+                            <!--Message-->
+                            <div class="inbox-message" data-message="message-10">
+                                <div class="message-checkbox">
+                                    <label class="checkbox is-outlined is-primary">
+                                        <input id="checkbox-mail-10" type="checkbox">
+                                        <span></span>
+                                    </label>
+                                </div>
+                                <div class="message-meta">
+                                    <span class="name">Kelly Marston</span>
+                                    <span class="email">&lt;kelly@huro.io&gt;</span>
+                                    <span class="subject">Hop in for the next project review</span>
+                                </div>
+                                <div class="pushed">
+                                    Oct 16
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+
+                    <!--Loader-->
+                    <div class="inbox-message-overlay">
+                        <div class="loader is-loading"></div>
+                    </div>
+
+                    <!--Message details 1-->
+                    <!-- Message details -->
+                    <div id="message-1" class="inbox-message-details">
+                        <div class="header-area">
+                            <img class="sender-pic" src="https://via.placeholder.com/150x150" data-demo-src="assets/img/avatars/photos/25.jpg" alt="">
+                            <div class="message-meta">
+                                <span class="message-title">Important project review next thursday</span>
+                                <span class="sender-email">&lt;melany@huro.io&gt;</span>
+                            </div>
+                            <div class="attachments inbox-hidden-mobile">
+                                <i data-feather="paperclip"></i>
+                                <span>2</span>
+                            </div>
+                            <div class="dropdown inbox-dropdown dropdown-trigger is-right">
+                                <div>
+                                    <button class="button">
+                                        <span class="icon is-small">
+                                                <i data-feather="more-vertical"></i>
+                                            </span>
+                                    </button>
+                                </div>
+                                <div class="dropdown-menu">
+                                    <div class="dropdown-content">
+                                        <a class="dropdown-item">
+                                            <i data-feather="bookmark"></i>
+                                            <span>Bookmark</span>
+                                        </a>
+                                        <a class="dropdown-item">
+                                            <i data-feather="share-2"></i>
+                                            <span>Share message</span>
+                                        </a>
+                                        <hr class="dropdown-divider">
+                                        <a class="dropdown-item">
+                                            <i data-feather="thumbs-down"></i>
+                                            <span>Mark as spam</span>
+                                        </a>
+                                    </div>
+                                </div>
+                            </div>
+                            <a class="inbox-action inbox-close-details-mobile">
+                                <i data-feather="x"></i>
+                            </a>
+                        </div>
+                        <!--Message-->
+                        <div class="message-wrapper has-slimscroll">
+                            <div class="message-inner">
+                                <div class="message-head">
+                                    <div class="info">
+                                        <span>Sent on</span>
+                                        <span>Oct 21 2020, at 02:33pm</span>
+                                    </div>
+                                    <div class="message-actions">
+                                        <a class="inbox-action">
+                                            <i data-feather="corner-up-left"></i>
+                                        </a>
+                                        <a class="inbox-action">
+                                            <i data-feather="file-text"></i>
+                                        </a>
+                                        <a class="inbox-action">
+                                            <i data-feather="tag"></i>
+                                        </a>
+                                        <a class="inbox-action">
+                                            <i data-feather="message-circle"></i>
+                                        </a>
+                                        <a class="inbox-action">
+                                            <i data-feather="lock"></i>
+                                        </a>
+                                    </div>
+                                </div>
+                                <!--Mail Content-->
+                                <div class="mail-content content">
+                                    <p>Hey man,</p>
+                                    <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Haec igitur Epicuri non probo, inquam. Nihil
+                                        sane.
+                                        <b>Efficiens dici potest.</b> <i>Urgent tamen et nihil remittunt.</i> Ea possunt paria non esse. Duo
+                                        Reges:
+                                        constructio interrete. </p>
+                                    <ul>
+                                        <li>Ab his oratores, ab his imperatores ac rerum publicarum principes extiterunt.</li>
+                                        <li>Eiuro, inquit adridens, iniquum, hac quidem de re;</li>
+                                    </ul>
+                                    <p>Tum Triarius: Posthac quidem, inquit, audacius. Quodsi ipsam honestatem undique pertectam atque
+                                        absolutam.
+                                        Comprehensum, quod cognitum non habet? </p>
+                                    <p><i>Nonne igitur tibi videntur, inquit, mala?</i> Poterat autem inpune; Nunc omni virtuti vitium
+                                        contrario nomine
+                                        opponitur. </p>
+                                    <p>Sincerely,</p>
+                                    <p>Melany Wallace - Cofounder</p>
+                                </div>
+
+                                <!-- Attachments -->
+                                <div class="attachments-list">
+                                    <div class="attachment">
+                                        <span>budget_draft.xlsx</span>
+                                        <div class="download-icon">
+                                            <i data-feather="arrow-down"></i>
+                                        </div>
+                                    </div>
+                                    <div class="attachment">
+                                        <span>project-notes.docx</span>
+                                        <div class="download-icon">
+                                            <i data-feather="arrow-down"></i>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+
+                            <!--Reply-->
+                            <div class="reply-box-wrap">
+                                <div class="reply-bubble">
+                                    <div class="reply-as">
+                                        <img src="https://via.placeholder.com/150x150" data-demo-src="assets/img/avatars/photos/8.jpg" alt="">
+                                        <div class="reply-details">
+                                            <span>Reply as</span>
+                                            <span>erik@huro.io</span>
+                                        </div>
+                                        <div class="dropdown inbox-dropdown dropdown-trigger is-right">
+                                            <div>
+                                                <button class="button">
+                                                    <span class="icon is-small">
+                                                            <i data-feather="more-vertical"></i>
+                                                        </span>
+                                                </button>
+                                            </div>
+                                            <div class="dropdown-menu">
+                                                <div class="dropdown-content">
+                                                    <a class="dropdown-item">
+                                                        <i data-feather="refresh-cw"></i>
+                                                        <span>Reset</span>
+                                                    </a>
+                                                    <a class="dropdown-item">
+                                                        <i data-feather="align-left"></i>
+                                                        <span>Spelling</span>
+                                                    </a>
+                                                    <a class="dropdown-item">
+                                                        <i data-feather="at-sign"></i>
+                                                        <span>Mention</span>
+                                                    </a>
+                                                </div>
+                                            </div>
+                                        </div>
+                                    </div>
+                                    <!--textarea-->
+                                    <div class="control">
+                                        <textarea class="textarea" rows="6" placeholder="Type your message..."></textarea>
+                                        <button type="button" class="button">Send Message</button>
+                                    </div>
+                                </div>
+                            </div>
+
+                        </div>
+                    </div>
+                    <!--Message details 2-->
+                    <!-- Message details -->
+                    <div id="message-2" class="inbox-message-details is-hidden">
+                        <div class="header-area">
+                            <img class="sender-pic" src="https://via.placeholder.com/150x150" data-demo-src="assets/img/avatars/photos/32.jpg" alt="">
+                            <div class="message-meta">
+                                <span class="message-title">I couldn't catch up on last time's dinner</span>
+                                <span class="sender-email">&lt;jonathan@huro.io&gt;</span>
+                            </div>
+                            <div class="attachments inbox-hidden-mobile">
+                                <i data-feather="paperclip"></i>
+                                <span>4</span>
+                            </div>
+                            <div class="dropdown inbox-dropdown dropdown-trigger is-right">
+                                <div>
+                                    <button class="button">
+                                        <span class="icon is-small">
+                                                <i data-feather="more-vertical"></i>
+                                            </span>
+                                    </button>
+                                </div>
+                                <div class="dropdown-menu">
+                                    <div class="dropdown-content">
+                                        <a class="dropdown-item">
+                                            <i data-feather="bookmark"></i>
+                                            <span>Bookmark</span>
+                                        </a>
+                                        <a class="dropdown-item">
+                                            <i data-feather="share-2"></i>
+                                            <span>Share message</span>
+                                        </a>
+                                        <hr class="dropdown-divider">
+                                        <a class="dropdown-item">
+                                            <i data-feather="thumbs-down"></i>
+                                            <span>Mark as spam</span>
+                                        </a>
+                                    </div>
+                                </div>
+                            </div>
+                            <a class="inbox-action inbox-close-details-mobile">
+                                <i data-feather="x"></i>
+                            </a>
+                        </div>
+                        <!--Message-->
+                        <div class="message-wrapper has-slimscroll">
+                            <div class="message-inner">
+                                <div class="message-head">
+                                    <div class="info">
+                                        <span>Sent on</span>
+                                        <span>Oct 22 2020, at 09:17am</span>
+                                    </div>
+                                    <div class="message-actions">
+                                        <a class="inbox-action">
+                                            <i data-feather="corner-up-left"></i>
+                                        </a>
+                                        <a class="inbox-action">
+                                            <i data-feather="file-text"></i>
+                                        </a>
+                                        <a class="inbox-action">
+                                            <i data-feather="tag"></i>
+                                        </a>
+                                        <a class="inbox-action">
+                                            <i data-feather="message-circle"></i>
+                                        </a>
+                                        <a class="inbox-action">
+                                            <i data-feather="lock"></i>
+                                        </a>
+                                    </div>
+                                </div>
+                                <!--Mail Content-->
+                                <div class="mail-content content">
+                                    <p>Hello dude,</p>
+                                    <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Quare conare, quaeso. Prave, nequiter,
+                                        turpiter cenabat;
+                                        <i>Quid igitur, inquit, eos responsuros putas?</i> Erit enim mecum, si tecum erit. </p>
+                                    <p>Ratio enim nostra consentit, pugnat oratio. Age sane, inquam. Duo Reges: constructio interrete.
+                                        Beatus sibi videtur
+                                        esse moriens. Sed ego in hoc resisto; <i>Idemne, quod iucunde?</i> </p>
+                                    <p><b>Tamen a proposito, inquam, aberramus.</b> Quid de Pythagora? </p>
+                                    <p>Cur deinde Metrodori liberos commendas? Non dolere, inquam, istud quam vim habeat postea videro;
+                                        Pauca mutat vel
+                                        plura sane; Quamquam ab iis philosophiam et omnes ingenuas disciplinas habemus; </p>
+
+                                    <p>Elie Daniels</p>
+                                </div>
+
+                                <!-- Attachments -->
+                                <div class="attachments-list">
+                                    <div class="attachment">
+                                        <span>presentation.ppt</span>
+                                        <div class="download-icon">
+                                            <i data-feather="arrow-down"></i>
+                                        </div>
+                                    </div>
+                                    <div class="attachment">
+                                        <span>venue-1.jpg</span>
+                                        <div class="download-icon">
+                                            <i data-feather="arrow-down"></i>
+                                        </div>
+                                    </div>
+                                    <div class="attachment">
+                                        <span>venue-2.jpg</span>
+                                        <div class="download-icon">
+                                            <i data-feather="arrow-down"></i>
+                                        </div>
+                                    </div>
+                                    <div class="attachment">
+                                        <span>venue-3.jpg</span>
+                                        <div class="download-icon">
+                                            <i data-feather="arrow-down"></i>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+
+                            <!--Reply-->
+                            <div class="reply-box-wrap">
+                                <div class="reply-bubble">
+                                    <div class="reply-as">
+                                        <img src="https://via.placeholder.com/150x150" data-demo-src="assets/img/avatars/photos/8.jpg" alt="">
+                                        <div class="reply-details">
+                                            <span>Reply as</span>
+                                            <span>erik@huro.io</span>
+                                        </div>
+                                        <div class="dropdown inbox-dropdown dropdown-trigger is-right">
+                                            <div>
+                                                <button class="button">
+                                                    <span class="icon is-small">
+                                                            <i data-feather="more-vertical"></i>
+                                                        </span>
+                                                </button>
+                                            </div>
+                                            <div class="dropdown-menu">
+                                                <div class="dropdown-content">
+                                                    <a class="dropdown-item">
+                                                        <i data-feather="refresh-cw"></i>
+                                                        <span>Reset</span>
+                                                    </a>
+                                                    <a class="dropdown-item">
+                                                        <i data-feather="align-left"></i>
+                                                        <span>Spelling</span>
+                                                    </a>
+                                                    <a class="dropdown-item">
+                                                        <i data-feather="at-sign"></i>
+                                                        <span>Mention</span>
+                                                    </a>
+                                                </div>
+                                            </div>
+                                        </div>
+                                    </div>
+                                    <!--textarea-->
+                                    <div class="control">
+                                        <textarea class="textarea" rows="6" placeholder="Type your message..."></textarea>
+                                        <button type="button" class="button">Send Message</button>
+                                    </div>
+                                </div>
+                            </div>
+
+                        </div>
+                    </div>
+                    <!--Message details 3-->
+                    <!-- Message details -->
+                    <div id="message-3" class="inbox-message-details is-hidden">
+                        <div class="header-area">
+                            <img class="sender-pic" src="https://via.placeholder.com/150x150" data-demo-src="assets/img/avatars/photos/19.jpg" alt="">
+                            <div class="message-meta">
+                                <span class="message-title">Don't forget to send me those budget notes</span>
+                                <span class="sender-email">&lt;greta@huro.io&gt;</span>
+                            </div>
+                            <div class="attachments is-vhidden inbox-hidden-mobile">
+                                <i data-feather="paperclip"></i>
+                                <span>2</span>
+                            </div>
+                            <div class="dropdown inbox-dropdown dropdown-trigger is-right">
+                                <div>
+                                    <button class="button">
+                                        <span class="icon is-small">
+                                                <i data-feather="more-vertical"></i>
+                                            </span>
+                                    </button>
+                                </div>
+                                <div class="dropdown-menu">
+                                    <div class="dropdown-content">
+                                        <a class="dropdown-item">
+                                            <i data-feather="bookmark"></i>
+                                            <span>Bookmark</span>
+                                        </a>
+                                        <a class="dropdown-item">
+                                            <i data-feather="share-2"></i>
+                                            <span>Share message</span>
+                                        </a>
+                                        <hr class="dropdown-divider">
+                                        <a class="dropdown-item">
+                                            <i data-feather="thumbs-down"></i>
+                                            <span>Mark as spam</span>
+                                        </a>
+                                    </div>
+                                </div>
+                            </div>
+                            <a class="inbox-action inbox-close-details-mobile">
+                                <i data-feather="x"></i>
+                            </a>
+                        </div>
+                        <!--Message-->
+                        <div class="message-wrapper has-slimscroll">
+                            <div class="message-inner">
+                                <div class="message-head">
+                                    <div class="info">
+                                        <span>Sent on</span>
+                                        <span>Oct 20 2020, at 08:43am</span>
+                                    </div>
+                                    <div class="message-actions">
+                                        <a class="inbox-action">
+                                            <i data-feather="corner-up-left"></i>
+                                        </a>
+                                        <a class="inbox-action">
+                                            <i data-feather="file-text"></i>
+                                        </a>
+                                        <a class="inbox-action">
+                                            <i data-feather="tag"></i>
+                                        </a>
+                                        <a class="inbox-action">
+                                            <i data-feather="message-circle"></i>
+                                        </a>
+                                        <a class="inbox-action">
+                                            <i data-feather="lock"></i>
+                                        </a>
+                                    </div>
+                                </div>
+                                <!--Mail Content-->
+                                <div class="mail-content content">
+                                    <p>Hi Erik,</p>
+                                    <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suo genere perveniant ad extremum; Non potes, nisi
+                                        retexueris illa. </p>
+                                    <ul>
+                                        <li>Si id dicis, vicimus.</li>
+                                        <li>Roges enim Aristonem, bonane ei videantur haec: vacuitas doloris, divitiae, valitudo;</li>
+                                        <li>Sed ille, ut dixi, vitiose.</li>
+                                        <li>Nam, ut paulo ante docui, augendae voluptatis finis est doloris omnis amotio.</li>
+                                        <li>Nam, ut saepe iam dixi, in infirma aetate inbecillaque mente vis naturae quasi per caliginem cernitur;</li>
+                                    </ul>
+                                    <p><mark>Deinde disputat, quod cuiusque generis animantium statui deceat extremum.</mark> Ne amores quidem sanctos a
+                                        sapiente alienos esse arbitrantur. Qui est in parvis malis. Sit enim idem caecus, debilis. Hic nihil fuit, quod
+                                        quaereremus. </p>
+                                    <p>Negat esse eam, inquit, propter se expetendam. Collatio igitur ista te nihil iuvat. Rationis enim perfectio est
+                                        virtus; At certe gravius. Laboro autem non sine causa; Nam Pyrrho, Aristo, Erillus iam diu abiecti. </p>
+                                    <p>Nam quid possumus facere melius? Primum divisit ineleganter; Duo Reges: constructio interrete. Erat enim Polemonis.
+                                        Equidem e Cn. </p>
+
+
+                                    <p>Greta Kroppfer</p>
+                                </div>
+                            </div>
+
+                            <!--Reply-->
+                            <div class="reply-box-wrap">
+                                <div class="reply-bubble">
+                                    <div class="reply-as">
+                                        <img src="https://via.placeholder.com/150x150" data-demo-src="assets/img/avatars/photos/8.jpg" alt="">
+                                        <div class="reply-details">
+                                            <span>Reply as</span>
+                                            <span>erik@huro.io</span>
+                                        </div>
+                                        <div class="dropdown inbox-dropdown dropdown-trigger is-right">
+                                            <div>
+                                                <button class="button">
+                                                    <span class="icon is-small">
+                                                            <i class="sl sl-icon-options"></i>
+                                                        </span>
+                                                </button>
+                                            </div>
+                                            <div class="dropdown-menu">
+                                                <div class="dropdown-content">
+                                                    <a class="dropdown-item">
+                                                        <i data-feather="refresh-cw"></i>
+                                                        <span>Reset</span>
+                                                    </a>
+                                                    <a class="dropdown-item">
+                                                        <i data-feather="align-left"></i>
+                                                        <span>Spelling</span>
+                                                    </a>
+                                                    <a class="dropdown-item">
+                                                        <i data-feather="at-sign"></i>
+                                                        <span>Mention</span>
+                                                    </a>
+                                                </div>
+                                            </div>
+                                        </div>
+                                    </div>
+                                    <!--textarea-->
+                                    <div class="control">
+                                        <textarea class="textarea" rows="6" placeholder="Type your message..."></textarea>
+                                        <button type="button" class="button">Send Message</button>
+                                    </div>
+                                </div>
+                            </div>
+
+                        </div>
+                    </div>
+                    <!--Message details 4-->
+                    <!-- Message details -->
+                    <div id="message-4" class="inbox-message-details is-hidden">
+                        <div class="header-area">
+                            <img class="sender-pic" src="https://via.placeholder.com/150x150" data-demo-src="assets/img/avatars/photos/21.jpg" alt="">
+                            <div class="message-meta">
+                                <span class="message-title">Meeting with the new customer on Monday</span>
+                                <span class="sender-email">&lt;elizabeth@huro.io&gt;</span>
+                            </div>
+                            <div class="attachments is-vhidden inbox-hidden-mobile">
+                                <i data-feather="paperclip"></i>
+                                <span>0</span>
+                            </div>
+                            <div class="dropdown inbox-dropdown dropdown-trigger is-right">
+                                <div>
+                                    <button class="button">
+                                        <span class="icon is-small">
+                                                <i data-feather="more-vertical"></i>
+                                            </span>
+                                    </button>
+                                </div>
+                                <div class="dropdown-menu">
+                                    <div class="dropdown-content">
+                                        <a class="dropdown-item">
+                                            <i data-feather="bookmark"></i>
+                                            <span>Bookmark</span>
+                                        </a>
+                                        <a class="dropdown-item">
+                                            <i data-feather="share-2"></i>
+                                            <span>Share message</span>
+                                        </a>
+                                        <hr class="dropdown-divider">
+                                        <a class="dropdown-item">
+                                            <i data-feather="thumbs-down"></i>
+                                            <span>Mark as spam</span>
+                                        </a>
+                                    </div>
+                                </div>
+                            </div>
+                            <a class="inbox-action inbox-close-details-mobile">
+                                <i data-feather="x"></i>
+                            </a>
+                        </div>
+                        <!--Message-->
+                        <div class="message-wrapper has-slimscroll">
+                            <div class="message-inner">
+                                <div class="message-head">
+                                    <div class="info">
+                                        <span>Sent on</span>
+                                        <span>Oct 19 2020, at 04:27pm</span>
+                                    </div>
+                                    <div class="message-actions">
+                                        <a class="inbox-action">
+                                            <i data-feather="corner-up-left"></i>
+                                        </a>
+                                        <a class="inbox-action">
+                                            <i data-feather="file-text"></i>
+                                        </a>
+                                        <a class="inbox-action">
+                                            <i data-feather="tag"></i>
+                                        </a>
+                                        <a class="inbox-action">
+                                            <i data-feather="message-circle"></i>
+                                        </a>
+                                        <a class="inbox-action">
+                                            <i data-feather="lock"></i>
+                                        </a>
+                                    </div>
+                                </div>
+                                <!--Mail Content-->
+                                <div class="mail-content content">
+                                    <p>Hi Mr. Kovalsky,</p>
+                                    <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nos commodius agimus. Si longus, levis; <a href="#" target="_blank">Summum ením bonum exposuit vacuitatem doloris;</a> Eadem
+                                        fortitudinis ratio reperietur. Duo Reges: constructio interrete. Facile est hoc cernere in primis puerorum
+                                        aetatulis. </p>
+                                    <ul>
+                                        <li>Sed residamus, inquit, si placet.</li>
+                                        <li>Parvi enim primo ortu sic iacent, tamquam omnino sine animo sint.</li>
+                                        <li>Beatus autem esse in maximarum rerum timore nemo potest.</li>
+                                        <li>Illa argumenta propria videamus, cur omnia sint paria peccata.</li>
+                                    </ul>
+
+                                    <p>Elizabeth</p>
+                                </div>
+                            </div>
+
+                            <!--Reply-->
+                            <div class="reply-box-wrap">
+                                <div class="reply-bubble">
+                                    <div class="reply-as">
+                                        <img src="https://via.placeholder.com/150x150" data-demo-src="assets/img/avatars/photos/8.jpg" alt="">
+                                        <div class="reply-details">
+                                            <span>Reply as</span>
+                                            <span>erik@huro.io</span>
+                                        </div>
+                                        <div class="dropdown inbox-dropdown dropdown-trigger is-right">
+                                            <div>
+                                                <button class="button">
+                                                    <span class="icon is-small">
+                                                            <i class="sl sl-icon-options"></i>
+                                                        </span>
+                                                </button>
+                                            </div>
+                                            <div class="dropdown-menu">
+                                                <div class="dropdown-content">
+                                                    <a class="dropdown-item">
+                                                        <i data-feather="refresh-cw"></i>
+                                                        <span>Reset</span>
+                                                    </a>
+                                                    <a class="dropdown-item">
+                                                        <i data-feather="align-left"></i>
+                                                        <span>Spelling</span>
+                                                    </a>
+                                                    <a class="dropdown-item">
+                                                        <i data-feather="at-sign"></i>
+                                                        <span>Mention</span>
+                                                    </a>
+                                                </div>
+                                            </div>
+                                        </div>
+                                    </div>
+                                    <!--textarea-->
+                                    <div class="control">
+                                        <textarea class="textarea" rows="6" placeholder="Type your message..."></textarea>
+                                        <button type="button" class="button">Send Message</button>
+                                    </div>
+                                </div>
+                            </div>
+
+                        </div>
+                    </div>
+                    <!--Message details 5-->
+                    <!-- Message details -->
+                    <div id="message-5" class="inbox-message-details is-hidden">
+                        <div class="header-area">
+                            <img class="sender-pic" src="https://via.placeholder.com/150x150" data-demo-src="assets/img/avatars/photos/27.jpg" alt="">
+                            <div class="message-meta">
+                                <span class="message-title">I got some new delightful stuff that you absolutely must see</span>
+                                <span class="sender-email">&lt;carmen@huro.io&gt;</span>
+                            </div>
+                            <div class="attachments inbox-hidden-mobile">
+                                <i data-feather="paperclip"></i>
+                                <span>2</span>
+                            </div>
+                            <div class="dropdown inbox-dropdown dropdown-trigger is-right">
+                                <div>
+                                    <button class="button">
+                                        <span class="icon is-small">
+                                                <i data-feather="more-vertical"></i>
+                                            </span>
+                                    </button>
+                                </div>
+                                <div class="dropdown-menu">
+                                    <div class="dropdown-content">
+                                        <a class="dropdown-item">
+                                            <i data-feather="bookmark"></i>
+                                            <span>Bookmark</span>
+                                        </a>
+                                        <a class="dropdown-item">
+                                            <i data-feather="share-2"></i>
+                                            <span>Share message</span>
+                                        </a>
+                                        <hr class="dropdown-divider">
+                                        <a class="dropdown-item">
+                                            <i data-feather="thumbs-down"></i>
+                                            <span>Mark as spam</span>
+                                        </a>
+                                    </div>
+                                </div>
+                            </div>
+                            <a class="inbox-action inbox-close-details-mobile">
+                                <i data-feather="x"></i>
+                            </a>
+                        </div>
+                        <!--Message-->
+                        <div class="message-wrapper has-slimscroll">
+                            <div class="message-inner">
+                                <div class="message-head">
+                                    <div class="info">
+                                        <span>Sent on</span>
+                                        <span>Oct 19 2020, at 07:48pm</span>
+                                    </div>
+                                    <div class="message-actions">
+                                        <a class="inbox-action">
+                                            <i data-feather="corner-up-left"></i>
+                                        </a>
+                                        <a class="inbox-action">
+                                            <i data-feather="file-text"></i>
+                                        </a>
+                                        <a class="inbox-action">
+                                            <i data-feather="tag"></i>
+                                        </a>
+                                        <a class="inbox-action">
+                                            <i data-feather="message-circle"></i>
+                                        </a>
+                                        <a class="inbox-action">
+                                            <i data-feather="lock"></i>
+                                        </a>
+                                    </div>
+                                </div>
+                                <!--Mail Content-->
+                                <div class="mail-content content">
+                                    <p>Hey Erik,</p>
+                                    <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nos commodius agimus. Si longus, levis; <a href="http://loripsum.net/" target="_blank">Summum ením bonum exposuit vacuitatem doloris;</a> Eadem
+                                        fortitudinis ratio reperietur. Duo Reges: constructio interrete. Facile est hoc cernere in primis puerorum
+                                        aetatulis. </p>
+                                    <ul>
+                                        <li>Sed residamus, inquit, si placet.</li>
+                                        <li>Parvi enim primo ortu sic iacent, tamquam omnino sine animo sint.</li>
+                                        <li>Beatus autem esse in maximarum rerum timore nemo potest.</li>
+                                        <li>Illa argumenta propria videamus, cur omnia sint paria peccata.</li>
+                                    </ul>
+
+
+                                    <p>Just call me after work.</p>
+                                </div>
+
+                                <!-- Attachments -->
+                                <div class="attachments-list">
+                                    <div class="attachment">
+                                        <span>stuff.png</span>
+                                        <div class="download-icon">
+                                            <i data-feather="arrow-down"></i>
+                                        </div>
+                                    </div>
+                                    <div class="attachment">
+                                        <span>cool_stuff.png</span>
+                                        <div class="download-icon">
+                                            <i data-feather="arrow-down"></i>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+
+                            <!--Reply-->
+                            <div class="reply-box-wrap">
+                                <div class="reply-bubble">
+                                    <div class="reply-as">
+                                        <img src="https://via.placeholder.com/150x150" data-demo-src="assets/img/avatars/photos/8.jpg" alt="">
+                                        <div class="reply-details">
+                                            <span>Reply as</span>
+                                            <span>erik@huro.io</span>
+                                        </div>
+                                        <div class="dropdown inbox-dropdown dropdown-trigger is-right">
+                                            <div>
+                                                <button class="button">
+                                                    <span class="icon is-small">
+                                                            <i data-feather="more-vertical"></i>
+                                                        </span>
+                                                </button>
+                                            </div>
+                                            <div class="dropdown-menu">
+                                                <div class="dropdown-content">
+                                                    <a class="dropdown-item">
+                                                        <i data-feather="refresh-cw"></i>
+                                                        <span>Reset</span>
+                                                    </a>
+                                                    <a class="dropdown-item">
+                                                        <i data-feather="align-left"></i>
+                                                        <span>Spelling</span>
+                                                    </a>
+                                                    <a class="dropdown-item">
+                                                        <i data-feather="at-sign"></i>
+                                                        <span>Mention</span>
+                                                    </a>
+                                                </div>
+                                            </div>
+                                        </div>
+                                    </div>
+                                    <!--textarea-->
+                                    <div class="control">
+                                        <textarea class="textarea" rows="6" placeholder="Type your message..."></textarea>
+                                        <button type="button" class="button">Send Message</button>
+                                    </div>
+                                </div>
+                            </div>
+
+                        </div>
+                    </div>
+                    <!--Message details 6-->
+                    <!-- Message details -->
+                    <div id="message-6" class="inbox-message-details is-hidden">
+                        <div class="header-area">
+                            <img class="sender-pic" src="https://via.placeholder.com/150x150" data-demo-src="assets/img/avatars/photos/23.jpg" alt="">
+                            <div class="message-meta">
+                                <span class="message-title">This month's lead generation report</span>
+                                <span class="sender-email">&lt;irina@huro.io&gt;</span>
+                            </div>
+                            <div class="attachments inbox-hidden-mobile">
+                                <i data-feather="paperclip"></i>
+                                <span>1</span>
+                            </div>
+                            <div class="dropdown inbox-dropdown dropdown-trigger is-right">
+                                <div>
+                                    <button class="button">
+                                        <span class="icon is-small">
+                                                <i data-feather="more-vertical"></i>
+                                            </span>
+                                    </button>
+                                </div>
+                                <div class="dropdown-menu">
+                                    <div class="dropdown-content">
+                                        <a class="dropdown-item">
+                                            <i data-feather="bookmark"></i>
+                                            <span>Bookmark</span>
+                                        </a>
+                                        <a class="dropdown-item">
+                                            <i data-feather="share-2"></i>
+                                            <span>Share message</span>
+                                        </a>
+                                        <hr class="dropdown-divider">
+                                        <a class="dropdown-item">
+                                            <i data-feather="thumbs-down"></i>
+                                            <span>Mark as spam</span>
+                                        </a>
+                                    </div>
+                                </div>
+                            </div>
+                            <a class="inbox-action inbox-close-details-mobile">
+                                <i data-feather="x"></i>
+                            </a>
+                        </div>
+                        <!--Message-->
+                        <div class="message-wrapper has-slimscroll">
+                            <div class="message-inner">
+                                <div class="message-head">
+                                    <div class="info">
+                                        <span>Sent on</span>
+                                        <span>Oct 18 2020, at 11:12am</span>
+                                    </div>
+                                    <div class="message-actions">
+                                        <a class="inbox-action">
+                                            <i data-feather="corner-up-left"></i>
+                                        </a>
+                                        <a class="inbox-action">
+                                            <i data-feather="file-text"></i>
+                                        </a>
+                                        <a class="inbox-action">
+                                            <i data-feather="tag"></i>
+                                        </a>
+                                        <a class="inbox-action">
+                                            <i data-feather="message-circle"></i>
+                                        </a>
+                                        <a class="inbox-action">
+                                            <i data-feather="lock"></i>
+                                        </a>
+                                    </div>
+                                </div>
+                                <!--Mail Content-->
+                                <div class="mail-content content">
+                                    <p>Hi,</p>
+                                    <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. <mark>Quam nemo umquam voluptatem
+                                            appellavit,
+                                            appellat;</mark> <mark>Sequitur disserendi ratio cognitioque naturae;</mark> Ea possunt paria
+                                        non esse. Poterat
+                                        autem inpune; </p>
+                                    <ul>
+                                        <li>Urgent tamen et nihil remittunt.</li>
+                                        <li>Miserum hominem! Si dolor summum malum est, dici aliter non potest.</li>
+                                        <li>Quid igitur dubitamus in tota eius natura quaerere quid sit effectum?</li>
+                                    </ul>
+                                    <p><a href="http://loripsum.net/" target="_blank">Duo Reges: constructio interrete.</a> Satis est ad hoc
+                                        responsum.
+                                        Primum in nostrane potestate est, quid meminerimus? <a href="http://loripsum.net/" target="_blank">Nihil sane.</a>
+                                        <a href="http://loripsum.net/" target="_blank">Sit sane ista voluptas.</a> </p>
+
+                                    <p>Let me know when you have time to read it.</p>
+                                </div>
+
+                                <!-- Attachments -->
+                                <div class="attachments-list">
+                                    <div class="attachment">
+                                        <span>lead-report_february.pdf</span>
+                                        <div class="download-icon">
+                                            <i data-feather="arrow-down"></i>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+
+                            <!--Reply-->
+                            <div class="reply-box-wrap">
+                                <div class="reply-bubble">
+                                    <div class="reply-as">
+                                        <img src="https://via.placeholder.com/150x150" data-demo-src="assets/img/avatars/photos/8.jpg" alt="">
+                                        <div class="reply-details">
+                                            <span>Reply as</span>
+                                            <span>erik@huro.io</span>
+                                        </div>
+                                        <div class="dropdown inbox-dropdown dropdown-trigger is-right">
+                                            <div>
+                                                <button class="button">
+                                                    <span class="icon is-small">
+                                                            <i data-feather="more-vertical"></i>
+                                                        </span>
+                                                </button>
+                                            </div>
+                                            <div class="dropdown-menu">
+                                                <div class="dropdown-content">
+                                                    <a class="dropdown-item">
+                                                        <i data-feather="refresh-cw"></i>
+                                                        <span>Reset</span>
+                                                    </a>
+                                                    <a class="dropdown-item">
+                                                        <i data-feather="align-left"></i>
+                                                        <span>Spelling</span>
+                                                    </a>
+                                                    <a class="dropdown-item">
+                                                        <i data-feather="at-sign"></i>
+                                                        <span>Mention</span>
+                                                    </a>
+                                                </div>
+                                            </div>
+                                        </div>
+                                    </div>
+                                    <!--textarea-->
+                                    <div class="control">
+                                        <textarea class="textarea" rows="6" placeholder="Type your message..."></textarea>
+                                        <button type="button" class="button">Send Message</button>
+                                    </div>
+                                </div>
+                            </div>
+
+                        </div>
+                    </div>
+                    <!--Message details 7-->
+                    <!-- Message details -->
+                    <div id="message-7" class="inbox-message-details is-hidden">
+                        <div class="header-area">
+                            <img class="sender-pic" src="https://via.placeholder.com/150x150" data-demo-src="assets/img/avatars/photos/39.jpg" alt="">
+                            <div class="message-meta">
+                                <span class="message-title">New design ideas from the user experience team</span>
+                                <span class="sender-email">&lt;alejandro@huro.io&gt;</span>
+                            </div>
+                            <div class="attachments inbox-hidden-mobile">
+                                <i data-feather="paperclip"></i>
+                                <span>2</span>
+                            </div>
+                            <div class="dropdown inbox-dropdown dropdown-trigger is-right">
+                                <div>
+                                    <button class="button">
+                                        <span class="icon is-small">
+                                                <i data-feather="more-vertical"></i>
+                                            </span>
+                                    </button>
+                                </div>
+                                <div class="dropdown-menu">
+                                    <div class="dropdown-content">
+                                        <a class="dropdown-item">
+                                            <i data-feather="bookmark"></i>
+                                            <span>Bookmark</span>
+                                        </a>
+                                        <a class="dropdown-item">
+                                            <i data-feather="share-2"></i>
+                                            <span>Share message</span>
+                                        </a>
+                                        <hr class="dropdown-divider">
+                                        <a class="dropdown-item">
+                                            <i data-feather="thumbs-down"></i>
+                                            <span>Mark as spam</span>
+                                        </a>
+                                    </div>
+                                </div>
+                            </div>
+                            <a class="inbox-action inbox-close-details-mobile">
+                                <i data-feather="x"></i>
+                            </a>
+                        </div>
+                        <!--Message-->
+                        <div class="message-wrapper has-slimscroll">
+                            <div class="message-inner">
+                                <div class="message-head">
+                                    <div class="info">
+                                        <span>Sent on</span>
+                                        <span>Oct 18 2020, at 10:16am</span>
+                                    </div>
+                                    <div class="message-actions">
+                                        <a class="inbox-action">
+                                            <i data-feather="corner-up-left"></i>
+                                        </a>
+                                        <a class="inbox-action">
+                                            <i data-feather="file-text"></i>
+                                        </a>
+                                        <a class="inbox-action">
+                                            <i data-feather="tag"></i>
+                                        </a>
+                                        <a class="inbox-action">
+                                            <i data-feather="message-circle"></i>
+                                        </a>
+                                        <a class="inbox-action">
+                                            <i data-feather="lock"></i>
+                                        </a>
+                                    </div>
+                                </div>
+                                <!--Mail Content-->
+                                <div class="mail-content content">
+                                    <p>Hey Erik,</p>
+                                    <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Quid adiuvas? Philosophi autem in suis lectulis plerumque
+                                        moriuntur. Reguli reiciendam; Si autem id non concedatur, non continuo vita beata tollitur. <mark>Quod quidem nobis
+                                            non saepe contingit.</mark> </p>
+                                    <p><a href="http://loripsum.net/" target="_blank">Illa tamen simplicia, vestra versuta.</a> Ea possunt paria non esse.
+                                        Quid adiuvas? Praeclarae mortes sunt imperatoriae; </p>
+                                    <ul>
+                                        <li>Si enim ita est, vide ne facinus facias, cum mori suadeas.</li>
+                                        <li>In eo enim positum est id, quod dicimus esse expetendum.</li>
+                                        <li>Minime id quidem, inquam, alienum, multumque ad ea, quae quaerimus, explicatio tua ista profecerit.</li>
+                                        <li>Quae qui non vident, nihil umquam magnum ac cognitione dignum amaverunt.</li>
+                                    </ul>
+                                    <p>Duo Reges: constructio interrete. Qui est in parvis malis. Paria sunt igitur. </p>
+
+                                    <p>Alejandro</p>
+                                </div>
+
+                                <!-- Attachments -->
+                                <div class="attachments-list">
+                                    <div class="attachment">
+                                        <span>landing-page.png</span>
+                                        <div class="download-icon">
+                                            <i data-feather="arrow-down"></i>
+                                        </div>
+                                    </div>
+                                    <div class="attachment">
+                                        <span>dashboard.png</span>
+                                        <div class="download-icon">
+                                            <i data-feather="arrow-down"></i>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+
+                            <!--Reply-->
+                            <div class="reply-box-wrap">
+                                <div class="reply-bubble">
+                                    <div class="reply-as">
+                                        <img src="https://via.placeholder.com/150x150" data-demo-src="assets/img/avatars/photos/8.jpg" alt="">
+                                        <div class="reply-details">
+                                            <span>Reply as</span>
+                                            <span>erik@huro.io</span>
+                                        </div>
+                                        <div class="dropdown inbox-dropdown dropdown-trigger is-right">
+                                            <div>
+                                                <button class="button">
+                                                    <span class="icon is-small">
+                                                            <i data-feather="more-vertical"></i>
+                                                        </span>
+                                                </button>
+                                            </div>
+                                            <div class="dropdown-menu">
+                                                <div class="dropdown-content">
+                                                    <a class="dropdown-item">
+                                                        <i data-feather="refresh-cw"></i>
+                                                        <span>Reset</span>
+                                                    </a>
+                                                    <a class="dropdown-item">
+                                                        <i data-feather="align-left"></i>
+                                                        <span>Spelling</span>
+                                                    </a>
+                                                    <a class="dropdown-item">
+                                                        <i data-feather="at-sign"></i>
+                                                        <span>Mention</span>
+                                                    </a>
+                                                </div>
+                                            </div>
+                                        </div>
+                                    </div>
+                                    <!--textarea-->
+                                    <div class="control">
+                                        <textarea class="textarea" rows="6" placeholder="Type your message..."></textarea>
+                                        <button type="button" class="button">Send Message</button>
+                                    </div>
+                                </div>
+                            </div>
+
+                        </div>
+                    </div>
+                    <!--Message details 8-->
+                    <!-- Message details -->
+                    <div id="message-8" class="inbox-message-details is-hidden">
+                        <div class="header-area">
+                            <img class="sender-pic" src="https://via.placeholder.com/150x150" data-demo-src="assets/img/avatars/photos/28.jpg" alt="">
+                            <div class="message-meta">
+                                <span class="message-title">Customer dashboard february bug report</span>
+                                <span class="sender-email">&lt;edouard@huro.io&gt;</span>
+                            </div>
+                            <div class="attachments inbox-hidden-mobile">
+                                <i data-feather="paperclip"></i>
+                                <span>1</span>
+                            </div>
+                            <div class="dropdown inbox-dropdown dropdown-trigger is-right">
+                                <div>
+                                    <button class="button">
+                                        <span class="icon is-small">
+                                                <i data-feather="more-vertical"></i>
+                                            </span>
+                                    </button>
+                                </div>
+                                <div class="dropdown-menu">
+                                    <div class="dropdown-content">
+                                        <a class="dropdown-item">
+                                            <i data-feather="bookmark"></i>
+                                            <span>Bookmark</span>
+                                        </a>
+                                        <a class="dropdown-item">
+                                            <i data-feather="share-2"></i>
+                                            <span>Share message</span>
+                                        </a>
+                                        <hr class="dropdown-divider">
+                                        <a class="dropdown-item">
+                                            <i data-feather="thumbs-down"></i>
+                                            <span>Mark as spam</span>
+                                        </a>
+                                    </div>
+                                </div>
+                            </div>
+                            <a class="inbox-action inbox-close-details-mobile">
+                                <i data-feather="x"></i>
+                            </a>
+                        </div>
+                        <!--Message-->
+                        <div class="message-wrapper has-slimscroll">
+                            <div class="message-inner">
+                                <div class="message-head">
+                                    <div class="info">
+                                        <span>Sent on</span>
+                                        <span>Oct 17 2020, at 02:29pm</span>
+                                    </div>
+                                    <div class="message-actions">
+                                        <a class="inbox-action">
+                                            <i data-feather="corner-up-left"></i>
+                                        </a>
+                                        <a class="inbox-action">
+                                            <i data-feather="file-text"></i>
+                                        </a>
+                                        <a class="inbox-action">
+                                            <i data-feather="tag"></i>
+                                        </a>
+                                        <a class="inbox-action">
+                                            <i data-feather="message-circle"></i>
+                                        </a>
+                                        <a class="inbox-action">
+                                            <i data-feather="lock"></i>
+                                        </a>
+                                    </div>
+                                </div>
+                                <!--Mail Content-->
+                                <div class="mail-content content">
+                                    <p>Hi,</p>
+                                    <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. <a href="#" target="_blank">Nunc haec
+                                            primum fortasse audientis servire debemus.</a> At iste non dolendi status non vocatur voluptas. Quae duo sunt,
+                                        unum facit. Etiam beatissimum? Haec quo modo conveniant, non sane intellego. Duo Reges: constructio interrete. </p>
+                                    <ul>
+                                        <li>Nam Pyrrho, Aristo, Erillus iam diu abiecti.</li>
+                                        <li>Maximas vero virtutes iacere omnis necesse est voluptate dominante.</li>
+                                    </ul>
+
+                                    <p>Nick</p>
+                                </div>
+
+                                <!-- Attachments -->
+                                <div class="attachments-list">
+                                    <div class="attachment">
+                                        <span>report.pdf</span>
+                                        <div class="download-icon">
+                                            <i data-feather="arrow-down"></i>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+
+                            <!--Reply-->
+                            <div class="reply-box-wrap">
+                                <div class="reply-bubble">
+                                    <div class="reply-as">
+                                        <img src="https://via.placeholder.com/150x150" data-demo-src="assets/img/avatars/photos/8.jpg" alt="">
+                                        <div class="reply-details">
+                                            <span>Reply as</span>
+                                            <span>erik@huro.io</span>
+                                        </div>
+                                        <div class="dropdown inbox-dropdown dropdown-trigger is-right">
+                                            <div>
+                                                <button class="button">
+                                                    <span class="icon is-small">
+                                                            <i data-feather="more-vertical"></i>
+                                                        </span>
+                                                </button>
+                                            </div>
+                                            <div class="dropdown-menu">
+                                                <div class="dropdown-content">
+                                                    <a class="dropdown-item">
+                                                        <i data-feather="refresh-cw"></i>
+                                                        <span>Reset</span>
+                                                    </a>
+                                                    <a class="dropdown-item">
+                                                        <i data-feather="align-left"></i>
+                                                        <span>Spelling</span>
+                                                    </a>
+                                                    <a class="dropdown-item">
+                                                        <i data-feather="at-sign"></i>
+                                                        <span>Mention</span>
+                                                    </a>
+                                                </div>
+                                            </div>
+                                        </div>
+                                    </div>
+                                    <!--textarea-->
+                                    <div class="control">
+                                        <textarea class="textarea" rows="6" placeholder="Type your message..."></textarea>
+                                        <button type="button" class="button">Send Message</button>
+                                    </div>
+                                </div>
+                            </div>
+
+                        </div>
+                    </div>
+                    <!--Message details 9-->
+                    <!-- Message details -->
+                    <div id="message-9" class="inbox-message-details is-hidden">
+                        <div class="header-area">
+                            <img class="sender-pic" src="https://via.placeholder.com/150x150" data-demo-src="assets/img/avatars/photos/24.jpg" alt="">
+                            <div class="message-meta">
+                                <span class="message-title">You didn't answer my last email !</span>
+                                <span class="sender-email">&lt;sandrine@huro.io&gt;</span>
+                            </div>
+                            <div class="attachments is-vhidden inbox-hidden-mobile">
+                                <i data-feather="paperclip"></i>
+                                <span>0</span>
+                            </div>
+                            <div class="dropdown inbox-dropdown dropdown-trigger is-right">
+                                <div>
+                                    <button class="button">
+                                        <span class="icon is-small">
+                                                <i data-feather="more-vertical"></i>
+                                            </span>
+                                    </button>
+                                </div>
+                                <div class="dropdown-menu">
+                                    <div class="dropdown-content">
+                                        <a class="dropdown-item">
+                                            <i data-feather="bookmark"></i>
+                                            <span>Bookmark</span>
+                                        </a>
+                                        <a class="dropdown-item">
+                                            <i data-feather="share-2"></i>
+                                            <span>Share message</span>
+                                        </a>
+                                        <hr class="dropdown-divider">
+                                        <a class="dropdown-item">
+                                            <i data-feather="thumbs-down"></i>
+                                            <span>Mark as spam</span>
+                                        </a>
+                                    </div>
+                                </div>
+                            </div>
+                            <a class="inbox-action inbox-close-details-mobile">
+                                <i data-feather="x"></i>
+                            </a>
+                        </div>
+                        <!--Message-->
+                        <div class="message-wrapper has-slimscroll">
+                            <div class="message-inner">
+                                <div class="message-head">
+                                    <div class="info">
+                                        <span>Sent on</span>
+                                        <span>Oct 17 2020, at 08:21am</span>
+                                    </div>
+                                    <div class="message-actions">
+                                        <a class="inbox-action">
+                                            <i data-feather="corner-up-left"></i>
+                                        </a>
+                                        <a class="inbox-action">
+                                            <i data-feather="file-text"></i>
+                                        </a>
+                                        <a class="inbox-action">
+                                            <i data-feather="tag"></i>
+                                        </a>
+                                        <a class="inbox-action">
+                                            <i data-feather="message-circle"></i>
+                                        </a>
+                                        <a class="inbox-action">
+                                            <i data-feather="lock"></i>
+                                        </a>
+                                    </div>
+                                </div>
+                                <!--Mail Content-->
+                                <div class="mail-content content">
+                                    <p>Hi Mr. Kovalsky,</p>
+                                    <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nos commodius agimus. Si longus, levis; <a href="#" target="_blank">Summum ením bonum exposuit vacuitatem doloris;</a> Eadem
+                                        fortitudinis ratio reperietur. Duo Reges: constructio interrete. Facile est hoc cernere in primis
+                                        puerorum
+                                        aetatulis. </p>
+                                    <ul>
+                                        <li>Sed residamus, inquit, si placet.</li>
+                                        <li>Parvi enim primo ortu sic iacent, tamquam omnino sine animo sint.</li>
+                                        <li>Beatus autem esse in maximarum rerum timore nemo potest.</li>
+                                        <li>Illa argumenta propria videamus, cur omnia sint paria peccata.</li>
+                                    </ul>
+
+                                    <p>Sandrine</p>
+                                </div>
+                            </div>
+
+                            <!--Reply-->
+                            <div class="reply-box-wrap">
+                                <div class="reply-bubble">
+                                    <div class="reply-as">
+                                        <img src="https://via.placeholder.com/150x150" data-demo-src="assets/img/avatars/photos/8.jpg" alt="">
+                                        <div class="reply-details">
+                                            <span>Reply as</span>
+                                            <span>erik@huro.io</span>
+                                        </div>
+                                        <div class="dropdown inbox-dropdown dropdown-trigger is-right">
+                                            <div>
+                                                <button class="button">
+                                                    <span class="icon is-small">
+                                                            <i data-feather="more-vertical"></i>
+                                                        </span>
+                                                </button>
+                                            </div>
+                                            <div class="dropdown-menu">
+                                                <div class="dropdown-content">
+                                                    <a class="dropdown-item">
+                                                        <i data-feather="refresh-cw"></i>
+                                                        <span>Reset</span>
+                                                    </a>
+                                                    <a class="dropdown-item">
+                                                        <i data-feather="align-left"></i>
+                                                        <span>Spelling</span>
+                                                    </a>
+                                                    <a class="dropdown-item">
+                                                        <i data-feather="at-sign"></i>
+                                                        <span>Mention</span>
+                                                    </a>
+                                                </div>
+                                            </div>
+                                        </div>
+                                    </div>
+                                    <!--textarea-->
+                                    <div class="control">
+                                        <textarea class="textarea" rows="6" placeholder="Type your message..."></textarea>
+                                        <button type="button" class="button">Send Message</button>
+                                    </div>
+                                </div>
+                            </div>
+
+                        </div>
+                    </div>
+                    <!--Message details 10-->
+                    <!-- Message details -->
+                    <div id="message-10" class="inbox-message-details is-hidden">
+                        <div class="header-area">
+                            <img class="sender-pic" src="https://via.placeholder.com/150x150" data-demo-src="assets/img/avatars/photos/11.jpg" alt="">
+                            <div class="message-meta">
+                                <span class="message-title">Hop in for the next project review</span>
+                                <span class="sender-email">&lt;kelly@huro.io&gt;</span>
+                            </div>
+                            <div class="attachments inbox-hidden-mobile">
+                                <i data-feather="paperclip"></i>
+                                <span>1</span>
+                            </div>
+                            <div class="dropdown inbox-dropdown dropdown-trigger is-right">
+                                <div>
+                                    <button class="button">
+                                        <span class="icon is-small">
+                                                <i data-feather="more-vertical"></i>
+                                            </span>
+                                    </button>
+                                </div>
+                                <div class="dropdown-menu">
+                                    <div class="dropdown-content">
+                                        <a class="dropdown-item">
+                                            <i data-feather="bookmark"></i>
+                                            <span>Bookmark</span>
+                                        </a>
+                                        <a class="dropdown-item">
+                                            <i data-feather="share-2"></i>
+                                            <span>Share message</span>
+                                        </a>
+                                        <hr class="dropdown-divider">
+                                        <a class="dropdown-item">
+                                            <i data-feather="thumbs-down"></i>
+                                            <span>Mark as spam</span>
+                                        </a>
+                                    </div>
+                                </div>
+                            </div>
+                            <a class="inbox-action inbox-close-details-mobile">
+                                <i data-feather="x"></i>
+                            </a>
+                        </div>
+                        <!--Message-->
+                        <div class="message-wrapper has-slimscroll">
+                            <div class="message-inner">
+                                <div class="message-head">
+                                    <div class="info">
+                                        <span>Sent on</span>
+                                        <span>Oct 16 2020, at 09:31am</span>
+                                    </div>
+                                    <div class="message-actions">
+                                        <a class="inbox-action">
+                                            <i data-feather="corner-up-left"></i>
+                                        </a>
+                                        <a class="inbox-action">
+                                            <i data-feather="file-text"></i>
+                                        </a>
+                                        <a class="inbox-action">
+                                            <i data-feather="tag"></i>
+                                        </a>
+                                        <a class="inbox-action">
+                                            <i data-feather="message-circle"></i>
+                                        </a>
+                                        <a class="inbox-action">
+                                            <i data-feather="lock"></i>
+                                        </a>
+                                    </div>
+                                </div>
+                                <!--Mail Content-->
+                                <div class="mail-content content">
+                                    <p>Hi Erik,</p>
+                                    <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Quid adiuvas? Dat enim intervalla et relaxat. Et nemo nimium
+                                        beatus est; Claudii libidini, qui tum erat summo ne imperio, dederetur. Duo Reges: constructio interrete. </p>
+                                    <p>Sedulo, inquam, faciam. Certe, nisi voluptatem tanti aestimaretis. <a href="http://loripsum.net/" target="_blank">Recte, inquit, intellegis.</a> Ergo, inquit, tibi Q. Recte, inquit, intellegis. </p>
+                                    <ul>
+                                        <li>Quid nunc honeste dicit?</li>
+                                        <li>Nos quidem Virtutes sic natae sumus, ut tibi serviremus, aliud negotii nihil habemus.</li>
+                                        <li>Negabat igitur ullam esse artem, quae ipsa a se proficisceretur;</li>
+                                    </ul>
+                                    <p>Satis est ad hoc responsum. Quod iam a me expectare noli. Confecta res esset. Bonum integritas corporis: misera
+                                        debilitas. Illum mallem levares, quo optimum atque humanissimum virum, Cn. Utrum igitur tibi litteram videor an
+                                        totas paginas commovere? </p>
+                                    <p>Kelly</p>
+                                </div>
+
+                                <!-- Attachments -->
+                                <div class="attachments-list">
+                                    <div class="attachment">
+                                        <span>iteration-4.pdf</span>
+                                        <div class="download-icon">
+                                            <i data-feather="arrow-down"></i>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+
+                            <!--Reply-->
+                            <div class="reply-box-wrap">
+                                <div class="reply-bubble">
+                                    <div class="reply-as">
+                                        <img src="https://via.placeholder.com/150x150" data-demo-src="assets/img/avatars/photos/8.jpg" alt="">
+                                        <div class="reply-details">
+                                            <span>Reply as</span>
+                                            <span>erik@huro.io</span>
+                                        </div>
+                                        <div class="dropdown inbox-dropdown dropdown-trigger is-right">
+                                            <div>
+                                                <button class="button">
+                                                    <span class="icon is-small">
+                                                            <i data-feather="more-vertical"></i>
+                                                        </span>
+                                                </button>
+                                            </div>
+                                            <div class="dropdown-menu">
+                                                <div class="dropdown-content">
+                                                    <a class="dropdown-item">
+                                                        <i data-feather="refresh-cw"></i>
+                                                        <span>Reset</span>
+                                                    </a>
+                                                    <a class="dropdown-item">
+                                                        <i data-feather="align-left"></i>
+                                                        <span>Spelling</span>
+                                                    </a>
+                                                    <a class="dropdown-item">
+                                                        <i data-feather="at-sign"></i>
+                                                        <span>Mention</span>
+                                                    </a>
+                                                </div>
+                                            </div>
+                                        </div>
+                                    </div>
+                                    <!--textarea-->
+                                    <div class="control">
+                                        <textarea class="textarea" rows="6" placeholder="Type your message..."></textarea>
+                                        <button type="button" class="button">Send Message</button>
+                                    </div>
+                                </div>
+                            </div>
+
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+
+        <!-- Concatenated plugins -->
+        <script src="assets/js/app.js"></script>
+
+        <!-- Huro js -->
+        <script src="assets/js/functions.js"></script>
+        <script src="assets/js/main.js"></script>
+        <script src="assets/js/components.js"></script>
+        <script src="assets/js/popover.js"></script>
+        <script src="assets/js/widgets.js"></script>
+
+
+        <!-- Additional Features -->
+        <script src="assets/js/touch.js"></script>
+
+        <!-- Landing page js -->
+
+        <!-- Dashboards js -->
+
+
+
+
+        <script src="assets/js/apps-2.js"></script>
+
+
+
+
+
+
+
+
+
+
+
+
+
+        <!-- Charts js -->
+
+
+        <!--Forms-->
+
+        <!--Wizard-->
+
+        <!-- Layouts js -->
+
+
+
+
+
+
+
+
+
+
+
+
+        <script src="assets/js/syntax.js"></script>
+    </div>
+</body>
+
+
+<!-- Mirrored from huro.cssninja.io/admin-dashboards-apps-2.html by HTTrack Website Copier/3.x [XR&CO'2014], Mon, 22 Feb 2021 09:53:38 GMT -->
+</html>

@@ -1,0 +1,328 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/" xml:lang="en-US">
+  <id>tag:github.com,2008:/sachinchoolur/lg-video.js/commits/master</id>
+  <link type="text/html" rel="alternate" href="https://github.com/sachinchoolur/lg-video.js/commits/master"/>
+  <link type="application/atom+xml" rel="self" href="https://github.com/sachinchoolur/lg-video.js/commits/master.atom"/>
+  <title>Recent Commits to lg-video.js:master</title>
+  <updated>2020-11-09T17:50:50Z</updated>
+  <entry>
+    <id>tag:github.com,2008:Grit::Commit/8d2052a16d9ded5c8b05da81a71f09b1b4b4fb25</id>
+    <link type="text/html" rel="alternate" href="https://github.com/sachinchoolur/lg-video.js/commit/8d2052a16d9ded5c8b05da81a71f09b1b4b4fb25"/>
+    <title>
+        Update readme.md
+    </title>
+    <updated>2020-11-09T17:50:50Z</updated>
+    <media:thumbnail height="30" width="30" url="https://avatars.githubusercontent.com/u/6586706?s=30&amp;u=93c7e2e7271ec018e5e029c30c9e1857602894b3&amp;v=4"/>
+    <author>
+      <name>sachinchoolur</name>
+      <uri>https://github.com/sachinchoolur</uri>
+    </author>
+    <content type="html">
+      &lt;pre style=&#39;white-space:pre-wrap;width:81ex&#39;&gt;Update readme.md&lt;/pre&gt;
+    </content>
+  </entry>
+  <entry>
+    <id>tag:github.com,2008:Grit::Commit/03debee88b002bf68b4b7e3d5588a6ced20160f2</id>
+    <link type="text/html" rel="alternate" href="https://github.com/sachinchoolur/lg-video.js/commit/03debee88b002bf68b4b7e3d5588a6ced20160f2"/>
+    <title>
+        Version 1.3.0 release
+    </title>
+    <updated>2020-11-07T04:36:53Z</updated>
+    <media:thumbnail height="30" width="30" url="https://avatars.githubusercontent.com/u/6586706?s=30&amp;u=93c7e2e7271ec018e5e029c30c9e1857602894b3&amp;v=4"/>
+    <author>
+      <name>sachinchoolur</name>
+      <uri>https://github.com/sachinchoolur</uri>
+    </author>
+    <content type="html">
+      &lt;pre style=&#39;white-space:pre-wrap;width:81ex&#39;&gt;Version 1.3.0 release&lt;/pre&gt;
+    </content>
+  </entry>
+  <entry>
+    <id>tag:github.com,2008:Grit::Commit/143af2e999d4312e7482179aaa535838279a4491</id>
+    <link type="text/html" rel="alternate" href="https://github.com/sachinchoolur/lg-video.js/commit/143af2e999d4312e7482179aaa535838279a4491"/>
+    <title>
+        Release version 1.3.0-beta.0
+    </title>
+    <updated>2020-10-09T07:17:55Z</updated>
+    <media:thumbnail height="30" width="30" url="https://avatars.githubusercontent.com/u/6586706?s=30&amp;u=93c7e2e7271ec018e5e029c30c9e1857602894b3&amp;v=4"/>
+    <author>
+      <name>sachinchoolur</name>
+      <uri>https://github.com/sachinchoolur</uri>
+    </author>
+    <content type="html">
+      &lt;pre style=&#39;white-space:pre-wrap;width:81ex&#39;&gt;Release version 1.3.0-beta.0&lt;/pre&gt;
+    </content>
+  </entry>
+  <entry>
+    <id>tag:github.com,2008:Grit::Commit/254c8a7145718b5b2342a6e4ac4152d3219f4a2b</id>
+    <link type="text/html" rel="alternate" href="https://github.com/sachinchoolur/lg-video.js/commit/254c8a7145718b5b2342a6e4ac4152d3219f4a2b"/>
+    <title>
+        Protocol https with Vk URL #5
+    </title>
+    <updated>2020-10-09T07:10:40Z</updated>
+    <media:thumbnail height="30" width="30" url="https://avatars.githubusercontent.com/u/6586706?s=30&amp;u=93c7e2e7271ec018e5e029c30c9e1857602894b3&amp;v=4"/>
+    <author>
+      <name>sachinchoolur</name>
+      <uri>https://github.com/sachinchoolur</uri>
+    </author>
+    <content type="html">
+      &lt;pre style=&#39;white-space:pre-wrap;width:81ex&#39;&gt;Protocol https with Vk URL #5&lt;/pre&gt;
+    </content>
+  </entry>
+  <entry>
+    <id>tag:github.com,2008:Grit::Commit/aed09f582c00f6ff78da812d87ec453cc8e224a0</id>
+    <link type="text/html" rel="alternate" href="https://github.com/sachinchoolur/lg-video.js/commit/aed09f582c00f6ff78da812d87ec453cc8e224a0"/>
+    <title>
+        Add autoplayFirstVideo option
+    </title>
+    <updated>2020-10-09T07:04:11Z</updated>
+    <media:thumbnail height="30" width="30" url="https://avatars.githubusercontent.com/u/6586706?s=30&amp;u=93c7e2e7271ec018e5e029c30c9e1857602894b3&amp;v=4"/>
+    <author>
+      <name>sachinchoolur</name>
+      <uri>https://github.com/sachinchoolur</uri>
+    </author>
+    <content type="html">
+      &lt;pre style=&#39;white-space:pre-wrap;width:81ex&#39;&gt;Add autoplayFirstVideo option&lt;/pre&gt;
+    </content>
+  </entry>
+  <entry>
+    <id>tag:github.com,2008:Grit::Commit/f4ee67266cc8cea38ec032d12fc1e412381b7665</id>
+    <link type="text/html" rel="alternate" href="https://github.com/sachinchoolur/lg-video.js/commit/f4ee67266cc8cea38ec032d12fc1e412381b7665"/>
+    <title>
+        Add allow autoplay in the iframe to support autoplay on all supported…
+    </title>
+    <updated>2020-10-09T06:05:51Z</updated>
+    <media:thumbnail height="30" width="30" url="https://avatars.githubusercontent.com/u/6586706?s=30&amp;u=93c7e2e7271ec018e5e029c30c9e1857602894b3&amp;v=4"/>
+    <author>
+      <name>sachinchoolur</name>
+      <uri>https://github.com/sachinchoolur</uri>
+    </author>
+    <content type="html">
+      &lt;pre style=&#39;white-space:pre-wrap;width:81ex&#39;&gt;Add allow autoplay in the iframe to support autoplay on all supported browsers&lt;/pre&gt;
+    </content>
+  </entry>
+  <entry>
+    <id>tag:github.com,2008:Grit::Commit/c3f4efbb6660c453f9f775a71bdf96f8e132474c</id>
+    <link type="text/html" rel="alternate" href="https://github.com/sachinchoolur/lg-video.js/commit/c3f4efbb6660c453f9f775a71bdf96f8e132474c"/>
+    <title>
+        Play video only in the active slide
+    </title>
+    <updated>2020-10-09T06:03:11Z</updated>
+    <media:thumbnail height="30" width="30" url="https://avatars.githubusercontent.com/u/6586706?s=30&amp;u=93c7e2e7271ec018e5e029c30c9e1857602894b3&amp;v=4"/>
+    <author>
+      <name>sachinchoolur</name>
+      <uri>https://github.com/sachinchoolur</uri>
+    </author>
+    <content type="html">
+      &lt;pre style=&#39;white-space:pre-wrap;width:81ex&#39;&gt;Play video only in the active slide&lt;/pre&gt;
+    </content>
+  </entry>
+  <entry>
+    <id>tag:github.com,2008:Grit::Commit/2abe3820db0423dacf29d803c3c760e9b59a6291</id>
+    <link type="text/html" rel="alternate" href="https://github.com/sachinchoolur/lg-video.js/commit/2abe3820db0423dacf29d803c3c760e9b59a6291"/>
+    <title>
+        Update video js error message
+    </title>
+    <updated>2020-10-09T04:55:53Z</updated>
+    <media:thumbnail height="30" width="30" url="https://avatars.githubusercontent.com/u/6586706?s=30&amp;u=93c7e2e7271ec018e5e029c30c9e1857602894b3&amp;v=4"/>
+    <author>
+      <name>sachinchoolur</name>
+      <uri>https://github.com/sachinchoolur</uri>
+    </author>
+    <content type="html">
+      &lt;pre style=&#39;white-space:pre-wrap;width:81ex&#39;&gt;Update video js error message&lt;/pre&gt;
+    </content>
+  </entry>
+  <entry>
+    <id>tag:github.com,2008:Grit::Commit/5e7bcfa153c4c29eab92294caad93d9f2448f6b0</id>
+    <link type="text/html" rel="alternate" href="https://github.com/sachinchoolur/lg-video.js/commit/5e7bcfa153c4c29eab92294caad93d9f2448f6b0"/>
+    <title>
+        Upgrade from frooglaloop to vimeo player.js
+    </title>
+    <updated>2020-10-09T04:53:49Z</updated>
+    <media:thumbnail height="30" width="30" url="https://avatars.githubusercontent.com/u/6586706?s=30&amp;u=93c7e2e7271ec018e5e029c30c9e1857602894b3&amp;v=4"/>
+    <author>
+      <name>sachinchoolur</name>
+      <uri>https://github.com/sachinchoolur</uri>
+    </author>
+    <content type="html">
+      &lt;pre style=&#39;white-space:pre-wrap;width:81ex&#39;&gt;Upgrade from frooglaloop to vimeo player.js&lt;/pre&gt;
+    </content>
+  </entry>
+  <entry>
+    <id>tag:github.com,2008:Grit::Commit/f5b5961729ddabbef7ed41476ebd5446fa746577</id>
+    <link type="text/html" rel="alternate" href="https://github.com/sachinchoolur/lg-video.js/commit/f5b5961729ddabbef7ed41476ebd5446fa746577"/>
+    <title>
+        Version 1.8.2 release
+    </title>
+    <updated>2020-09-15T06:38:46Z</updated>
+    <media:thumbnail height="30" width="30" url="https://avatars.githubusercontent.com/u/6586706?s=30&amp;u=93c7e2e7271ec018e5e029c30c9e1857602894b3&amp;v=4"/>
+    <author>
+      <name>sachinchoolur</name>
+      <uri>https://github.com/sachinchoolur</uri>
+    </author>
+    <content type="html">
+      &lt;pre style=&#39;white-space:pre-wrap;width:81ex&#39;&gt;Version 1.8.2 release&lt;/pre&gt;
+    </content>
+  </entry>
+  <entry>
+    <id>tag:github.com,2008:Grit::Commit/28b2a90cb95d0edcced94b3086a096072add5b44</id>
+    <link type="text/html" rel="alternate" href="https://github.com/sachinchoolur/lg-video.js/commit/28b2a90cb95d0edcced94b3086a096072add5b44"/>
+    <title>
+        Fix Issue - Video not loading in dynamic mode
+    </title>
+    <updated>2020-09-15T06:23:10Z</updated>
+    <media:thumbnail height="30" width="30" url="https://avatars.githubusercontent.com/u/6586706?s=30&amp;u=93c7e2e7271ec018e5e029c30c9e1857602894b3&amp;v=4"/>
+    <author>
+      <name>sachinchoolur</name>
+      <uri>https://github.com/sachinchoolur</uri>
+    </author>
+    <content type="html">
+      &lt;pre style=&#39;white-space:pre-wrap;width:81ex&#39;&gt;Fix Issue - Video not loading in dynamic mode&lt;/pre&gt;
+    </content>
+  </entry>
+  <entry>
+    <id>tag:github.com,2008:Grit::Commit/52a883ed922e2f34348658aa173974516a94ab73</id>
+    <link type="text/html" rel="alternate" href="https://github.com/sachinchoolur/lg-video.js/commit/52a883ed922e2f34348658aa173974516a94ab73"/>
+    <title>
+        Version 1.2.0 release
+    </title>
+    <updated>2020-05-20T16:44:27Z</updated>
+    <media:thumbnail height="30" width="30" url="https://avatars.githubusercontent.com/u/6586706?s=30&amp;u=93c7e2e7271ec018e5e029c30c9e1857602894b3&amp;v=4"/>
+    <author>
+      <name>sachinchoolur</name>
+      <uri>https://github.com/sachinchoolur</uri>
+    </author>
+    <content type="html">
+      &lt;pre style=&#39;white-space:pre-wrap;width:81ex&#39;&gt;Version 1.2.0 release&lt;/pre&gt;
+    </content>
+  </entry>
+  <entry>
+    <id>tag:github.com,2008:Grit::Commit/d7f89237cda078e30cb2de4f23e96f62cee39eeb</id>
+    <link type="text/html" rel="alternate" href="https://github.com/sachinchoolur/lg-video.js/commit/d7f89237cda078e30cb2de4f23e96f62cee39eeb"/>
+    <title>
+        accessibility improvements
+    </title>
+    <updated>2020-05-18T06:01:54Z</updated>
+    <media:thumbnail height="30" width="30" url="https://avatars.githubusercontent.com/u/6586706?s=30&amp;u=93c7e2e7271ec018e5e029c30c9e1857602894b3&amp;v=4"/>
+    <author>
+      <name>sachinchoolur</name>
+      <uri>https://github.com/sachinchoolur</uri>
+    </author>
+    <content type="html">
+      &lt;pre style=&#39;white-space:pre-wrap;width:81ex&#39;&gt;accessibility improvements&lt;/pre&gt;
+    </content>
+  </entry>
+  <entry>
+    <id>tag:github.com,2008:Grit::Commit/633f9e892f77459571afbf0f0765398d952417e9</id>
+    <link type="text/html" rel="alternate" href="https://github.com/sachinchoolur/lg-video.js/commit/633f9e892f77459571afbf0f0765398d952417e9"/>
+    <title>
+        Add autoplayFirstVideo option
+    </title>
+    <updated>2020-05-08T03:01:18Z</updated>
+    <media:thumbnail height="30" width="30" url="https://avatars.githubusercontent.com/u/14210438?s=30&amp;v=4"/>
+    <author>
+      <name>inostia</name>
+      <uri>https://github.com/inostia</uri>
+    </author>
+    <content type="html">
+      &lt;pre style=&#39;white-space:pre-wrap;width:81ex&#39;&gt;Add autoplayFirstVideo option&lt;/pre&gt;
+    </content>
+  </entry>
+  <entry>
+    <id>tag:github.com,2008:Grit::Commit/deffcc77abec2b20c4a5aea2bd30d4ed423e68e3</id>
+    <link type="text/html" rel="alternate" href="https://github.com/sachinchoolur/lg-video.js/commit/deffcc77abec2b20c4a5aea2bd30d4ed423e68e3"/>
+    <title>
+        Protocol https with Vk URL
+    </title>
+    <updated>2019-11-01T12:18:24Z</updated>
+    <media:thumbnail height="30" width="30" url="https://avatars.githubusercontent.com/u/41755348?s=30&amp;u=62ee67f83bb413b82542b21c6826cd23e078474e&amp;v=4"/>
+    <author>
+      <name>alexkharech</name>
+      <uri>https://github.com/alexkharech</uri>
+    </author>
+    <content type="html">
+      &lt;pre style=&#39;white-space:pre-wrap;width:81ex&#39;&gt;Protocol https with Vk URL&lt;/pre&gt;
+    </content>
+  </entry>
+  <entry>
+    <id>tag:github.com,2008:Grit::Commit/e1ef85a726f4d021a072d722adf9cc2039b77693</id>
+    <link type="text/html" rel="alternate" href="https://github.com/sachinchoolur/lg-video.js/commit/e1ef85a726f4d021a072d722adf9cc2039b77693"/>
+    <title>
+        Release version 1.0.0
+    </title>
+    <updated>2016-10-05T11:55:27Z</updated>
+    <media:thumbnail height="30" width="30" url="https://avatars.githubusercontent.com/u/6586706?s=30&amp;u=93c7e2e7271ec018e5e029c30c9e1857602894b3&amp;v=4"/>
+    <author>
+      <name>sachinchoolur</name>
+      <uri>https://github.com/sachinchoolur</uri>
+    </author>
+    <content type="html">
+      &lt;pre style=&#39;white-space:pre-wrap;width:81ex&#39;&gt;Release version 1.0.0&lt;/pre&gt;
+    </content>
+  </entry>
+  <entry>
+    <id>tag:github.com,2008:Grit::Commit/0628216811784554ba77b53369c189897182120d</id>
+    <link type="text/html" rel="alternate" href="https://github.com/sachinchoolur/lg-video.js/commit/0628216811784554ba77b53369c189897182120d"/>
+    <title>
+        Update Readme
+    </title>
+    <updated>2016-08-05T11:26:32Z</updated>
+    <media:thumbnail height="30" width="30" url="https://avatars.githubusercontent.com/u/6586706?s=30&amp;u=93c7e2e7271ec018e5e029c30c9e1857602894b3&amp;v=4"/>
+    <author>
+      <name>sachinchoolur</name>
+      <uri>https://github.com/sachinchoolur</uri>
+    </author>
+    <content type="html">
+      &lt;pre style=&#39;white-space:pre-wrap;width:81ex&#39;&gt;Update Readme&lt;/pre&gt;
+    </content>
+  </entry>
+  <entry>
+    <id>tag:github.com,2008:Grit::Commit/7a14e72d083f70a1142c8b0bdb7b70b0200ff547</id>
+    <link type="text/html" rel="alternate" href="https://github.com/sachinchoolur/lg-video.js/commit/7a14e72d083f70a1142c8b0bdb7b70b0200ff547"/>
+    <title>
+        Bug fix for lightgallery #14
+    </title>
+    <updated>2016-08-05T11:14:28Z</updated>
+    <media:thumbnail height="30" width="30" url="https://avatars.githubusercontent.com/u/10412773?s=30&amp;v=4"/>
+    <author>
+      <name>sachinds</name>
+      <uri>https://github.com/sachinds</uri>
+    </author>
+    <content type="html">
+      &lt;pre style=&#39;white-space:pre-wrap;width:81ex&#39;&gt;Bug fix for lightgallery #14&lt;/pre&gt;
+    </content>
+  </entry>
+  <entry>
+    <id>tag:github.com,2008:Grit::Commit/2e40bb12e657ff3b0a00bb6fdf465042ff033366</id>
+    <link type="text/html" rel="alternate" href="https://github.com/sachinchoolur/lg-video.js/commit/2e40bb12e657ff3b0a00bb6fdf465042ff033366"/>
+    <title>
+        Update contributing.md
+    </title>
+    <updated>2016-08-01T10:50:42Z</updated>
+    <media:thumbnail height="30" width="30" url="https://avatars.githubusercontent.com/u/6586706?s=30&amp;u=93c7e2e7271ec018e5e029c30c9e1857602894b3&amp;v=4"/>
+    <author>
+      <name>sachinchoolur</name>
+      <uri>https://github.com/sachinchoolur</uri>
+    </author>
+    <content type="html">
+      &lt;pre style=&#39;white-space:pre-wrap;width:81ex&#39;&gt;Update contributing.md&lt;/pre&gt;
+    </content>
+  </entry>
+  <entry>
+    <id>tag:github.com,2008:Grit::Commit/e0ee71a19825f8ef7883dd833fcc862a72550dd0</id>
+    <link type="text/html" rel="alternate" href="https://github.com/sachinchoolur/lg-video.js/commit/e0ee71a19825f8ef7883dd833fcc862a72550dd0"/>
+    <title>
+        Dist
+    </title>
+    <updated>2016-08-01T03:41:39Z</updated>
+    <media:thumbnail height="30" width="30" url="https://avatars.githubusercontent.com/u/6586706?s=30&amp;u=93c7e2e7271ec018e5e029c30c9e1857602894b3&amp;v=4"/>
+    <author>
+      <name>sachinchoolur</name>
+      <uri>https://github.com/sachinchoolur</uri>
+    </author>
+    <content type="html">
+      &lt;pre style=&#39;white-space:pre-wrap;width:81ex&#39;&gt;Dist&lt;/pre&gt;
+    </content>
+  </entry>
+</feed>

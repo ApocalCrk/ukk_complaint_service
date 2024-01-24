@@ -1,0 +1,16 @@
+From bdae4d46f39340a0fe6771bd90a2ff5fce55ff14 Mon Sep 17 00:00:00 2001
+From: Sachin N <sachi77n@gmail.com>
+Date: Wed, 7 Oct 2020 10:13:21 -0700
+Subject: [PATCH] Update .gitattributes
+
+---
+ .gitattributes | 2 +-
+ 1 file changed, 1 insertion(+), 1 deletion(-)
+
+diff --git a/.gitattributes b/.gitattributes
+index 427c7cc..c72ac04 100644
+--- a/.gitattributes
++++ b/.gitattributes
+@@ -1 +1 @@
+-*.css linguist-language=javascript
++src/sass/* linguist-vendored

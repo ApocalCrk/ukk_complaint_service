@@ -1,0 +1,136 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/" xml:lang="en-US">
+  <id>tag:github.com,2008:/sachinchoolur/lg-rotate.js/commits/master</id>
+  <link type="text/html" rel="alternate" href="https://github.com/sachinchoolur/lg-rotate.js/commits/master"/>
+  <link type="application/atom+xml" rel="self" href="https://github.com/sachinchoolur/lg-rotate.js/commits/master.atom"/>
+  <title>Recent Commits to lg-rotate.js:master</title>
+  <updated>2020-11-09T17:52:20Z</updated>
+  <entry>
+    <id>tag:github.com,2008:Grit::Commit/caf4970627fd35d774a3702d6a479622820a47da</id>
+    <link type="text/html" rel="alternate" href="https://github.com/sachinchoolur/lg-rotate.js/commit/caf4970627fd35d774a3702d6a479622820a47da"/>
+    <title>
+        Update readme.md
+    </title>
+    <updated>2020-11-09T17:52:20Z</updated>
+    <media:thumbnail height="30" width="30" url="https://avatars.githubusercontent.com/u/6586706?s=30&amp;u=93c7e2e7271ec018e5e029c30c9e1857602894b3&amp;v=4"/>
+    <author>
+      <name>sachinchoolur</name>
+      <uri>https://github.com/sachinchoolur</uri>
+    </author>
+    <content type="html">
+      &lt;pre style=&#39;white-space:pre-wrap;width:81ex&#39;&gt;Update readme.md&lt;/pre&gt;
+    </content>
+  </entry>
+  <entry>
+    <id>tag:github.com,2008:Grit::Commit/7454d08820a273f664ea3eafa10d02360d44ff4b</id>
+    <link type="text/html" rel="alternate" href="https://github.com/sachinchoolur/lg-rotate.js/commit/7454d08820a273f664ea3eafa10d02360d44ff4b"/>
+    <title>
+        Version 1.2.0 release
+    </title>
+    <updated>2020-10-14T05:27:14Z</updated>
+    <media:thumbnail height="30" width="30" url="https://avatars.githubusercontent.com/u/6586706?s=30&amp;u=93c7e2e7271ec018e5e029c30c9e1857602894b3&amp;v=4"/>
+    <author>
+      <name>sachinchoolur</name>
+      <uri>https://github.com/sachinchoolur</uri>
+    </author>
+    <content type="html">
+      &lt;pre style=&#39;white-space:pre-wrap;width:81ex&#39;&gt;Version 1.2.0 release&lt;/pre&gt;
+    </content>
+  </entry>
+  <entry>
+    <id>tag:github.com,2008:Grit::Commit/c65b05034fc43cac4c99bcd70a96afcbb777cf17</id>
+    <link type="text/html" rel="alternate" href="https://github.com/sachinchoolur/lg-rotate.js/commit/c65b05034fc43cac4c99bcd70a96afcbb777cf17"/>
+    <title>
+        Version 1.2.0-beta.0 release
+    </title>
+    <updated>2020-10-05T07:12:46Z</updated>
+    <media:thumbnail height="30" width="30" url="https://avatars.githubusercontent.com/u/6586706?s=30&amp;u=93c7e2e7271ec018e5e029c30c9e1857602894b3&amp;v=4"/>
+    <author>
+      <name>sachinchoolur</name>
+      <uri>https://github.com/sachinchoolur</uri>
+    </author>
+    <content type="html">
+      &lt;pre style=&#39;white-space:pre-wrap;width:81ex&#39;&gt;Version 1.2.0-beta.0 release&lt;/pre&gt;
+    </content>
+  </entry>
+  <entry>
+    <id>tag:github.com,2008:Grit::Commit/6220e28cab31a29f326b9003816deabde1beb09b</id>
+    <link type="text/html" rel="alternate" href="https://github.com/sachinchoolur/lg-rotate.js/commit/6220e28cab31a29f326b9003816deabde1beb09b"/>
+    <title>
+        Fix build-watch output
+    </title>
+    <updated>2020-10-05T07:10:25Z</updated>
+    <media:thumbnail height="30" width="30" url="https://avatars.githubusercontent.com/u/6586706?s=30&amp;u=93c7e2e7271ec018e5e029c30c9e1857602894b3&amp;v=4"/>
+    <author>
+      <name>sachinchoolur</name>
+      <uri>https://github.com/sachinchoolur</uri>
+    </author>
+    <content type="html">
+      &lt;pre style=&#39;white-space:pre-wrap;width:81ex&#39;&gt;Fix build-watch output&lt;/pre&gt;
+    </content>
+  </entry>
+  <entry>
+    <id>tag:github.com,2008:Grit::Commit/e49a7ab877ee37b6e1b7e7095041f1fce290145e</id>
+    <link type="text/html" rel="alternate" href="https://github.com/sachinchoolur/lg-rotate.js/commit/e49a7ab877ee37b6e1b7e7095041f1fce290145e"/>
+    <title>
+        Respect rotate value on flip horizontal and vertical
+    </title>
+    <updated>2020-10-05T07:10:19Z</updated>
+    <media:thumbnail height="30" width="30" url="https://avatars.githubusercontent.com/u/6586706?s=30&amp;u=93c7e2e7271ec018e5e029c30c9e1857602894b3&amp;v=4"/>
+    <author>
+      <name>sachinchoolur</name>
+      <uri>https://github.com/sachinchoolur</uri>
+    </author>
+    <content type="html">
+      &lt;pre style=&#39;white-space:pre-wrap;width:81ex&#39;&gt;Respect rotate value on flip horizontal and vertical&lt;/pre&gt;
+    </content>
+  </entry>
+  <entry>
+    <id>tag:github.com,2008:Grit::Commit/856583214ffd9e69b3b1fb34d9ab86d29333e7f2</id>
+    <link type="text/html" rel="alternate" href="https://github.com/sachinchoolur/lg-rotate.js/commit/856583214ffd9e69b3b1fb34d9ab86d29333e7f2"/>
+    <title>
+        Version 1.1.0 release
+    </title>
+    <updated>2020-09-19T11:56:38Z</updated>
+    <media:thumbnail height="30" width="30" url="https://avatars.githubusercontent.com/u/6586706?s=30&amp;u=93c7e2e7271ec018e5e029c30c9e1857602894b3&amp;v=4"/>
+    <author>
+      <name>sachinchoolur</name>
+      <uri>https://github.com/sachinchoolur</uri>
+    </author>
+    <content type="html">
+      &lt;pre style=&#39;white-space:pre-wrap;width:81ex&#39;&gt;Version 1.1.0 release&lt;/pre&gt;
+    </content>
+  </entry>
+  <entry>
+    <id>tag:github.com,2008:Grit::Commit/4e53bfe6800e1ed4aca72d1f9738bd7f96369677</id>
+    <link type="text/html" rel="alternate" href="https://github.com/sachinchoolur/lg-rotate.js/commit/4e53bfe6800e1ed4aca72d1f9738bd7f96369677"/>
+    <title>
+        fix issue - Horizontal and vertical flip buttons classNames are inter…
+    </title>
+    <updated>2020-09-19T11:55:42Z</updated>
+    <media:thumbnail height="30" width="30" url="https://avatars.githubusercontent.com/u/6586706?s=30&amp;u=93c7e2e7271ec018e5e029c30c9e1857602894b3&amp;v=4"/>
+    <author>
+      <name>sachinchoolur</name>
+      <uri>https://github.com/sachinchoolur</uri>
+    </author>
+    <content type="html">
+      &lt;pre style=&#39;white-space:pre-wrap;width:81ex&#39;&gt;fix issue - Horizontal and vertical flip buttons classNames are interchanged&lt;/pre&gt;
+    </content>
+  </entry>
+  <entry>
+    <id>tag:github.com,2008:Grit::Commit/6e14a6a68d6e6dcc36aeecd9241895f85c774cc3</id>
+    <link type="text/html" rel="alternate" href="https://github.com/sachinchoolur/lg-rotate.js/commit/6e14a6a68d6e6dcc36aeecd9241895f85c774cc3"/>
+    <title>
+        Rotate module for lightgallery.js
+    </title>
+    <updated>2020-09-01T08:16:05Z</updated>
+    <media:thumbnail height="30" width="30" url="https://avatars.githubusercontent.com/u/6586706?s=30&amp;u=93c7e2e7271ec018e5e029c30c9e1857602894b3&amp;v=4"/>
+    <author>
+      <name>sachinchoolur</name>
+      <uri>https://github.com/sachinchoolur</uri>
+    </author>
+    <content type="html">
+      &lt;pre style=&#39;white-space:pre-wrap;width:81ex&#39;&gt;Rotate module for lightgallery.js&lt;/pre&gt;
+    </content>
+  </entry>
+</feed>

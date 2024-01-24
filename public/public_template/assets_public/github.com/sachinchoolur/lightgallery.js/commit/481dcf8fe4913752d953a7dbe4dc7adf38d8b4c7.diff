@@ -1,0 +1,9 @@
+diff --git a/.npmignore b/.npmignore
+index b8e5c39..4b9af62 100644
+--- a/.npmignore
++++ b/.npmignore
+@@ -5,3 +5,4 @@
+ /bower.json
+ /karma.conf.js
+ /src
++!/src/scss

@@ -1,0 +1,5 @@
+what = perbuatan berindiasi pelanggaran yang di ketahui
+where = Dimana perbuatan tersebut dilakukan
+When = kapan perbuatan tersebut dilakukan
+who = siapa saja yang terlibat dalam perbuatan tersebut
+how = bagaiman perbuatan tersebut dilakukan 

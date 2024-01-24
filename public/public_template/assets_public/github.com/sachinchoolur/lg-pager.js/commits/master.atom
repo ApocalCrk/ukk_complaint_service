@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/" xml:lang="en-US">
+  <id>tag:github.com,2008:/sachinchoolur/lg-pager.js/commits/master</id>
+  <link type="text/html" rel="alternate" href="https://github.com/sachinchoolur/lg-pager.js/commits/master"/>
+  <link type="application/atom+xml" rel="self" href="https://github.com/sachinchoolur/lg-pager.js/commits/master.atom"/>
+  <title>Recent Commits to lg-pager.js:master</title>
+  <updated>2020-11-09T17:51:26Z</updated>
+  <entry>
+    <id>tag:github.com,2008:Grit::Commit/af026c33b84a20d56d19e830b3c181f7bf579e6f</id>
+    <link type="text/html" rel="alternate" href="https://github.com/sachinchoolur/lg-pager.js/commit/af026c33b84a20d56d19e830b3c181f7bf579e6f"/>
+    <title>
+        Update readme.md
+    </title>
+    <updated>2020-11-09T17:51:26Z</updated>
+    <media:thumbnail height="30" width="30" url="https://avatars.githubusercontent.com/u/6586706?s=30&amp;u=93c7e2e7271ec018e5e029c30c9e1857602894b3&amp;v=4"/>
+    <author>
+      <name>sachinchoolur</name>
+      <uri>https://github.com/sachinchoolur</uri>
+    </author>
+    <content type="html">
+      &lt;pre style=&#39;white-space:pre-wrap;width:81ex&#39;&gt;Update readme.md&lt;/pre&gt;
+    </content>
+  </entry>
+  <entry>
+    <id>tag:github.com,2008:Grit::Commit/5f40f3ebb4c4ea2628e2c31e228ccf9acb8321e0</id>
+    <link type="text/html" rel="alternate" href="https://github.com/sachinchoolur/lg-pager.js/commit/5f40f3ebb4c4ea2628e2c31e228ccf9acb8321e0"/>
+    <title>
+        Release version 1.0.0
+    </title>
+    <updated>2016-10-05T11:52:36Z</updated>
+    <media:thumbnail height="30" width="30" url="https://avatars.githubusercontent.com/u/6586706?s=30&amp;u=93c7e2e7271ec018e5e029c30c9e1857602894b3&amp;v=4"/>
+    <author>
+      <name>sachinchoolur</name>
+      <uri>https://github.com/sachinchoolur</uri>
+    </author>
+    <content type="html">
+      &lt;pre style=&#39;white-space:pre-wrap;width:81ex&#39;&gt;Release version 1.0.0&lt;/pre&gt;
+    </content>
+  </entry>
+  <entry>
+    <id>tag:github.com,2008:Grit::Commit/ae52540a424ccacf4f62bafd8629f8dc0064dfd0</id>
+    <link type="text/html" rel="alternate" href="https://github.com/sachinchoolur/lg-pager.js/commit/ae52540a424ccacf4f62bafd8629f8dc0064dfd0"/>
+    <title>
+        Update readme.md
+    </title>
+    <updated>2016-09-20T13:57:38Z</updated>
+    <media:thumbnail height="30" width="30" url="https://avatars.githubusercontent.com/u/6586706?s=30&amp;u=93c7e2e7271ec018e5e029c30c9e1857602894b3&amp;v=4"/>
+    <author>
+      <name>sachinchoolur</name>
+      <uri>https://github.com/sachinchoolur</uri>
+    </author>
+    <content type="html">
+      &lt;pre style=&#39;white-space:pre-wrap;width:81ex&#39;&gt;Update readme.md&lt;/pre&gt;
+    </content>
+  </entry>
+  <entry>
+    <id>tag:github.com,2008:Grit::Commit/06d24d2ae3297d80fb22bea9a91d6774e96a2c6c</id>
+    <link type="text/html" rel="alternate" href="https://github.com/sachinchoolur/lg-pager.js/commit/06d24d2ae3297d80fb22bea9a91d6774e96a2c6c"/>
+    <title>
+        Update contributing.md
+    </title>
+    <updated>2016-08-01T10:45:48Z</updated>
+    <media:thumbnail height="30" width="30" url="https://avatars.githubusercontent.com/u/6586706?s=30&amp;u=93c7e2e7271ec018e5e029c30c9e1857602894b3&amp;v=4"/>
+    <author>
+      <name>sachinchoolur</name>
+      <uri>https://github.com/sachinchoolur</uri>
+    </author>
+    <content type="html">
+      &lt;pre style=&#39;white-space:pre-wrap;width:81ex&#39;&gt;Update contributing.md&lt;/pre&gt;
+    </content>
+  </entry>
+  <entry>
+    <id>tag:github.com,2008:Grit::Commit/4eb670d873174f1ade424b54fa500561707fb433</id>
+    <link type="text/html" rel="alternate" href="https://github.com/sachinchoolur/lg-pager.js/commit/4eb670d873174f1ade424b54fa500561707fb433"/>
+    <title>
+        Dist
+    </title>
+    <updated>2016-08-01T03:42:37Z</updated>
+    <media:thumbnail height="30" width="30" url="https://avatars.githubusercontent.com/u/6586706?s=30&amp;u=93c7e2e7271ec018e5e029c30c9e1857602894b3&amp;v=4"/>
+    <author>
+      <name>sachinchoolur</name>
+      <uri>https://github.com/sachinchoolur</uri>
+    </author>
+    <content type="html">
+      &lt;pre style=&#39;white-space:pre-wrap;width:81ex&#39;&gt;Dist&lt;/pre&gt;
+    </content>
+  </entry>
+  <entry>
+    <id>tag:github.com,2008:Grit::Commit/28768de88d4adbac2152a0d7041b988c01789aa4</id>
+    <link type="text/html" rel="alternate" href="https://github.com/sachinchoolur/lg-pager.js/commit/28768de88d4adbac2152a0d7041b988c01789aa4"/>
+    <title>
+        &quot;Init&quot;
+    </title>
+    <updated>2016-08-01T03:16:45Z</updated>
+    <media:thumbnail height="30" width="30" url="https://avatars.githubusercontent.com/u/6586706?s=30&amp;u=93c7e2e7271ec018e5e029c30c9e1857602894b3&amp;v=4"/>
+    <author>
+      <name>sachinchoolur</name>
+      <uri>https://github.com/sachinchoolur</uri>
+    </author>
+    <content type="html">
+      &lt;pre style=&#39;white-space:pre-wrap;width:81ex&#39;&gt;&amp;quot;Init&amp;quot;&lt;/pre&gt;
+    </content>
+  </entry>
+</feed>

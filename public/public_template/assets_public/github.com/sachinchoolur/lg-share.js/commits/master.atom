@@ -1,0 +1,268 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/" xml:lang="en-US">
+  <id>tag:github.com,2008:/sachinchoolur/lg-share.js/commits/master</id>
+  <link type="text/html" rel="alternate" href="https://github.com/sachinchoolur/lg-share.js/commits/master"/>
+  <link type="application/atom+xml" rel="self" href="https://github.com/sachinchoolur/lg-share.js/commits/master.atom"/>
+  <title>Recent Commits to lg-share.js:master</title>
+  <updated>2020-11-09T17:52:06Z</updated>
+  <entry>
+    <id>tag:github.com,2008:Grit::Commit/ca5cc89f493d67d32093bee27050457620df0e73</id>
+    <link type="text/html" rel="alternate" href="https://github.com/sachinchoolur/lg-share.js/commit/ca5cc89f493d67d32093bee27050457620df0e73"/>
+    <title>
+        Update readme.md
+    </title>
+    <updated>2020-11-09T17:52:06Z</updated>
+    <media:thumbnail height="30" width="30" url="https://avatars.githubusercontent.com/u/6586706?s=30&amp;u=93c7e2e7271ec018e5e029c30c9e1857602894b3&amp;v=4"/>
+    <author>
+      <name>sachinchoolur</name>
+      <uri>https://github.com/sachinchoolur</uri>
+    </author>
+    <content type="html">
+      &lt;pre style=&#39;white-space:pre-wrap;width:81ex&#39;&gt;Update readme.md&lt;/pre&gt;
+    </content>
+  </entry>
+  <entry>
+    <id>tag:github.com,2008:Grit::Commit/e23da8f92bfa769f1bd1d37c18c86f2c218ceeda</id>
+    <link type="text/html" rel="alternate" href="https://github.com/sachinchoolur/lg-share.js/commit/e23da8f92bfa769f1bd1d37c18c86f2c218ceeda"/>
+    <title>
+        Update readme.md
+    </title>
+    <updated>2020-09-25T04:55:29Z</updated>
+    <media:thumbnail height="30" width="30" url="https://avatars.githubusercontent.com/u/96217?s=30&amp;u=3ee36aed97356340ad9930976f5bb2f151a68d3e&amp;v=4"/>
+    <author>
+      <name>brendannee</name>
+      <uri>https://github.com/brendannee</uri>
+    </author>
+    <content type="html">
+      &lt;pre style=&#39;white-space:pre-wrap;width:81ex&#39;&gt;Update readme.md&lt;/pre&gt;
+    </content>
+  </entry>
+  <entry>
+    <id>tag:github.com,2008:Grit::Commit/0356fba76eac33ea81919d0b338a837fc5540dd8</id>
+    <link type="text/html" rel="alternate" href="https://github.com/sachinchoolur/lg-share.js/commit/0356fba76eac33ea81919d0b338a837fc5540dd8"/>
+    <title>
+        Remove Google Plus
+    </title>
+    <updated>2020-09-25T04:55:29Z</updated>
+    <media:thumbnail height="30" width="30" url="https://avatars.githubusercontent.com/u/96217?s=30&amp;u=3ee36aed97356340ad9930976f5bb2f151a68d3e&amp;v=4"/>
+    <author>
+      <name>brendannee</name>
+      <uri>https://github.com/brendannee</uri>
+    </author>
+    <content type="html">
+      &lt;pre style=&#39;white-space:pre-wrap;width:81ex&#39;&gt;Remove Google Plus&lt;/pre&gt;
+    </content>
+  </entry>
+  <entry>
+    <id>tag:github.com,2008:Grit::Commit/c8ce4cfae7a7c263abc21a16c360cb6d61a14890</id>
+    <link type="text/html" rel="alternate" href="https://github.com/sachinchoolur/lg-share.js/commit/c8ce4cfae7a7c263abc21a16c360cb6d61a14890"/>
+    <title>
+        accessibility - add button type
+    </title>
+    <updated>2020-06-04T17:05:08Z</updated>
+    <media:thumbnail height="30" width="30" url="https://avatars.githubusercontent.com/u/6586706?s=30&amp;u=93c7e2e7271ec018e5e029c30c9e1857602894b3&amp;v=4"/>
+    <author>
+      <name>sachinchoolur</name>
+      <uri>https://github.com/sachinchoolur</uri>
+    </author>
+    <content type="html">
+      &lt;pre style=&#39;white-space:pre-wrap;width:81ex&#39;&gt;accessibility - add button type&lt;/pre&gt;
+    </content>
+  </entry>
+  <entry>
+    <id>tag:github.com,2008:Grit::Commit/12aebc3b8a3e070247c42ee9b268a6dddc466c41</id>
+    <link type="text/html" rel="alternate" href="https://github.com/sachinchoolur/lg-share.js/commit/12aebc3b8a3e070247c42ee9b268a6dddc466c41"/>
+    <title>
+        Version 1.3.0 release
+    </title>
+    <updated>2020-05-20T16:40:21Z</updated>
+    <media:thumbnail height="30" width="30" url="https://avatars.githubusercontent.com/u/6586706?s=30&amp;u=93c7e2e7271ec018e5e029c30c9e1857602894b3&amp;v=4"/>
+    <author>
+      <name>sachinchoolur</name>
+      <uri>https://github.com/sachinchoolur</uri>
+    </author>
+    <content type="html">
+      &lt;pre style=&#39;white-space:pre-wrap;width:81ex&#39;&gt;Version 1.3.0 release&lt;/pre&gt;
+    </content>
+  </entry>
+  <entry>
+    <id>tag:github.com,2008:Grit::Commit/f8c67c518e1a125b3a8bd4d8b1633a6343786ce3</id>
+    <link type="text/html" rel="alternate" href="https://github.com/sachinchoolur/lg-share.js/commit/f8c67c518e1a125b3a8bd4d8b1633a6343786ce3"/>
+    <title>
+        Accessibility improvements
+    </title>
+    <updated>2020-05-19T17:07:28Z</updated>
+    <media:thumbnail height="30" width="30" url="https://avatars.githubusercontent.com/u/6586706?s=30&amp;u=93c7e2e7271ec018e5e029c30c9e1857602894b3&amp;v=4"/>
+    <author>
+      <name>sachinchoolur</name>
+      <uri>https://github.com/sachinchoolur</uri>
+    </author>
+    <content type="html">
+      &lt;pre style=&#39;white-space:pre-wrap;width:81ex&#39;&gt;Accessibility improvements&lt;/pre&gt;
+    </content>
+  </entry>
+  <entry>
+    <id>tag:github.com,2008:Grit::Commit/fd92ef746e458d9fa4a7186daec99eb64834ec95</id>
+    <link type="text/html" rel="alternate" href="https://github.com/sachinchoolur/lg-share.js/commit/fd92ef746e458d9fa4a7186daec99eb64834ec95"/>
+    <title>
+        Version 1.2.2 release
+    </title>
+    <updated>2018-01-14T04:17:35Z</updated>
+    <media:thumbnail height="30" width="30" url="https://avatars.githubusercontent.com/u/6586706?s=30&amp;u=93c7e2e7271ec018e5e029c30c9e1857602894b3&amp;v=4"/>
+    <author>
+      <name>sachinchoolur</name>
+      <uri>https://github.com/sachinchoolur</uri>
+    </author>
+    <content type="html">
+      &lt;pre style=&#39;white-space:pre-wrap;width:81ex&#39;&gt;Version 1.2.2 release&lt;/pre&gt;
+    </content>
+  </entry>
+  <entry>
+    <id>tag:github.com,2008:Grit::Commit/3db67b847858b45f8bb7547b0801e785adfe861a</id>
+    <link type="text/html" rel="alternate" href="https://github.com/sachinchoolur/lg-share.js/commit/3db67b847858b45f8bb7547b0801e785adfe861a"/>
+    <title>
+        Add Dynamic option support for share plugin
+    </title>
+    <updated>2018-01-14T03:31:28Z</updated>
+    <media:thumbnail height="30" width="30" url="https://avatars.githubusercontent.com/u/6586706?s=30&amp;u=93c7e2e7271ec018e5e029c30c9e1857602894b3&amp;v=4"/>
+    <author>
+      <name>sachinchoolur</name>
+      <uri>https://github.com/sachinchoolur</uri>
+    </author>
+    <content type="html">
+      &lt;pre style=&#39;white-space:pre-wrap;width:81ex&#39;&gt;Add Dynamic option support for share plugin&lt;/pre&gt;
+    </content>
+  </entry>
+  <entry>
+    <id>tag:github.com,2008:Grit::Commit/6ec9c3a03097b4a2cc157273c265e3f205fd2122</id>
+    <link type="text/html" rel="alternate" href="https://github.com/sachinchoolur/lg-share.js/commit/6ec9c3a03097b4a2cc157273c265e3f205fd2122"/>
+    <title>
+        Merge pull request #3 from syl20lego/issue2
+    </title>
+    <updated>2018-01-05T03:11:24Z</updated>
+    <media:thumbnail height="30" width="30" url="https://avatars.githubusercontent.com/u/6586706?s=30&amp;u=93c7e2e7271ec018e5e029c30c9e1857602894b3&amp;v=4"/>
+    <author>
+      <name>sachinchoolur</name>
+      <uri>https://github.com/sachinchoolur</uri>
+    </author>
+    <content type="html">
+      &lt;pre style=&#39;white-space:pre-wrap;width:81ex&#39;&gt;Merge pull request #3 from syl20lego/issue2
+
+support dynamicEl&lt;/pre&gt;
+    </content>
+  </entry>
+  <entry>
+    <id>tag:github.com,2008:Grit::Commit/a5bd7320c00cb007272133029f140695ab815750</id>
+    <link type="text/html" rel="alternate" href="https://github.com/sachinchoolur/lg-share.js/commit/a5bd7320c00cb007272133029f140695ab815750"/>
+    <title>
+        fixed method name
+    </title>
+    <updated>2017-12-19T16:39:17Z</updated>
+    <media:thumbnail height="30" width="30" url="https://1.gravatar.com/avatar/3850a260f8159f26ef37b6a8d0dc27b1?d=https%3A%2F%2Fgithub.githubassets.com%2Fimages%2Fgravatars%2Fgravatar-user-420.png&amp;r=g&amp;s=30"/>
+    <author>
+      <name></name>
+      <email>sylvain.legault@pj.ca</email>
+    </author>
+    <content type="html">
+      &lt;pre style=&#39;white-space:pre-wrap;width:81ex&#39;&gt;fixed method name&lt;/pre&gt;
+    </content>
+  </entry>
+  <entry>
+    <id>tag:github.com,2008:Grit::Commit/13209a8ae2fce408c4fe75a76d37ed04e0176bd1</id>
+    <link type="text/html" rel="alternate" href="https://github.com/sachinchoolur/lg-share.js/commit/13209a8ae2fce408c4fe75a76d37ed04e0176bd1"/>
+    <title>
+        adapted from jquery version
+    </title>
+    <updated>2017-12-19T16:36:39Z</updated>
+    <media:thumbnail height="30" width="30" url="https://1.gravatar.com/avatar/3850a260f8159f26ef37b6a8d0dc27b1?d=https%3A%2F%2Fgithub.githubassets.com%2Fimages%2Fgravatars%2Fgravatar-user-420.png&amp;r=g&amp;s=30"/>
+    <author>
+      <name></name>
+      <email>sylvain.legault@pj.ca</email>
+    </author>
+    <content type="html">
+      &lt;pre style=&#39;white-space:pre-wrap;width:81ex&#39;&gt;adapted from jquery version&lt;/pre&gt;
+    </content>
+  </entry>
+  <entry>
+    <id>tag:github.com,2008:Grit::Commit/2c44f796d2ca2464bfb9737ed947204d6b333134</id>
+    <link type="text/html" rel="alternate" href="https://github.com/sachinchoolur/lg-share.js/commit/2c44f796d2ca2464bfb9737ed947204d6b333134"/>
+    <title>
+        support dynamicEl
+    </title>
+    <updated>2017-12-14T14:34:33Z</updated>
+    <media:thumbnail height="30" width="30" url="https://1.gravatar.com/avatar/3850a260f8159f26ef37b6a8d0dc27b1?d=https%3A%2F%2Fgithub.githubassets.com%2Fimages%2Fgravatars%2Fgravatar-user-420.png&amp;r=g&amp;s=30"/>
+    <author>
+      <name></name>
+      <email>sylvain.legault@pj.ca</email>
+    </author>
+    <content type="html">
+      &lt;pre style=&#39;white-space:pre-wrap;width:81ex&#39;&gt;support dynamicEl
+
+support dynamicEl and check for provider enable&lt;/pre&gt;
+    </content>
+  </entry>
+  <entry>
+    <id>tag:github.com,2008:Grit::Commit/0156a830cbedb94b619eccc9a4791a489f485929</id>
+    <link type="text/html" rel="alternate" href="https://github.com/sachinchoolur/lg-share.js/commit/0156a830cbedb94b619eccc9a4791a489f485929"/>
+    <title>
+        Release version 1.0.0
+    </title>
+    <updated>2016-10-05T11:53:52Z</updated>
+    <media:thumbnail height="30" width="30" url="https://avatars.githubusercontent.com/u/6586706?s=30&amp;u=93c7e2e7271ec018e5e029c30c9e1857602894b3&amp;v=4"/>
+    <author>
+      <name>sachinchoolur</name>
+      <uri>https://github.com/sachinchoolur</uri>
+    </author>
+    <content type="html">
+      &lt;pre style=&#39;white-space:pre-wrap;width:81ex&#39;&gt;Release version 1.0.0&lt;/pre&gt;
+    </content>
+  </entry>
+  <entry>
+    <id>tag:github.com,2008:Grit::Commit/0be0e95e2282093ad39b5dc43d59995ecb156401</id>
+    <link type="text/html" rel="alternate" href="https://github.com/sachinchoolur/lg-share.js/commit/0be0e95e2282093ad39b5dc43d59995ecb156401"/>
+    <title>
+        Update contributing.md
+    </title>
+    <updated>2016-08-01T10:50:15Z</updated>
+    <media:thumbnail height="30" width="30" url="https://avatars.githubusercontent.com/u/6586706?s=30&amp;u=93c7e2e7271ec018e5e029c30c9e1857602894b3&amp;v=4"/>
+    <author>
+      <name>sachinchoolur</name>
+      <uri>https://github.com/sachinchoolur</uri>
+    </author>
+    <content type="html">
+      &lt;pre style=&#39;white-space:pre-wrap;width:81ex&#39;&gt;Update contributing.md&lt;/pre&gt;
+    </content>
+  </entry>
+  <entry>
+    <id>tag:github.com,2008:Grit::Commit/2b599f9c0728c9aae56d267c67212afda2517dfa</id>
+    <link type="text/html" rel="alternate" href="https://github.com/sachinchoolur/lg-share.js/commit/2b599f9c0728c9aae56d267c67212afda2517dfa"/>
+    <title>
+        Dist
+    </title>
+    <updated>2016-08-01T03:42:14Z</updated>
+    <media:thumbnail height="30" width="30" url="https://avatars.githubusercontent.com/u/6586706?s=30&amp;u=93c7e2e7271ec018e5e029c30c9e1857602894b3&amp;v=4"/>
+    <author>
+      <name>sachinchoolur</name>
+      <uri>https://github.com/sachinchoolur</uri>
+    </author>
+    <content type="html">
+      &lt;pre style=&#39;white-space:pre-wrap;width:81ex&#39;&gt;Dist&lt;/pre&gt;
+    </content>
+  </entry>
+  <entry>
+    <id>tag:github.com,2008:Grit::Commit/6b3b8d372bf413ecb3f35ec635457e029d174402</id>
+    <link type="text/html" rel="alternate" href="https://github.com/sachinchoolur/lg-share.js/commit/6b3b8d372bf413ecb3f35ec635457e029d174402"/>
+    <title>
+        &quot;Init&quot;
+    </title>
+    <updated>2016-08-01T03:10:33Z</updated>
+    <media:thumbnail height="30" width="30" url="https://avatars.githubusercontent.com/u/6586706?s=30&amp;u=93c7e2e7271ec018e5e029c30c9e1857602894b3&amp;v=4"/>
+    <author>
+      <name>sachinchoolur</name>
+      <uri>https://github.com/sachinchoolur</uri>
+    </author>
+    <content type="html">
+      &lt;pre style=&#39;white-space:pre-wrap;width:81ex&#39;&gt;&amp;quot;Init&amp;quot;&lt;/pre&gt;
+    </content>
+  </entry>
+</feed>

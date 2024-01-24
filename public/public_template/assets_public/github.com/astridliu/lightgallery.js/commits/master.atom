@@ -1,0 +1,309 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/" xml:lang="en-US">
+  <id>tag:github.com,2008:/astridliu/lightgallery.js/commits/master</id>
+  <link type="text/html" rel="alternate" href="https://github.com/astridliu/lightgallery.js/commits/master"/>
+  <link type="application/atom+xml" rel="self" href="https://github.com/astridliu/lightgallery.js/commits/master.atom"/>
+  <title>Recent Commits to lightgallery.js:master</title>
+  <updated>2016-08-02T16:29:33Z</updated>
+  <entry>
+    <id>tag:github.com,2008:Grit::Commit/587db55ec8474b8850a7c9908dc55862bd2378e3</id>
+    <link type="text/html" rel="alternate" href="https://github.com/astridliu/lightgallery.js/commit/587db55ec8474b8850a7c9908dc55862bd2378e3"/>
+    <title>
+        Merge pull request #2 from XhmikosR/img-compress
+    </title>
+    <updated>2016-08-02T16:29:33Z</updated>
+    <media:thumbnail height="30" width="30" url="https://avatars.githubusercontent.com/u/6586706?s=30&amp;u=93c7e2e7271ec018e5e029c30c9e1857602894b3&amp;v=4"/>
+    <author>
+      <name>sachinchoolur</name>
+      <uri>https://github.com/sachinchoolur</uri>
+    </author>
+    <content type="html">
+      &lt;pre style=&#39;white-space:pre-wrap;width:81ex&#39;&gt;Merge pull request #2 from XhmikosR/img-compress
+
+Losslessly compress images.&lt;/pre&gt;
+    </content>
+  </entry>
+  <entry>
+    <id>tag:github.com,2008:Grit::Commit/00d954d34be3454af3ed032517a4eb3c920c3bf0</id>
+    <link type="text/html" rel="alternate" href="https://github.com/astridliu/lightgallery.js/commit/00d954d34be3454af3ed032517a4eb3c920c3bf0"/>
+    <title>
+        Update readme.md
+    </title>
+    <updated>2016-08-02T16:29:25Z</updated>
+    <media:thumbnail height="30" width="30" url="https://avatars.githubusercontent.com/u/6586706?s=30&amp;u=93c7e2e7271ec018e5e029c30c9e1857602894b3&amp;v=4"/>
+    <author>
+      <name>sachinchoolur</name>
+      <uri>https://github.com/sachinchoolur</uri>
+    </author>
+    <content type="html">
+      &lt;pre style=&#39;white-space:pre-wrap;width:81ex&#39;&gt;Update readme.md&lt;/pre&gt;
+    </content>
+  </entry>
+  <entry>
+    <id>tag:github.com,2008:Grit::Commit/c4820db08ce4fe84e5b76615235775d60c3b92c1</id>
+    <link type="text/html" rel="alternate" href="https://github.com/astridliu/lightgallery.js/commit/c4820db08ce4fe84e5b76615235775d60c3b92c1"/>
+    <title>
+        Merge pull request #4 from XhmikosR/readme
+    </title>
+    <updated>2016-08-02T16:28:29Z</updated>
+    <media:thumbnail height="30" width="30" url="https://avatars.githubusercontent.com/u/6586706?s=30&amp;u=93c7e2e7271ec018e5e029c30c9e1857602894b3&amp;v=4"/>
+    <author>
+      <name>sachinchoolur</name>
+      <uri>https://github.com/sachinchoolur</uri>
+    </author>
+    <content type="html">
+      &lt;pre style=&#39;white-space:pre-wrap;width:81ex&#39;&gt;Merge pull request #4 from XhmikosR/readme
+
+Tweak readme.md.&lt;/pre&gt;
+    </content>
+  </entry>
+  <entry>
+    <id>tag:github.com,2008:Grit::Commit/b2f17a759c26e48b8ad4f5ddbf71c696ecc9905e</id>
+    <link type="text/html" rel="alternate" href="https://github.com/astridliu/lightgallery.js/commit/b2f17a759c26e48b8ad4f5ddbf71c696ecc9905e"/>
+    <title>
+        Merge pull request #1 from XhmikosR/master
+    </title>
+    <updated>2016-08-02T16:27:36Z</updated>
+    <media:thumbnail height="30" width="30" url="https://avatars.githubusercontent.com/u/6586706?s=30&amp;u=93c7e2e7271ec018e5e029c30c9e1857602894b3&amp;v=4"/>
+    <author>
+      <name>sachinchoolur</name>
+      <uri>https://github.com/sachinchoolur</uri>
+    </author>
+    <content type="html">
+      &lt;pre style=&#39;white-space:pre-wrap;width:81ex&#39;&gt;Merge pull request #1 from XhmikosR/master
+
+demo/index.html: fix validation errors and minor cleanup.&lt;/pre&gt;
+    </content>
+  </entry>
+  <entry>
+    <id>tag:github.com,2008:Grit::Commit/f196b1d99c174378934bcbb1ccc899b1e1460b12</id>
+    <link type="text/html" rel="alternate" href="https://github.com/astridliu/lightgallery.js/commit/f196b1d99c174378934bcbb1ccc899b1e1460b12"/>
+    <title>
+        Tweak readme.md.
+    </title>
+    <updated>2016-08-02T09:54:10Z</updated>
+    <media:thumbnail height="30" width="30" url="https://avatars.githubusercontent.com/u/349621?s=30&amp;u=7a5274e187f0b3476d3d1ea2ad2f9974a8bca846&amp;v=4"/>
+    <author>
+      <name>XhmikosR</name>
+      <uri>https://github.com/XhmikosR</uri>
+    </author>
+    <content type="html">
+      &lt;pre style=&#39;white-space:pre-wrap;width:81ex&#39;&gt;Tweak readme.md.
+
+* use `https` everywhere
+* fix a few typos
+* minor markdown tweaks&lt;/pre&gt;
+    </content>
+  </entry>
+  <entry>
+    <id>tag:github.com,2008:Grit::Commit/8d5d2071365b37d350364f9beb4ce67cc7872e32</id>
+    <link type="text/html" rel="alternate" href="https://github.com/astridliu/lightgallery.js/commit/8d5d2071365b37d350364f9beb4ce67cc7872e32"/>
+    <title>
+        demo/index.html: fix validation errors and minor cleanup.
+    </title>
+    <updated>2016-08-02T09:29:02Z</updated>
+    <media:thumbnail height="30" width="30" url="https://avatars.githubusercontent.com/u/349621?s=30&amp;u=7a5274e187f0b3476d3d1ea2ad2f9974a8bca846&amp;v=4"/>
+    <author>
+      <name>XhmikosR</name>
+      <uri>https://github.com/XhmikosR</uri>
+    </author>
+    <content type="html">
+      &lt;pre style=&#39;white-space:pre-wrap;width:81ex&#39;&gt;demo/index.html: fix validation errors and minor cleanup.&lt;/pre&gt;
+    </content>
+  </entry>
+  <entry>
+    <id>tag:github.com,2008:Grit::Commit/296c66b3275618af8dcd1f3ccfccf929a423bb94</id>
+    <link type="text/html" rel="alternate" href="https://github.com/astridliu/lightgallery.js/commit/296c66b3275618af8dcd1f3ccfccf929a423bb94"/>
+    <title>
+        Losslessly compress images.
+    </title>
+    <updated>2016-08-02T09:23:33Z</updated>
+    <media:thumbnail height="30" width="30" url="https://avatars.githubusercontent.com/u/349621?s=30&amp;u=7a5274e187f0b3476d3d1ea2ad2f9974a8bca846&amp;v=4"/>
+    <author>
+      <name>XhmikosR</name>
+      <uri>https://github.com/XhmikosR</uri>
+    </author>
+    <content type="html">
+      &lt;pre style=&#39;white-space:pre-wrap;width:81ex&#39;&gt;Losslessly compress images.
+
+Before: 1,78 MB (1.876.598 bytes)
+After:  1,69 MB (1.779.550 bytes)&lt;/pre&gt;
+    </content>
+  </entry>
+  <entry>
+    <id>tag:github.com,2008:Grit::Commit/b1684c00f5ed1a119009d5cededca1ad83dc7861</id>
+    <link type="text/html" rel="alternate" href="https://github.com/astridliu/lightgallery.js/commit/b1684c00f5ed1a119009d5cededca1ad83dc7861"/>
+    <title>
+        Added lightgallery.js to demo folder
+    </title>
+    <updated>2016-08-02T06:42:32Z</updated>
+    <media:thumbnail height="30" width="30" url="https://avatars.githubusercontent.com/u/6586706?s=30&amp;u=93c7e2e7271ec018e5e029c30c9e1857602894b3&amp;v=4"/>
+    <author>
+      <name>sachinchoolur</name>
+      <uri>https://github.com/sachinchoolur</uri>
+    </author>
+    <content type="html">
+      &lt;pre style=&#39;white-space:pre-wrap;width:81ex&#39;&gt;Added lightgallery.js to demo folder&lt;/pre&gt;
+    </content>
+  </entry>
+  <entry>
+    <id>tag:github.com,2008:Grit::Commit/f505290f3552a9f22a8e7dc4167d93da0e2ee92e</id>
+    <link type="text/html" rel="alternate" href="https://github.com/astridliu/lightgallery.js/commit/f505290f3552a9f22a8e7dc4167d93da0e2ee92e"/>
+    <title>
+        Demo update..
+    </title>
+    <updated>2016-08-02T06:35:31Z</updated>
+    <media:thumbnail height="30" width="30" url="https://avatars.githubusercontent.com/u/6586706?s=30&amp;u=93c7e2e7271ec018e5e029c30c9e1857602894b3&amp;v=4"/>
+    <author>
+      <name>sachinchoolur</name>
+      <uri>https://github.com/sachinchoolur</uri>
+    </author>
+    <content type="html">
+      &lt;pre style=&#39;white-space:pre-wrap;width:81ex&#39;&gt;Demo update..&lt;/pre&gt;
+    </content>
+  </entry>
+  <entry>
+    <id>tag:github.com,2008:Grit::Commit/80556474845f9f0719df12f88da784ed1a411179</id>
+    <link type="text/html" rel="alternate" href="https://github.com/astridliu/lightgallery.js/commit/80556474845f9f0719df12f88da784ed1a411179"/>
+    <title>
+        Demo updates..
+    </title>
+    <updated>2016-08-02T05:11:38Z</updated>
+    <media:thumbnail height="30" width="30" url="https://avatars.githubusercontent.com/u/6586706?s=30&amp;u=93c7e2e7271ec018e5e029c30c9e1857602894b3&amp;v=4"/>
+    <author>
+      <name>sachinchoolur</name>
+      <uri>https://github.com/sachinchoolur</uri>
+    </author>
+    <content type="html">
+      &lt;pre style=&#39;white-space:pre-wrap;width:81ex&#39;&gt;Demo updates..&lt;/pre&gt;
+    </content>
+  </entry>
+  <entry>
+    <id>tag:github.com,2008:Grit::Commit/f3d0ddb986c8656445160afc297cb560d8980196</id>
+    <link type="text/html" rel="alternate" href="https://github.com/astridliu/lightgallery.js/commit/f3d0ddb986c8656445160afc297cb560d8980196"/>
+    <title>
+        Update contributing.md
+    </title>
+    <updated>2016-08-01T10:41:55Z</updated>
+    <media:thumbnail height="30" width="30" url="https://avatars.githubusercontent.com/u/6586706?s=30&amp;u=93c7e2e7271ec018e5e029c30c9e1857602894b3&amp;v=4"/>
+    <author>
+      <name>sachinchoolur</name>
+      <uri>https://github.com/sachinchoolur</uri>
+    </author>
+    <content type="html">
+      &lt;pre style=&#39;white-space:pre-wrap;width:81ex&#39;&gt;Update contributing.md&lt;/pre&gt;
+    </content>
+  </entry>
+  <entry>
+    <id>tag:github.com,2008:Grit::Commit/bfcc4b91a6dc4235cf449701587bb2c2f383bf82</id>
+    <link type="text/html" rel="alternate" href="https://github.com/astridliu/lightgallery.js/commit/bfcc4b91a6dc4235cf449701587bb2c2f383bf82"/>
+    <title>
+        Update readme.md
+    </title>
+    <updated>2016-08-01T10:08:50Z</updated>
+    <media:thumbnail height="30" width="30" url="https://avatars.githubusercontent.com/u/6586706?s=30&amp;u=93c7e2e7271ec018e5e029c30c9e1857602894b3&amp;v=4"/>
+    <author>
+      <name>sachinchoolur</name>
+      <uri>https://github.com/sachinchoolur</uri>
+    </author>
+    <content type="html">
+      &lt;pre style=&#39;white-space:pre-wrap;width:81ex&#39;&gt;Update readme.md&lt;/pre&gt;
+    </content>
+  </entry>
+  <entry>
+    <id>tag:github.com,2008:Grit::Commit/42d2975f6f933e5b8f84420f3bd916f15bd1cbdf</id>
+    <link type="text/html" rel="alternate" href="https://github.com/astridliu/lightgallery.js/commit/42d2975f6f933e5b8f84420f3bd916f15bd1cbdf"/>
+    <title>
+        Update readme.md
+    </title>
+    <updated>2016-08-01T06:04:55Z</updated>
+    <media:thumbnail height="30" width="30" url="https://avatars.githubusercontent.com/u/6586706?s=30&amp;u=93c7e2e7271ec018e5e029c30c9e1857602894b3&amp;v=4"/>
+    <author>
+      <name>sachinchoolur</name>
+      <uri>https://github.com/sachinchoolur</uri>
+    </author>
+    <content type="html">
+      &lt;pre style=&#39;white-space:pre-wrap;width:81ex&#39;&gt;Update readme.md&lt;/pre&gt;
+    </content>
+  </entry>
+  <entry>
+    <id>tag:github.com,2008:Grit::Commit/6774b79b3f7055d6c5f86b2293ac9b2316477d3e</id>
+    <link type="text/html" rel="alternate" href="https://github.com/astridliu/lightgallery.js/commit/6774b79b3f7055d6c5f86b2293ac9b2316477d3e"/>
+    <title>
+        Update..
+    </title>
+    <updated>2016-08-01T05:17:23Z</updated>
+    <media:thumbnail height="30" width="30" url="https://avatars.githubusercontent.com/u/6586706?s=30&amp;u=93c7e2e7271ec018e5e029c30c9e1857602894b3&amp;v=4"/>
+    <author>
+      <name>sachinchoolur</name>
+      <uri>https://github.com/sachinchoolur</uri>
+    </author>
+    <content type="html">
+      &lt;pre style=&#39;white-space:pre-wrap;width:81ex&#39;&gt;Update..&lt;/pre&gt;
+    </content>
+  </entry>
+  <entry>
+    <id>tag:github.com,2008:Grit::Commit/529577b053588713f9efc70327a3df4ac4a6c1cf</id>
+    <link type="text/html" rel="alternate" href="https://github.com/astridliu/lightgallery.js/commit/529577b053588713f9efc70327a3df4ac4a6c1cf"/>
+    <title>
+        Update read
+    </title>
+    <updated>2016-08-01T05:14:21Z</updated>
+    <media:thumbnail height="30" width="30" url="https://avatars.githubusercontent.com/u/6586706?s=30&amp;u=93c7e2e7271ec018e5e029c30c9e1857602894b3&amp;v=4"/>
+    <author>
+      <name>sachinchoolur</name>
+      <uri>https://github.com/sachinchoolur</uri>
+    </author>
+    <content type="html">
+      &lt;pre style=&#39;white-space:pre-wrap;width:81ex&#39;&gt;Update read&lt;/pre&gt;
+    </content>
+  </entry>
+  <entry>
+    <id>tag:github.com,2008:Grit::Commit/e318ed40bb4ee1e02bd2a6139571fc7ecfda0832</id>
+    <link type="text/html" rel="alternate" href="https://github.com/astridliu/lightgallery.js/commit/e318ed40bb4ee1e02bd2a6139571fc7ecfda0832"/>
+    <title>
+        Add image.
+    </title>
+    <updated>2016-08-01T05:10:24Z</updated>
+    <media:thumbnail height="30" width="30" url="https://avatars.githubusercontent.com/u/6586706?s=30&amp;u=93c7e2e7271ec018e5e029c30c9e1857602894b3&amp;v=4"/>
+    <author>
+      <name>sachinchoolur</name>
+      <uri>https://github.com/sachinchoolur</uri>
+    </author>
+    <content type="html">
+      &lt;pre style=&#39;white-space:pre-wrap;width:81ex&#39;&gt;Add image.&lt;/pre&gt;
+    </content>
+  </entry>
+  <entry>
+    <id>tag:github.com,2008:Grit::Commit/7f9cfa3ec9e1015f5efd8be405b895f9b22e0ad8</id>
+    <link type="text/html" rel="alternate" href="https://github.com/astridliu/lightgallery.js/commit/7f9cfa3ec9e1015f5efd8be405b895f9b22e0ad8"/>
+    <title>
+        Dist
+    </title>
+    <updated>2016-08-01T05:01:40Z</updated>
+    <media:thumbnail height="30" width="30" url="https://avatars.githubusercontent.com/u/6586706?s=30&amp;u=93c7e2e7271ec018e5e029c30c9e1857602894b3&amp;v=4"/>
+    <author>
+      <name>sachinchoolur</name>
+      <uri>https://github.com/sachinchoolur</uri>
+    </author>
+    <content type="html">
+      &lt;pre style=&#39;white-space:pre-wrap;width:81ex&#39;&gt;Dist&lt;/pre&gt;
+    </content>
+  </entry>
+  <entry>
+    <id>tag:github.com,2008:Grit::Commit/4fdccfa449b5303f774be7291d9e22696b336a54</id>
+    <link type="text/html" rel="alternate" href="https://github.com/astridliu/lightgallery.js/commit/4fdccfa449b5303f774be7291d9e22696b336a54"/>
+    <title>
+        &quot;Init&quot;
+    </title>
+    <updated>2016-08-01T04:20:21Z</updated>
+    <media:thumbnail height="30" width="30" url="https://avatars.githubusercontent.com/u/6586706?s=30&amp;u=93c7e2e7271ec018e5e029c30c9e1857602894b3&amp;v=4"/>
+    <author>
+      <name>sachinchoolur</name>
+      <uri>https://github.com/sachinchoolur</uri>
+    </author>
+    <content type="html">
+      &lt;pre style=&#39;white-space:pre-wrap;width:81ex&#39;&gt;&amp;quot;Init&amp;quot;&lt;/pre&gt;
+    </content>
+  </entry>
+</feed>

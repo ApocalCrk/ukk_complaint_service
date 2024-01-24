@@ -1,0 +1,220 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/" xml:lang="en-US">
+  <id>tag:github.com,2008:/sachinchoolur/lg-fullscreen.js/commits/master</id>
+  <link type="text/html" rel="alternate" href="https://github.com/sachinchoolur/lg-fullscreen.js/commits/master"/>
+  <link type="application/atom+xml" rel="self" href="https://github.com/sachinchoolur/lg-fullscreen.js/commits/master.atom"/>
+  <title>Recent Commits to lg-fullscreen.js:master</title>
+  <updated>2020-11-09T17:51:07Z</updated>
+  <entry>
+    <id>tag:github.com,2008:Grit::Commit/7a18c9df84392fa10e877783496a87ee5907d59b</id>
+    <link type="text/html" rel="alternate" href="https://github.com/sachinchoolur/lg-fullscreen.js/commit/7a18c9df84392fa10e877783496a87ee5907d59b"/>
+    <title>
+        Update readme.md
+    </title>
+    <updated>2020-11-09T17:51:07Z</updated>
+    <media:thumbnail height="30" width="30" url="https://avatars.githubusercontent.com/u/6586706?s=30&amp;u=93c7e2e7271ec018e5e029c30c9e1857602894b3&amp;v=4"/>
+    <author>
+      <name>sachinchoolur</name>
+      <uri>https://github.com/sachinchoolur</uri>
+    </author>
+    <content type="html">
+      &lt;pre style=&#39;white-space:pre-wrap;width:81ex&#39;&gt;Update readme.md&lt;/pre&gt;
+    </content>
+  </entry>
+  <entry>
+    <id>tag:github.com,2008:Grit::Commit/e0d140fe788084025b618b74a8792fb4e79e8279</id>
+    <link type="text/html" rel="alternate" href="https://github.com/sachinchoolur/lg-fullscreen.js/commit/e0d140fe788084025b618b74a8792fb4e79e8279"/>
+    <title>
+        accessibility - add button type
+    </title>
+    <updated>2020-06-04T17:06:41Z</updated>
+    <media:thumbnail height="30" width="30" url="https://avatars.githubusercontent.com/u/6586706?s=30&amp;u=93c7e2e7271ec018e5e029c30c9e1857602894b3&amp;v=4"/>
+    <author>
+      <name>sachinchoolur</name>
+      <uri>https://github.com/sachinchoolur</uri>
+    </author>
+    <content type="html">
+      &lt;pre style=&#39;white-space:pre-wrap;width:81ex&#39;&gt;accessibility - add button type&lt;/pre&gt;
+    </content>
+  </entry>
+  <entry>
+    <id>tag:github.com,2008:Grit::Commit/0fcdfa281bb1c75e3b80b6b84d8c1dc1d001140c</id>
+    <link type="text/html" rel="alternate" href="https://github.com/sachinchoolur/lg-fullscreen.js/commit/0fcdfa281bb1c75e3b80b6b84d8c1dc1d001140c"/>
+    <title>
+        Merge pull request #2 from stof/patch-1
+    </title>
+    <updated>2020-06-04T16:23:23Z</updated>
+    <media:thumbnail height="30" width="30" url="https://avatars.githubusercontent.com/u/6586706?s=30&amp;u=93c7e2e7271ec018e5e029c30c9e1857602894b3&amp;v=4"/>
+    <author>
+      <name>sachinchoolur</name>
+      <uri>https://github.com/sachinchoolur</uri>
+    </author>
+    <content type="html">
+      &lt;pre style=&#39;white-space:pre-wrap;width:81ex&#39;&gt;Merge pull request #2 from stof/patch-1
+
+Fix the homepage for the npm package&lt;/pre&gt;
+    </content>
+  </entry>
+  <entry>
+    <id>tag:github.com,2008:Grit::Commit/88a1037880ae658f9671cec02c61a2e30420fc40</id>
+    <link type="text/html" rel="alternate" href="https://github.com/sachinchoolur/lg-fullscreen.js/commit/88a1037880ae658f9671cec02c61a2e30420fc40"/>
+    <title>
+        Fix the homepage for the npm package
+    </title>
+    <updated>2020-06-01T09:44:15Z</updated>
+    <media:thumbnail height="30" width="30" url="https://avatars.githubusercontent.com/u/439401?s=30&amp;v=4"/>
+    <author>
+      <name>stof</name>
+      <uri>https://github.com/stof</uri>
+    </author>
+    <content type="html">
+      &lt;pre style=&#39;white-space:pre-wrap;width:81ex&#39;&gt;Fix the homepage for the npm package
+
+This repository does not have its own dedicated github pages website.&lt;/pre&gt;
+    </content>
+  </entry>
+  <entry>
+    <id>tag:github.com,2008:Grit::Commit/17538b6a5884a01f5cdc778830fc10fe2dacd4b7</id>
+    <link type="text/html" rel="alternate" href="https://github.com/sachinchoolur/lg-fullscreen.js/commit/17538b6a5884a01f5cdc778830fc10fe2dacd4b7"/>
+    <title>
+        Version 1.2.0 release
+    </title>
+    <updated>2020-05-20T16:37:46Z</updated>
+    <media:thumbnail height="30" width="30" url="https://avatars.githubusercontent.com/u/6586706?s=30&amp;u=93c7e2e7271ec018e5e029c30c9e1857602894b3&amp;v=4"/>
+    <author>
+      <name>sachinchoolur</name>
+      <uri>https://github.com/sachinchoolur</uri>
+    </author>
+    <content type="html">
+      &lt;pre style=&#39;white-space:pre-wrap;width:81ex&#39;&gt;Version 1.2.0 release&lt;/pre&gt;
+    </content>
+  </entry>
+  <entry>
+    <id>tag:github.com,2008:Grit::Commit/7dc9f650af51629c01a1a2947520201547adfbdc</id>
+    <link type="text/html" rel="alternate" href="https://github.com/sachinchoolur/lg-fullscreen.js/commit/7dc9f650af51629c01a1a2947520201547adfbdc"/>
+    <title>
+        accessibility improvements
+    </title>
+    <updated>2020-05-19T16:43:51Z</updated>
+    <media:thumbnail height="30" width="30" url="https://avatars.githubusercontent.com/u/6586706?s=30&amp;u=93c7e2e7271ec018e5e029c30c9e1857602894b3&amp;v=4"/>
+    <author>
+      <name>sachinchoolur</name>
+      <uri>https://github.com/sachinchoolur</uri>
+    </author>
+    <content type="html">
+      &lt;pre style=&#39;white-space:pre-wrap;width:81ex&#39;&gt;accessibility improvements&lt;/pre&gt;
+    </content>
+  </entry>
+  <entry>
+    <id>tag:github.com,2008:Grit::Commit/d05dc4aaf4985302aac8cd3223c46c62b7c48bab</id>
+    <link type="text/html" rel="alternate" href="https://github.com/sachinchoolur/lg-fullscreen.js/commit/d05dc4aaf4985302aac8cd3223c46c62b7c48bab"/>
+    <title>
+        Release 1.1.0
+    </title>
+    <updated>2019-02-23T14:13:55Z</updated>
+    <media:thumbnail height="30" width="30" url="https://avatars.githubusercontent.com/u/6586706?s=30&amp;u=93c7e2e7271ec018e5e029c30c9e1857602894b3&amp;v=4"/>
+    <author>
+      <name>sachinchoolur</name>
+      <uri>https://github.com/sachinchoolur</uri>
+    </author>
+    <content type="html">
+      &lt;pre style=&#39;white-space:pre-wrap;width:81ex&#39;&gt;Release 1.1.0&lt;/pre&gt;
+    </content>
+  </entry>
+  <entry>
+    <id>tag:github.com,2008:Grit::Commit/d7de94b799dc3f3b02daef045ae43df35605de1e</id>
+    <link type="text/html" rel="alternate" href="https://github.com/sachinchoolur/lg-fullscreen.js/commit/d7de94b799dc3f3b02daef045ae43df35605de1e"/>
+    <title>
+        FIx error while closing gallery (Uncaught (in promise) TypeError: Doc…
+    </title>
+    <updated>2019-02-23T14:12:55Z</updated>
+    <media:thumbnail height="30" width="30" url="https://avatars.githubusercontent.com/u/6586706?s=30&amp;u=93c7e2e7271ec018e5e029c30c9e1857602894b3&amp;v=4"/>
+    <author>
+      <name>sachinchoolur</name>
+      <uri>https://github.com/sachinchoolur</uri>
+    </author>
+    <content type="html">
+      &lt;pre style=&#39;white-space:pre-wrap;width:81ex&#39;&gt;FIx error while closing gallery (Uncaught (in promise) TypeError: Document not active)&lt;/pre&gt;
+    </content>
+  </entry>
+  <entry>
+    <id>tag:github.com,2008:Grit::Commit/fe9bcfb66205695aecbf0479ef170c3da0cf821b</id>
+    <link type="text/html" rel="alternate" href="https://github.com/sachinchoolur/lg-fullscreen.js/commit/fe9bcfb66205695aecbf0479ef170c3da0cf821b"/>
+    <title>
+        Update
+    </title>
+    <updated>2016-10-05T11:49:10Z</updated>
+    <media:thumbnail height="30" width="30" url="https://avatars.githubusercontent.com/u/6586706?s=30&amp;u=93c7e2e7271ec018e5e029c30c9e1857602894b3&amp;v=4"/>
+    <author>
+      <name>sachinchoolur</name>
+      <uri>https://github.com/sachinchoolur</uri>
+    </author>
+    <content type="html">
+      &lt;pre style=&#39;white-space:pre-wrap;width:81ex&#39;&gt;Update&lt;/pre&gt;
+    </content>
+  </entry>
+  <entry>
+    <id>tag:github.com,2008:Grit::Commit/f6b1fb3bda460944cbb35aea0895764c343a05cf</id>
+    <link type="text/html" rel="alternate" href="https://github.com/sachinchoolur/lg-fullscreen.js/commit/f6b1fb3bda460944cbb35aea0895764c343a05cf"/>
+    <title>
+        Version 1.0.0 release
+    </title>
+    <updated>2016-10-05T11:42:17Z</updated>
+    <media:thumbnail height="30" width="30" url="https://avatars.githubusercontent.com/u/6586706?s=30&amp;u=93c7e2e7271ec018e5e029c30c9e1857602894b3&amp;v=4"/>
+    <author>
+      <name>sachinchoolur</name>
+      <uri>https://github.com/sachinchoolur</uri>
+    </author>
+    <content type="html">
+      &lt;pre style=&#39;white-space:pre-wrap;width:81ex&#39;&gt;Version 1.0.0 release&lt;/pre&gt;
+    </content>
+  </entry>
+  <entry>
+    <id>tag:github.com,2008:Grit::Commit/04a9491a0d73b7a495f456bdaae4134727af1ed4</id>
+    <link type="text/html" rel="alternate" href="https://github.com/sachinchoolur/lg-fullscreen.js/commit/04a9491a0d73b7a495f456bdaae4134727af1ed4"/>
+    <title>
+        Update contributing.md
+    </title>
+    <updated>2016-08-01T10:45:15Z</updated>
+    <media:thumbnail height="30" width="30" url="https://avatars.githubusercontent.com/u/6586706?s=30&amp;u=93c7e2e7271ec018e5e029c30c9e1857602894b3&amp;v=4"/>
+    <author>
+      <name>sachinchoolur</name>
+      <uri>https://github.com/sachinchoolur</uri>
+    </author>
+    <content type="html">
+      &lt;pre style=&#39;white-space:pre-wrap;width:81ex&#39;&gt;Update contributing.md&lt;/pre&gt;
+    </content>
+  </entry>
+  <entry>
+    <id>tag:github.com,2008:Grit::Commit/fa1912150a0646e0ca3ed0f89fb72fd9278445d2</id>
+    <link type="text/html" rel="alternate" href="https://github.com/sachinchoolur/lg-fullscreen.js/commit/fa1912150a0646e0ca3ed0f89fb72fd9278445d2"/>
+    <title>
+        Dist
+    </title>
+    <updated>2016-08-01T03:43:24Z</updated>
+    <media:thumbnail height="30" width="30" url="https://avatars.githubusercontent.com/u/6586706?s=30&amp;u=93c7e2e7271ec018e5e029c30c9e1857602894b3&amp;v=4"/>
+    <author>
+      <name>sachinchoolur</name>
+      <uri>https://github.com/sachinchoolur</uri>
+    </author>
+    <content type="html">
+      &lt;pre style=&#39;white-space:pre-wrap;width:81ex&#39;&gt;Dist&lt;/pre&gt;
+    </content>
+  </entry>
+  <entry>
+    <id>tag:github.com,2008:Grit::Commit/8ad30ea72f9f1b200d38306d0f6c40e0aa38f524</id>
+    <link type="text/html" rel="alternate" href="https://github.com/sachinchoolur/lg-fullscreen.js/commit/8ad30ea72f9f1b200d38306d0f6c40e0aa38f524"/>
+    <title>
+        &quot;Init&quot;
+    </title>
+    <updated>2016-08-01T03:27:56Z</updated>
+    <media:thumbnail height="30" width="30" url="https://avatars.githubusercontent.com/u/6586706?s=30&amp;u=93c7e2e7271ec018e5e029c30c9e1857602894b3&amp;v=4"/>
+    <author>
+      <name>sachinchoolur</name>
+      <uri>https://github.com/sachinchoolur</uri>
+    </author>
+    <content type="html">
+      &lt;pre style=&#39;white-space:pre-wrap;width:81ex&#39;&gt;&amp;quot;Init&amp;quot;&lt;/pre&gt;
+    </content>
+  </entry>
+</feed>

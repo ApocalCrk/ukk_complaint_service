@@ -1,0 +1,7 @@
+diff --git a/.gitattributes b/.gitattributes
+index 427c7cc..c72ac04 100644
+--- a/.gitattributes
++++ b/.gitattributes
+@@ -1 +1 @@
+-*.css linguist-language=javascript
++src/sass/* linguist-vendored

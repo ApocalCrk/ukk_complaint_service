@@ -1,0 +1,252 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/" xml:lang="en-US">
+  <id>tag:github.com,2008:/sachinchoolur/lg-thumbnail.js/commits/master</id>
+  <link type="text/html" rel="alternate" href="https://github.com/sachinchoolur/lg-thumbnail.js/commits/master"/>
+  <link type="application/atom+xml" rel="self" href="https://github.com/sachinchoolur/lg-thumbnail.js/commits/master.atom"/>
+  <title>Recent Commits to lg-thumbnail.js:master</title>
+  <updated>2020-11-09T17:50:02Z</updated>
+  <entry>
+    <id>tag:github.com,2008:Grit::Commit/34761612cd20cbabc0bbeb67bbfedf31c2f79fa9</id>
+    <link type="text/html" rel="alternate" href="https://github.com/sachinchoolur/lg-thumbnail.js/commit/34761612cd20cbabc0bbeb67bbfedf31c2f79fa9"/>
+    <title>
+        Update readme.md
+    </title>
+    <updated>2020-11-09T17:50:02Z</updated>
+    <media:thumbnail height="30" width="30" url="https://avatars.githubusercontent.com/u/6586706?s=30&amp;u=93c7e2e7271ec018e5e029c30c9e1857602894b3&amp;v=4"/>
+    <author>
+      <name>sachinchoolur</name>
+      <uri>https://github.com/sachinchoolur</uri>
+    </author>
+    <content type="html">
+      &lt;pre style=&#39;white-space:pre-wrap;width:81ex&#39;&gt;Update readme.md&lt;/pre&gt;
+    </content>
+  </entry>
+  <entry>
+    <id>tag:github.com,2008:Grit::Commit/ff49c677434fb7db7fa8a40410daab8ff8ef4021</id>
+    <link type="text/html" rel="alternate" href="https://github.com/sachinchoolur/lg-thumbnail.js/commit/ff49c677434fb7db7fa8a40410daab8ff8ef4021"/>
+    <title>
+        accessibility - add button type
+    </title>
+    <updated>2020-06-04T17:04:09Z</updated>
+    <media:thumbnail height="30" width="30" url="https://avatars.githubusercontent.com/u/6586706?s=30&amp;u=93c7e2e7271ec018e5e029c30c9e1857602894b3&amp;v=4"/>
+    <author>
+      <name>sachinchoolur</name>
+      <uri>https://github.com/sachinchoolur</uri>
+    </author>
+    <content type="html">
+      &lt;pre style=&#39;white-space:pre-wrap;width:81ex&#39;&gt;accessibility - add button type&lt;/pre&gt;
+    </content>
+  </entry>
+  <entry>
+    <id>tag:github.com,2008:Grit::Commit/b0cbccb592c9fbd64ae8977887fd6ec75b1dd4d8</id>
+    <link type="text/html" rel="alternate" href="https://github.com/sachinchoolur/lg-thumbnail.js/commit/b0cbccb592c9fbd64ae8977887fd6ec75b1dd4d8"/>
+    <title>
+        Version 1.2.0 release
+    </title>
+    <updated>2020-05-20T16:42:49Z</updated>
+    <media:thumbnail height="30" width="30" url="https://avatars.githubusercontent.com/u/6586706?s=30&amp;u=93c7e2e7271ec018e5e029c30c9e1857602894b3&amp;v=4"/>
+    <author>
+      <name>sachinchoolur</name>
+      <uri>https://github.com/sachinchoolur</uri>
+    </author>
+    <content type="html">
+      &lt;pre style=&#39;white-space:pre-wrap;width:81ex&#39;&gt;Version 1.2.0 release&lt;/pre&gt;
+    </content>
+  </entry>
+  <entry>
+    <id>tag:github.com,2008:Grit::Commit/ef478d5d90ad1f7be7e5cec590ae1a8dc8ee47ec</id>
+    <link type="text/html" rel="alternate" href="https://github.com/sachinchoolur/lg-thumbnail.js/commit/ef478d5d90ad1f7be7e5cec590ae1a8dc8ee47ec"/>
+    <title>
+        accessibility improvements
+    </title>
+    <updated>2020-05-17T15:33:54Z</updated>
+    <media:thumbnail height="30" width="30" url="https://avatars.githubusercontent.com/u/6586706?s=30&amp;u=93c7e2e7271ec018e5e029c30c9e1857602894b3&amp;v=4"/>
+    <author>
+      <name>sachinchoolur</name>
+      <uri>https://github.com/sachinchoolur</uri>
+    </author>
+    <content type="html">
+      &lt;pre style=&#39;white-space:pre-wrap;width:81ex&#39;&gt;accessibility improvements&lt;/pre&gt;
+    </content>
+  </entry>
+  <entry>
+    <id>tag:github.com,2008:Grit::Commit/c6e5ad17165464468134c44da25e49d4e07de50a</id>
+    <link type="text/html" rel="alternate" href="https://github.com/sachinchoolur/lg-thumbnail.js/commit/c6e5ad17165464468134c44da25e49d4e07de50a"/>
+    <title>
+        Version 1.1.0 release
+    </title>
+    <updated>2018-08-08T05:03:42Z</updated>
+    <media:thumbnail height="30" width="30" url="https://avatars.githubusercontent.com/u/6586706?s=30&amp;u=93c7e2e7271ec018e5e029c30c9e1857602894b3&amp;v=4"/>
+    <author>
+      <name>sachinchoolur</name>
+      <uri>https://github.com/sachinchoolur</uri>
+    </author>
+    <content type="html">
+      &lt;pre style=&#39;white-space:pre-wrap;width:81ex&#39;&gt;Version 1.1.0 release&lt;/pre&gt;
+    </content>
+  </entry>
+  <entry>
+    <id>tag:github.com,2008:Grit::Commit/d26807640ec49080b7e25f5552e63f9b6db912ef</id>
+    <link type="text/html" rel="alternate" href="https://github.com/sachinchoolur/lg-thumbnail.js/commit/d26807640ec49080b7e25f5552e63f9b6db912ef"/>
+    <title>
+        Fix issue - lightGallery throws error while destroying gallery
+    </title>
+    <updated>2018-08-08T04:46:29Z</updated>
+    <media:thumbnail height="30" width="30" url="https://avatars.githubusercontent.com/u/6586706?s=30&amp;u=93c7e2e7271ec018e5e029c30c9e1857602894b3&amp;v=4"/>
+    <author>
+      <name>sachinchoolur</name>
+      <uri>https://github.com/sachinchoolur</uri>
+    </author>
+    <content type="html">
+      &lt;pre style=&#39;white-space:pre-wrap;width:81ex&#39;&gt;Fix issue - lightGallery throws error while destroying gallery&lt;/pre&gt;
+    </content>
+  </entry>
+  <entry>
+    <id>tag:github.com,2008:Grit::Commit/cf37d846306a6dcd94181ceb6cd5252a2bea6c41</id>
+    <link type="text/html" rel="alternate" href="https://github.com/sachinchoolur/lg-thumbnail.js/commit/cf37d846306a6dcd94181ceb6cd5252a2bea6c41"/>
+    <title>
+        Release version 1.0.0
+    </title>
+    <updated>2016-10-05T11:54:40Z</updated>
+    <media:thumbnail height="30" width="30" url="https://avatars.githubusercontent.com/u/6586706?s=30&amp;u=93c7e2e7271ec018e5e029c30c9e1857602894b3&amp;v=4"/>
+    <author>
+      <name>sachinchoolur</name>
+      <uri>https://github.com/sachinchoolur</uri>
+    </author>
+    <content type="html">
+      &lt;pre style=&#39;white-space:pre-wrap;width:81ex&#39;&gt;Release version 1.0.0&lt;/pre&gt;
+    </content>
+  </entry>
+  <entry>
+    <id>tag:github.com,2008:Grit::Commit/b0d68bec4b53f6511f57be375083a7f5e439a00c</id>
+    <link type="text/html" rel="alternate" href="https://github.com/sachinchoolur/lg-thumbnail.js/commit/b0d68bec4b53f6511f57be375083a7f5e439a00c"/>
+    <title>
+        Update readme.md
+    </title>
+    <updated>2016-09-20T05:08:34Z</updated>
+    <media:thumbnail height="30" width="30" url="https://avatars.githubusercontent.com/u/6586706?s=30&amp;u=93c7e2e7271ec018e5e029c30c9e1857602894b3&amp;v=4"/>
+    <author>
+      <name>sachinchoolur</name>
+      <uri>https://github.com/sachinchoolur</uri>
+    </author>
+    <content type="html">
+      &lt;pre style=&#39;white-space:pre-wrap;width:81ex&#39;&gt;Update readme.md&lt;/pre&gt;
+    </content>
+  </entry>
+  <entry>
+    <id>tag:github.com,2008:Grit::Commit/66e9811346f103e1960222c0bbb1f70a6f231b43</id>
+    <link type="text/html" rel="alternate" href="https://github.com/sachinchoolur/lg-thumbnail.js/commit/66e9811346f103e1960222c0bbb1f70a6f231b43"/>
+    <title>
+        Version 0.0.4 release..
+    </title>
+    <updated>2016-08-09T03:56:26Z</updated>
+    <media:thumbnail height="30" width="30" url="https://avatars.githubusercontent.com/u/6586706?s=30&amp;u=93c7e2e7271ec018e5e029c30c9e1857602894b3&amp;v=4"/>
+    <author>
+      <name>sachinchoolur</name>
+      <uri>https://github.com/sachinchoolur</uri>
+    </author>
+    <content type="html">
+      &lt;pre style=&#39;white-space:pre-wrap;width:81ex&#39;&gt;Version 0.0.4 release..&lt;/pre&gt;
+    </content>
+  </entry>
+  <entry>
+    <id>tag:github.com,2008:Grit::Commit/a693675defe3d9c459100e0ec4338bb537867799</id>
+    <link type="text/html" rel="alternate" href="https://github.com/sachinchoolur/lg-thumbnail.js/commit/a693675defe3d9c459100e0ec4338bb537867799"/>
+    <title>
+        Merge pull request #1 from Maistho/master
+    </title>
+    <updated>2016-08-09T03:18:48Z</updated>
+    <media:thumbnail height="30" width="30" url="https://avatars.githubusercontent.com/u/6586706?s=30&amp;u=93c7e2e7271ec018e5e029c30c9e1857602894b3&amp;v=4"/>
+    <author>
+      <name>sachinchoolur</name>
+      <uri>https://github.com/sachinchoolur</uri>
+    </author>
+    <content type="html">
+      &lt;pre style=&#39;white-space:pre-wrap;width:81ex&#39;&gt;Merge pull request #1 from Maistho/master
+
+Fix &amp;#39;toogle&amp;#39; spelling mistake&lt;/pre&gt;
+    </content>
+  </entry>
+  <entry>
+    <id>tag:github.com,2008:Grit::Commit/c92930f5a122cb099cd9fba779a3552f2d2b0daa</id>
+    <link type="text/html" rel="alternate" href="https://github.com/sachinchoolur/lg-thumbnail.js/commit/c92930f5a122cb099cd9fba779a3552f2d2b0daa"/>
+    <title>
+        Fix &#39;toogle&#39; spelling mistake
+    </title>
+    <updated>2016-08-08T17:16:59Z</updated>
+    <media:thumbnail height="30" width="30" url="https://avatars.githubusercontent.com/u/2260305?s=30&amp;u=a1893f0a625cbd23c638284946db664c3174256a&amp;v=4"/>
+    <author>
+      <name>Maistho</name>
+      <uri>https://github.com/Maistho</uri>
+    </author>
+    <content type="html">
+      &lt;pre style=&#39;white-space:pre-wrap;width:81ex&#39;&gt;Fix &amp;#39;toogle&amp;#39; spelling mistake
+
+&amp;#39;toogle&amp;#39; should be spelled &amp;#39;toggle&amp;#39;&lt;/pre&gt;
+    </content>
+  </entry>
+  <entry>
+    <id>tag:github.com,2008:Grit::Commit/99014609818c65ea888e3de22c7f9e6436b5a084</id>
+    <link type="text/html" rel="alternate" href="https://github.com/sachinchoolur/lg-thumbnail.js/commit/99014609818c65ea888e3de22c7f9e6436b5a084"/>
+    <title>
+        Bug fix lightgallery #9
+    </title>
+    <updated>2016-08-04T17:11:02Z</updated>
+    <media:thumbnail height="30" width="30" url="https://avatars.githubusercontent.com/u/6586706?s=30&amp;u=93c7e2e7271ec018e5e029c30c9e1857602894b3&amp;v=4"/>
+    <author>
+      <name>sachinchoolur</name>
+      <uri>https://github.com/sachinchoolur</uri>
+    </author>
+    <content type="html">
+      &lt;pre style=&#39;white-space:pre-wrap;width:81ex&#39;&gt;Bug fix lightgallery #9&lt;/pre&gt;
+    </content>
+  </entry>
+  <entry>
+    <id>tag:github.com,2008:Grit::Commit/a72c9cd1467b21bb25156da35899ed9721710e84</id>
+    <link type="text/html" rel="alternate" href="https://github.com/sachinchoolur/lg-thumbnail.js/commit/a72c9cd1467b21bb25156da35899ed9721710e84"/>
+    <title>
+        Update contributing.md
+    </title>
+    <updated>2016-08-01T10:51:38Z</updated>
+    <media:thumbnail height="30" width="30" url="https://avatars.githubusercontent.com/u/6586706?s=30&amp;u=93c7e2e7271ec018e5e029c30c9e1857602894b3&amp;v=4"/>
+    <author>
+      <name>sachinchoolur</name>
+      <uri>https://github.com/sachinchoolur</uri>
+    </author>
+    <content type="html">
+      &lt;pre style=&#39;white-space:pre-wrap;width:81ex&#39;&gt;Update contributing.md&lt;/pre&gt;
+    </content>
+  </entry>
+  <entry>
+    <id>tag:github.com,2008:Grit::Commit/a275e0d5ba3dfef57cd262938ab3c1153365439e</id>
+    <link type="text/html" rel="alternate" href="https://github.com/sachinchoolur/lg-thumbnail.js/commit/a275e0d5ba3dfef57cd262938ab3c1153365439e"/>
+    <title>
+        Version 0.0.2 release..
+    </title>
+    <updated>2016-08-01T02:51:14Z</updated>
+    <media:thumbnail height="30" width="30" url="https://avatars.githubusercontent.com/u/6586706?s=30&amp;u=93c7e2e7271ec018e5e029c30c9e1857602894b3&amp;v=4"/>
+    <author>
+      <name>sachinchoolur</name>
+      <uri>https://github.com/sachinchoolur</uri>
+    </author>
+    <content type="html">
+      &lt;pre style=&#39;white-space:pre-wrap;width:81ex&#39;&gt;Version 0.0.2 release..&lt;/pre&gt;
+    </content>
+  </entry>
+  <entry>
+    <id>tag:github.com,2008:Grit::Commit/e39e1b1ac58c8c491816d5ae3bc3de8af1cdd648</id>
+    <link type="text/html" rel="alternate" href="https://github.com/sachinchoolur/lg-thumbnail.js/commit/e39e1b1ac58c8c491816d5ae3bc3de8af1cdd648"/>
+    <title>
+        &quot;Init&quot;
+    </title>
+    <updated>2016-08-01T02:25:39Z</updated>
+    <media:thumbnail height="30" width="30" url="https://avatars.githubusercontent.com/u/6586706?s=30&amp;u=93c7e2e7271ec018e5e029c30c9e1857602894b3&amp;v=4"/>
+    <author>
+      <name>sachinchoolur</name>
+      <uri>https://github.com/sachinchoolur</uri>
+    </author>
+    <content type="html">
+      &lt;pre style=&#39;white-space:pre-wrap;width:81ex&#39;&gt;&amp;quot;Init&amp;quot;&lt;/pre&gt;
+    </content>
+  </entry>
+</feed>

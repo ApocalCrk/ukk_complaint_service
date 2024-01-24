@@ -1,0 +1,338 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/" xml:lang="en-US">
+  <id>tag:github.com,2008:/FihlaTV/lightgallery.js/commits/master</id>
+  <link type="text/html" rel="alternate" href="https://github.com/FihlaTV/lightgallery.js/commits/master"/>
+  <link type="application/atom+xml" rel="self" href="https://github.com/FihlaTV/lightgallery.js/commits/master.atom"/>
+  <title>Recent Commits to lightgallery.js:master</title>
+  <updated>2019-02-23T14:18:33Z</updated>
+  <entry>
+    <id>tag:github.com,2008:Grit::Commit/9f6b119994b266732022a5bfed230649fb36b551</id>
+    <link type="text/html" rel="alternate" href="https://github.com/FihlaTV/lightgallery.js/commit/9f6b119994b266732022a5bfed230649fb36b551"/>
+    <title>
+        Update fullscreen module
+    </title>
+    <updated>2019-02-23T14:18:33Z</updated>
+    <media:thumbnail height="30" width="30" url="https://avatars.githubusercontent.com/u/6586706?s=30&amp;u=93c7e2e7271ec018e5e029c30c9e1857602894b3&amp;v=4"/>
+    <author>
+      <name>sachinchoolur</name>
+      <uri>https://github.com/sachinchoolur</uri>
+    </author>
+    <content type="html">
+      &lt;pre style=&#39;white-space:pre-wrap;width:81ex&#39;&gt;Update fullscreen module&lt;/pre&gt;
+    </content>
+  </entry>
+  <entry>
+    <id>tag:github.com,2008:Grit::Commit/6b4244490f6f6d9734758af884ed1c42dd7e0c9d</id>
+    <link type="text/html" rel="alternate" href="https://github.com/FihlaTV/lightgallery.js/commit/6b4244490f6f6d9734758af884ed1c42dd7e0c9d"/>
+    <title>
+        Fix #67
+    </title>
+    <updated>2019-02-11T04:48:58Z</updated>
+    <media:thumbnail height="30" width="30" url="https://avatars.githubusercontent.com/u/6586706?s=30&amp;u=93c7e2e7271ec018e5e029c30c9e1857602894b3&amp;v=4"/>
+    <author>
+      <name>sachinchoolur</name>
+      <uri>https://github.com/sachinchoolur</uri>
+    </author>
+    <content type="html">
+      &lt;pre style=&#39;white-space:pre-wrap;width:81ex&#39;&gt;Fix #67&lt;/pre&gt;
+    </content>
+  </entry>
+  <entry>
+    <id>tag:github.com,2008:Grit::Commit/123c30982ebcf837c230d6510b0fe6d3790f78b5</id>
+    <link type="text/html" rel="alternate" href="https://github.com/FihlaTV/lightgallery.js/commit/123c30982ebcf837c230d6510b0fe6d3790f78b5"/>
+    <title>
+        Merge pull request #121 from boboldehampsink/youtube-nocookie-detection
+    </title>
+    <updated>2019-01-14T10:19:19Z</updated>
+    <media:thumbnail height="30" width="30" url="https://avatars.githubusercontent.com/u/6586706?s=30&amp;u=93c7e2e7271ec018e5e029c30c9e1857602894b3&amp;v=4"/>
+    <author>
+      <name>sachinchoolur</name>
+      <uri>https://github.com/sachinchoolur</uri>
+    </author>
+    <content type="html">
+      &lt;pre style=&#39;white-space:pre-wrap;width:81ex&#39;&gt;Merge pull request #121 from boboldehampsink/youtube-nocookie-detection
+
+Added youtube-nocookie.com support&lt;/pre&gt;
+    </content>
+  </entry>
+  <entry>
+    <id>tag:github.com,2008:Grit::Commit/c3aa16bca4c8509772041082b1c0329680024c64</id>
+    <link type="text/html" rel="alternate" href="https://github.com/FihlaTV/lightgallery.js/commit/c3aa16bca4c8509772041082b1c0329680024c64"/>
+    <title>
+        Added youtube-nocookie.com support
+    </title>
+    <updated>2018-12-13T08:31:14Z</updated>
+    <media:thumbnail height="30" width="30" url="https://avatars.githubusercontent.com/u/378974?s=30&amp;u=d2908f26e20308a4d71fe9e126be847e9a66fcef&amp;v=4"/>
+    <author>
+      <name>boboldehampsink</name>
+      <uri>https://github.com/boboldehampsink</uri>
+    </author>
+    <content type="html">
+      &lt;pre style=&#39;white-space:pre-wrap;width:81ex&#39;&gt;Added youtube-nocookie.com support&lt;/pre&gt;
+    </content>
+  </entry>
+  <entry>
+    <id>tag:github.com,2008:Grit::Commit/66400ba2e5e188102a1e5fd4b3cbeb4b945a3768</id>
+    <link type="text/html" rel="alternate" href="https://github.com/FihlaTV/lightgallery.js/commit/66400ba2e5e188102a1e5fd4b3cbeb4b945a3768"/>
+    <title>
+        Merge branch &#39;master&#39; of https://github.com/sachinchoolur/lightgaller…
+    </title>
+    <updated>2018-11-27T04:37:37Z</updated>
+    <media:thumbnail height="30" width="30" url="https://avatars.githubusercontent.com/u/6586706?s=30&amp;u=93c7e2e7271ec018e5e029c30c9e1857602894b3&amp;v=4"/>
+    <author>
+      <name>sachinchoolur</name>
+      <uri>https://github.com/sachinchoolur</uri>
+    </author>
+    <content type="html">
+      &lt;pre style=&#39;white-space:pre-wrap;width:81ex&#39;&gt;Merge branch &amp;#39;master&amp;#39; of https://github.com/sachinchoolur/lightgallery.js&lt;/pre&gt;
+    </content>
+  </entry>
+  <entry>
+    <id>tag:github.com,2008:Grit::Commit/274130dac5b16a1af4de9d2d7a1fc42674d968ab</id>
+    <link type="text/html" rel="alternate" href="https://github.com/FihlaTV/lightgallery.js/commit/274130dac5b16a1af4de9d2d7a1fc42674d968ab"/>
+    <title>
+        Merge pull request #118 from gdimitrov-propy/fix-disable-prev-arrow
+    </title>
+    <updated>2018-11-27T04:36:23Z</updated>
+    <media:thumbnail height="30" width="30" url="https://avatars.githubusercontent.com/u/6586706?s=30&amp;u=93c7e2e7271ec018e5e029c30c9e1857602894b3&amp;v=4"/>
+    <author>
+      <name>sachinchoolur</name>
+      <uri>https://github.com/sachinchoolur</uri>
+    </author>
+    <content type="html">
+      &lt;pre style=&#39;white-space:pre-wrap;width:81ex&#39;&gt;Merge pull request #118 from gdimitrov-propy/fix-disable-prev-arrow
+
+Fix for adding disable class and attribute on lg-prev button&lt;/pre&gt;
+    </content>
+  </entry>
+  <entry>
+    <id>tag:github.com,2008:Grit::Commit/7300554cf04f17cde50dbd623075ec9a9fb9153b</id>
+    <link type="text/html" rel="alternate" href="https://github.com/FihlaTV/lightgallery.js/commit/7300554cf04f17cde50dbd623075ec9a9fb9153b"/>
+    <title>
+        Merge pull request #118 from gdimitrov-propy/fix-disable-prev-arrow
+    </title>
+    <updated>2018-11-27T04:17:15Z</updated>
+    <media:thumbnail height="30" width="30" url="https://avatars.githubusercontent.com/u/6586706?s=30&amp;u=93c7e2e7271ec018e5e029c30c9e1857602894b3&amp;v=4"/>
+    <author>
+      <name>sachinchoolur</name>
+      <uri>https://github.com/sachinchoolur</uri>
+    </author>
+    <content type="html">
+      &lt;pre style=&#39;white-space:pre-wrap;width:81ex&#39;&gt;Merge pull request #118 from gdimitrov-propy/fix-disable-prev-arrow
+
+Fix for adding disable class and attribute on lg-prev button&lt;/pre&gt;
+    </content>
+  </entry>
+  <entry>
+    <id>tag:github.com,2008:Grit::Commit/3dd2980286aac82b08f3299b2eb0cddd5cfa3b62</id>
+    <link type="text/html" rel="alternate" href="https://github.com/FihlaTV/lightgallery.js/commit/3dd2980286aac82b08f3299b2eb0cddd5cfa3b62"/>
+    <title>
+        Fix for adding disable class and attribute on lg-prev button
+    </title>
+    <updated>2018-11-23T15:57:14Z</updated>
+    <media:thumbnail height="30" width="30" url="https://avatars.githubusercontent.com/u/40756668?s=30&amp;u=30297df513b4a3fb7c0c1a10694b0528012ffb99&amp;v=4"/>
+    <author>
+      <name>gdimitrov-propy</name>
+      <uri>https://github.com/gdimitrov-propy</uri>
+    </author>
+    <content type="html">
+      &lt;pre style=&#39;white-space:pre-wrap;width:81ex&#39;&gt;Fix for adding disable class and attribute on lg-prev button&lt;/pre&gt;
+    </content>
+  </entry>
+  <entry>
+    <id>tag:github.com,2008:Grit::Commit/9669c18cfd452950c574e23ac9338bce6baa3846</id>
+    <link type="text/html" rel="alternate" href="https://github.com/FihlaTV/lightgallery.js/commit/9669c18cfd452950c574e23ac9338bce6baa3846"/>
+    <title>
+        Release version 1.1.1
+    </title>
+    <updated>2018-08-08T05:00:41Z</updated>
+    <media:thumbnail height="30" width="30" url="https://avatars.githubusercontent.com/u/6586706?s=30&amp;u=93c7e2e7271ec018e5e029c30c9e1857602894b3&amp;v=4"/>
+    <author>
+      <name>sachinchoolur</name>
+      <uri>https://github.com/sachinchoolur</uri>
+    </author>
+    <content type="html">
+      &lt;pre style=&#39;white-space:pre-wrap;width:81ex&#39;&gt;Release version 1.1.1&lt;/pre&gt;
+    </content>
+  </entry>
+  <entry>
+    <id>tag:github.com,2008:Grit::Commit/15aa14feb8e7e25dd4f26545e4e483088d06ea18</id>
+    <link type="text/html" rel="alternate" href="https://github.com/FihlaTV/lightgallery.js/commit/15aa14feb8e7e25dd4f26545e4e483088d06ea18"/>
+    <title>
+        lg-thumbnail bug fix
+    </title>
+    <updated>2018-08-08T04:44:05Z</updated>
+    <media:thumbnail height="30" width="30" url="https://avatars.githubusercontent.com/u/6586706?s=30&amp;u=93c7e2e7271ec018e5e029c30c9e1857602894b3&amp;v=4"/>
+    <author>
+      <name>sachinchoolur</name>
+      <uri>https://github.com/sachinchoolur</uri>
+    </author>
+    <content type="html">
+      &lt;pre style=&#39;white-space:pre-wrap;width:81ex&#39;&gt;lg-thumbnail bug fix&lt;/pre&gt;
+    </content>
+  </entry>
+  <entry>
+    <id>tag:github.com,2008:Grit::Commit/3ebfebcda34a2cddf72c211d8834d36faf79a4bb</id>
+    <link type="text/html" rel="alternate" href="https://github.com/FihlaTV/lightgallery.js/commit/3ebfebcda34a2cddf72c211d8834d36faf79a4bb"/>
+    <title>
+        Fix #97
+    </title>
+    <updated>2018-05-17T15:10:43Z</updated>
+    <media:thumbnail height="30" width="30" url="https://avatars.githubusercontent.com/u/6586706?s=30&amp;u=93c7e2e7271ec018e5e029c30c9e1857602894b3&amp;v=4"/>
+    <author>
+      <name>sachinchoolur</name>
+      <uri>https://github.com/sachinchoolur</uri>
+    </author>
+    <content type="html">
+      &lt;pre style=&#39;white-space:pre-wrap;width:81ex&#39;&gt;Fix #97
+
+Uncaught Error: Make sure that slide 0 has an image/video src&lt;/pre&gt;
+    </content>
+  </entry>
+  <entry>
+    <id>tag:github.com,2008:Grit::Commit/1b8916457b47259aff2657fe228ab8adcc8347d9</id>
+    <link type="text/html" rel="alternate" href="https://github.com/FihlaTV/lightgallery.js/commit/1b8916457b47259aff2657fe228ab8adcc8347d9"/>
+    <title>
+        Update .gitattributes
+    </title>
+    <updated>2018-01-17T15:05:32Z</updated>
+    <media:thumbnail height="30" width="30" url="https://avatars.githubusercontent.com/u/6586706?s=30&amp;u=93c7e2e7271ec018e5e029c30c9e1857602894b3&amp;v=4"/>
+    <author>
+      <name>sachinchoolur</name>
+      <uri>https://github.com/sachinchoolur</uri>
+    </author>
+    <content type="html">
+      &lt;pre style=&#39;white-space:pre-wrap;width:81ex&#39;&gt;Update .gitattributes&lt;/pre&gt;
+    </content>
+  </entry>
+  <entry>
+    <id>tag:github.com,2008:Grit::Commit/334733897a355e3f39bf9c2a02627e1ed8192c43</id>
+    <link type="text/html" rel="alternate" href="https://github.com/FihlaTV/lightgallery.js/commit/334733897a355e3f39bf9c2a02627e1ed8192c43"/>
+    <title>
+        Update .gitattributes
+    </title>
+    <updated>2018-01-17T14:54:02Z</updated>
+    <media:thumbnail height="30" width="30" url="https://avatars.githubusercontent.com/u/6586706?s=30&amp;u=93c7e2e7271ec018e5e029c30c9e1857602894b3&amp;v=4"/>
+    <author>
+      <name>sachinchoolur</name>
+      <uri>https://github.com/sachinchoolur</uri>
+    </author>
+    <content type="html">
+      &lt;pre style=&#39;white-space:pre-wrap;width:81ex&#39;&gt;Update .gitattributes&lt;/pre&gt;
+    </content>
+  </entry>
+  <entry>
+    <id>tag:github.com,2008:Grit::Commit/24d2429b7a601017428862ec1641ee93fb96cf49</id>
+    <link type="text/html" rel="alternate" href="https://github.com/FihlaTV/lightgallery.js/commit/24d2429b7a601017428862ec1641ee93fb96cf49"/>
+    <title>
+        Create .gitattributes
+    </title>
+    <updated>2018-01-17T14:27:00Z</updated>
+    <media:thumbnail height="30" width="30" url="https://avatars.githubusercontent.com/u/6586706?s=30&amp;u=93c7e2e7271ec018e5e029c30c9e1857602894b3&amp;v=4"/>
+    <author>
+      <name>sachinchoolur</name>
+      <uri>https://github.com/sachinchoolur</uri>
+    </author>
+    <content type="html">
+      &lt;pre style=&#39;white-space:pre-wrap;width:81ex&#39;&gt;Create .gitattributes&lt;/pre&gt;
+    </content>
+  </entry>
+  <entry>
+    <id>tag:github.com,2008:Grit::Commit/37b103e2cd3e3f0b9e11304b465b4c6456cf4322</id>
+    <link type="text/html" rel="alternate" href="https://github.com/FihlaTV/lightgallery.js/commit/37b103e2cd3e3f0b9e11304b465b4c6456cf4322"/>
+    <title>
+        Upgrade share plugin
+    </title>
+    <updated>2018-01-14T04:19:38Z</updated>
+    <media:thumbnail height="30" width="30" url="https://avatars.githubusercontent.com/u/6586706?s=30&amp;u=93c7e2e7271ec018e5e029c30c9e1857602894b3&amp;v=4"/>
+    <author>
+      <name>sachinchoolur</name>
+      <uri>https://github.com/sachinchoolur</uri>
+    </author>
+    <content type="html">
+      &lt;pre style=&#39;white-space:pre-wrap;width:81ex&#39;&gt;Upgrade share plugin&lt;/pre&gt;
+    </content>
+  </entry>
+  <entry>
+    <id>tag:github.com,2008:Grit::Commit/1d8f126e3f493ebb5f821fdd496884b4321645ec</id>
+    <link type="text/html" rel="alternate" href="https://github.com/FihlaTV/lightgallery.js/commit/1d8f126e3f493ebb5f821fdd496884b4321645ec"/>
+    <title>
+        Update LICENSE.md
+    </title>
+    <updated>2016-12-29T06:57:41Z</updated>
+    <media:thumbnail height="30" width="30" url="https://avatars.githubusercontent.com/u/6586706?s=30&amp;u=93c7e2e7271ec018e5e029c30c9e1857602894b3&amp;v=4"/>
+    <author>
+      <name>sachinchoolur</name>
+      <uri>https://github.com/sachinchoolur</uri>
+    </author>
+    <content type="html">
+      &lt;pre style=&#39;white-space:pre-wrap;width:81ex&#39;&gt;Update LICENSE.md&lt;/pre&gt;
+    </content>
+  </entry>
+  <entry>
+    <id>tag:github.com,2008:Grit::Commit/c931ad9b3788da664f817453ab1002fba1904108</id>
+    <link type="text/html" rel="alternate" href="https://github.com/FihlaTV/lightgallery.js/commit/c931ad9b3788da664f817453ab1002fba1904108"/>
+    <title>
+        Fix zoom transition performance issues on chrome..
+    </title>
+    <updated>2016-12-22T18:21:42Z</updated>
+    <media:thumbnail height="30" width="30" url="https://avatars.githubusercontent.com/u/6586706?s=30&amp;u=93c7e2e7271ec018e5e029c30c9e1857602894b3&amp;v=4"/>
+    <author>
+      <name>sachinchoolur</name>
+      <uri>https://github.com/sachinchoolur</uri>
+    </author>
+    <content type="html">
+      &lt;pre style=&#39;white-space:pre-wrap;width:81ex&#39;&gt;Fix zoom transition performance issues on chrome..&lt;/pre&gt;
+    </content>
+  </entry>
+  <entry>
+    <id>tag:github.com,2008:Grit::Commit/dba206b46bc4d3817333ac06a4aa6c8e457ef725</id>
+    <link type="text/html" rel="alternate" href="https://github.com/FihlaTV/lightgallery.js/commit/dba206b46bc4d3817333ac06a4aa6c8e457ef725"/>
+    <title>
+        Fix zoom transition performance issues on chrome..
+    </title>
+    <updated>2016-12-22T18:20:17Z</updated>
+    <media:thumbnail height="30" width="30" url="https://avatars.githubusercontent.com/u/6586706?s=30&amp;u=93c7e2e7271ec018e5e029c30c9e1857602894b3&amp;v=4"/>
+    <author>
+      <name>sachinchoolur</name>
+      <uri>https://github.com/sachinchoolur</uri>
+    </author>
+    <content type="html">
+      &lt;pre style=&#39;white-space:pre-wrap;width:81ex&#39;&gt;Fix zoom transition performance issues on chrome..&lt;/pre&gt;
+    </content>
+  </entry>
+  <entry>
+    <id>tag:github.com,2008:Grit::Commit/6901a84a826f65c76a830c2fff1d4fb307d4f65d</id>
+    <link type="text/html" rel="alternate" href="https://github.com/FihlaTV/lightgallery.js/commit/6901a84a826f65c76a830c2fff1d4fb307d4f65d"/>
+    <title>
+        Merge pull request #51 from limonte/patch-1
+    </title>
+    <updated>2016-11-06T06:21:44Z</updated>
+    <media:thumbnail height="30" width="30" url="https://avatars.githubusercontent.com/u/6586706?s=30&amp;u=93c7e2e7271ec018e5e029c30c9e1857602894b3&amp;v=4"/>
+    <author>
+      <name>sachinchoolur</name>
+      <uri>https://github.com/sachinchoolur</uri>
+    </author>
+    <content type="html">
+      &lt;pre style=&#39;white-space:pre-wrap;width:81ex&#39;&gt;Merge pull request #51 from limonte/patch-1
+
+Add CDN info&lt;/pre&gt;
+    </content>
+  </entry>
+  <entry>
+    <id>tag:github.com,2008:Grit::Commit/0758c03b0f90674da6c0cf3c507d9543baa7de46</id>
+    <link type="text/html" rel="alternate" href="https://github.com/FihlaTV/lightgallery.js/commit/0758c03b0f90674da6c0cf3c507d9543baa7de46"/>
+    <title>
+        Add CDN info
+    </title>
+    <updated>2016-10-22T11:09:44Z</updated>
+    <media:thumbnail height="30" width="30" url="https://avatars.githubusercontent.com/u/6059356?s=30&amp;u=cab2ace6e64a163ea229cbc4d1e7c98e459db54f&amp;v=4"/>
+    <author>
+      <name>limonte</name>
+      <uri>https://github.com/limonte</uri>
+    </author>
+    <content type="html">
+      &lt;pre style=&#39;white-space:pre-wrap;width:81ex&#39;&gt;Add CDN info&lt;/pre&gt;
+    </content>
+  </entry>
+</feed>

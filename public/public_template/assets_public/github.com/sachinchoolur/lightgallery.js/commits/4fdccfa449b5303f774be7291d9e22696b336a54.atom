@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/" xml:lang="en-US">
+  <id>tag:github.com,2008:/sachinchoolur/lightgallery.js/commits/4fdccfa449b5303f774be7291d9e22696b336a54</id>
+  <link type="text/html" rel="alternate" href="https://github.com/sachinchoolur/lightgallery.js/commits/4fdccfa449b5303f774be7291d9e22696b336a54"/>
+  <link type="application/atom+xml" rel="self" href="https://github.com/sachinchoolur/lightgallery.js/commits/4fdccfa449b5303f774be7291d9e22696b336a54.atom"/>
+  <title>Recent Commits to lightgallery.js:4fdccfa449b5303f774be7291d9e22696b336a54</title>
+  <updated>2016-08-01T04:20:21Z</updated>
+  <entry>
+    <id>tag:github.com,2008:Grit::Commit/4fdccfa449b5303f774be7291d9e22696b336a54</id>
+    <link type="text/html" rel="alternate" href="https://github.com/sachinchoolur/lightgallery.js/commit/4fdccfa449b5303f774be7291d9e22696b336a54"/>
+    <title>
+        &quot;Init&quot;
+    </title>
+    <updated>2016-08-01T04:20:21Z</updated>
+    <media:thumbnail height="30" width="30" url="https://avatars.githubusercontent.com/u/6586706?s=30&amp;u=93c7e2e7271ec018e5e029c30c9e1857602894b3&amp;v=4"/>
+    <author>
+      <name>sachinchoolur</name>
+      <uri>https://github.com/sachinchoolur</uri>
+    </author>
+    <content type="html">
+      &lt;pre style=&#39;white-space:pre-wrap;width:81ex&#39;&gt;&amp;quot;Init&amp;quot;&lt;/pre&gt;
+    </content>
+  </entry>
+</feed>

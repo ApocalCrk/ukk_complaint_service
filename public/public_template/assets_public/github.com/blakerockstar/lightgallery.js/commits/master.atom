@@ -1,0 +1,342 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/" xml:lang="en-US">
+  <id>tag:github.com,2008:/blakerockstar/lightgallery.js/commits/master</id>
+  <link type="text/html" rel="alternate" href="https://github.com/blakerockstar/lightgallery.js/commits/master"/>
+  <link type="application/atom+xml" rel="self" href="https://github.com/blakerockstar/lightgallery.js/commits/master.atom"/>
+  <title>Recent Commits to lightgallery.js:master</title>
+  <updated>2016-08-09T04:01:12Z</updated>
+  <entry>
+    <id>tag:github.com,2008:Grit::Commit/b42cda36af750750e2f06f729f0714676697f33e</id>
+    <link type="text/html" rel="alternate" href="https://github.com/blakerockstar/lightgallery.js/commit/b42cda36af750750e2f06f729f0714676697f33e"/>
+    <title>
+        Update Demo
+    </title>
+    <updated>2016-08-09T04:01:12Z</updated>
+    <media:thumbnail height="30" width="30" url="https://avatars.githubusercontent.com/u/6586706?s=30&amp;u=93c7e2e7271ec018e5e029c30c9e1857602894b3&amp;v=4"/>
+    <author>
+      <name>sachinchoolur</name>
+      <uri>https://github.com/sachinchoolur</uri>
+    </author>
+    <content type="html">
+      &lt;pre style=&#39;white-space:pre-wrap;width:81ex&#39;&gt;Update Demo&lt;/pre&gt;
+    </content>
+  </entry>
+  <entry>
+    <id>tag:github.com,2008:Grit::Commit/72c8ec3207b52b08bbeb7a60b704a2d6996dddfa</id>
+    <link type="text/html" rel="alternate" href="https://github.com/blakerockstar/lightgallery.js/commit/72c8ec3207b52b08bbeb7a60b704a2d6996dddfa"/>
+    <title>
+        Version 0.0.3 release
+    </title>
+    <updated>2016-08-09T03:48:46Z</updated>
+    <media:thumbnail height="30" width="30" url="https://avatars.githubusercontent.com/u/6586706?s=30&amp;u=93c7e2e7271ec018e5e029c30c9e1857602894b3&amp;v=4"/>
+    <author>
+      <name>sachinchoolur</name>
+      <uri>https://github.com/sachinchoolur</uri>
+    </author>
+    <content type="html">
+      &lt;pre style=&#39;white-space:pre-wrap;width:81ex&#39;&gt;Version 0.0.3 release&lt;/pre&gt;
+    </content>
+  </entry>
+  <entry>
+    <id>tag:github.com,2008:Grit::Commit/e5c7d4b08348c1f889cd66e0e5cc1ab640193dd1</id>
+    <link type="text/html" rel="alternate" href="https://github.com/blakerockstar/lightgallery.js/commit/e5c7d4b08348c1f889cd66e0e5cc1ab640193dd1"/>
+    <title>
+        Compile SCSS
+    </title>
+    <updated>2016-08-09T03:40:32Z</updated>
+    <media:thumbnail height="30" width="30" url="https://avatars.githubusercontent.com/u/6586706?s=30&amp;u=93c7e2e7271ec018e5e029c30c9e1857602894b3&amp;v=4"/>
+    <author>
+      <name>sachinchoolur</name>
+      <uri>https://github.com/sachinchoolur</uri>
+    </author>
+    <content type="html">
+      &lt;pre style=&#39;white-space:pre-wrap;width:81ex&#39;&gt;Compile SCSS&lt;/pre&gt;
+    </content>
+  </entry>
+  <entry>
+    <id>tag:github.com,2008:Grit::Commit/ab57c154fc538e2004f98a7d5b95971f89bbad3d</id>
+    <link type="text/html" rel="alternate" href="https://github.com/blakerockstar/lightgallery.js/commit/ab57c154fc538e2004f98a7d5b95971f89bbad3d"/>
+    <title>
+        Merge pull request #20 from Maistho/fix-toggle-spelling
+    </title>
+    <updated>2016-08-09T03:17:10Z</updated>
+    <media:thumbnail height="30" width="30" url="https://avatars.githubusercontent.com/u/6586706?s=30&amp;u=93c7e2e7271ec018e5e029c30c9e1857602894b3&amp;v=4"/>
+    <author>
+      <name>sachinchoolur</name>
+      <uri>https://github.com/sachinchoolur</uri>
+    </author>
+    <content type="html">
+      &lt;pre style=&#39;white-space:pre-wrap;width:81ex&#39;&gt;Merge pull request #20 from Maistho/fix-toggle-spelling
+
+Fix a spelling mistake&lt;/pre&gt;
+    </content>
+  </entry>
+  <entry>
+    <id>tag:github.com,2008:Grit::Commit/6f23931a0c36b5c5e6d4a9ed47bd3f54cae0c6b0</id>
+    <link type="text/html" rel="alternate" href="https://github.com/blakerockstar/lightgallery.js/commit/6f23931a0c36b5c5e6d4a9ed47bd3f54cae0c6b0"/>
+    <title>
+        Update LICENSE.md
+    </title>
+    <updated>2016-08-08T17:36:15Z</updated>
+    <media:thumbnail height="30" width="30" url="https://avatars.githubusercontent.com/u/6586706?s=30&amp;u=93c7e2e7271ec018e5e029c30c9e1857602894b3&amp;v=4"/>
+    <author>
+      <name>sachinchoolur</name>
+      <uri>https://github.com/sachinchoolur</uri>
+    </author>
+    <content type="html">
+      &lt;pre style=&#39;white-space:pre-wrap;width:81ex&#39;&gt;Update LICENSE.md&lt;/pre&gt;
+    </content>
+  </entry>
+  <entry>
+    <id>tag:github.com,2008:Grit::Commit/c287c5c45677f416745854d5d86db2c3722700d5</id>
+    <link type="text/html" rel="alternate" href="https://github.com/blakerockstar/lightgallery.js/commit/c287c5c45677f416745854d5d86db2c3722700d5"/>
+    <title>
+        Fix a spelling mistake
+    </title>
+    <updated>2016-08-08T17:27:47Z</updated>
+    <media:thumbnail height="30" width="30" url="https://avatars.githubusercontent.com/u/2260305?s=30&amp;u=a1893f0a625cbd23c638284946db664c3174256a&amp;v=4"/>
+    <author>
+      <name>Maistho</name>
+      <uri>https://github.com/Maistho</uri>
+    </author>
+    <content type="html">
+      &lt;pre style=&#39;white-space:pre-wrap;width:81ex&#39;&gt;Fix a spelling mistake
+
+&amp;#39;toogle&amp;#39; should be spelled as &amp;#39;toggle&amp;#39;&lt;/pre&gt;
+    </content>
+  </entry>
+  <entry>
+    <id>tag:github.com,2008:Grit::Commit/7fc793ec083c8fdaa5b230ef3b13183cf3d30f88</id>
+    <link type="text/html" rel="alternate" href="https://github.com/blakerockstar/lightgallery.js/commit/7fc793ec083c8fdaa5b230ef3b13183cf3d30f88"/>
+    <title>
+        Update contributing.md
+    </title>
+    <updated>2016-08-08T17:13:48Z</updated>
+    <media:thumbnail height="30" width="30" url="https://avatars.githubusercontent.com/u/6586706?s=30&amp;u=93c7e2e7271ec018e5e029c30c9e1857602894b3&amp;v=4"/>
+    <author>
+      <name>sachinchoolur</name>
+      <uri>https://github.com/sachinchoolur</uri>
+    </author>
+    <content type="html">
+      &lt;pre style=&#39;white-space:pre-wrap;width:81ex&#39;&gt;Update contributing.md&lt;/pre&gt;
+    </content>
+  </entry>
+  <entry>
+    <id>tag:github.com,2008:Grit::Commit/073298bae52dd42dbdaec3ddb1e5d6460997cb7e</id>
+    <link type="text/html" rel="alternate" href="https://github.com/blakerockstar/lightgallery.js/commit/073298bae52dd42dbdaec3ddb1e5d6460997cb7e"/>
+    <title>
+        Update readme.md
+    </title>
+    <updated>2016-08-08T15:46:09Z</updated>
+    <media:thumbnail height="30" width="30" url="https://avatars.githubusercontent.com/u/6586706?s=30&amp;u=93c7e2e7271ec018e5e029c30c9e1857602894b3&amp;v=4"/>
+    <author>
+      <name>sachinchoolur</name>
+      <uri>https://github.com/sachinchoolur</uri>
+    </author>
+    <content type="html">
+      &lt;pre style=&#39;white-space:pre-wrap;width:81ex&#39;&gt;Update readme.md&lt;/pre&gt;
+    </content>
+  </entry>
+  <entry>
+    <id>tag:github.com,2008:Grit::Commit/a617f16b5492037041dc6acf2b6bb3c71528dc8a</id>
+    <link type="text/html" rel="alternate" href="https://github.com/blakerockstar/lightgallery.js/commit/a617f16b5492037041dc6acf2b6bb3c71528dc8a"/>
+    <title>
+        Update Readme.md
+    </title>
+    <updated>2016-08-06T08:48:32Z</updated>
+    <media:thumbnail height="30" width="30" url="https://avatars.githubusercontent.com/u/6586706?s=30&amp;u=93c7e2e7271ec018e5e029c30c9e1857602894b3&amp;v=4"/>
+    <author>
+      <name>sachinchoolur</name>
+      <uri>https://github.com/sachinchoolur</uri>
+    </author>
+    <content type="html">
+      &lt;pre style=&#39;white-space:pre-wrap;width:81ex&#39;&gt;Update Readme.md&lt;/pre&gt;
+    </content>
+  </entry>
+  <entry>
+    <id>tag:github.com,2008:Grit::Commit/e40aeaabe3021d09bdc7cfcb3231f226516e9561</id>
+    <link type="text/html" rel="alternate" href="https://github.com/blakerockstar/lightgallery.js/commit/e40aeaabe3021d09bdc7cfcb3231f226516e9561"/>
+    <title>
+        Add license.
+    </title>
+    <updated>2016-08-05T16:24:52Z</updated>
+    <media:thumbnail height="30" width="30" url="https://avatars.githubusercontent.com/u/6586706?s=30&amp;u=93c7e2e7271ec018e5e029c30c9e1857602894b3&amp;v=4"/>
+    <author>
+      <name>sachinchoolur</name>
+      <uri>https://github.com/sachinchoolur</uri>
+    </author>
+    <content type="html">
+      &lt;pre style=&#39;white-space:pre-wrap;width:81ex&#39;&gt;Add license.&lt;/pre&gt;
+    </content>
+  </entry>
+  <entry>
+    <id>tag:github.com,2008:Grit::Commit/b4d7c1962c82e6756ed23c26b99a78837a5c0dbc</id>
+    <link type="text/html" rel="alternate" href="https://github.com/blakerockstar/lightgallery.js/commit/b4d7c1962c82e6756ed23c26b99a78837a5c0dbc"/>
+    <title>
+        Update readme.md
+    </title>
+    <updated>2016-08-05T11:06:21Z</updated>
+    <media:thumbnail height="30" width="30" url="https://avatars.githubusercontent.com/u/6586706?s=30&amp;u=93c7e2e7271ec018e5e029c30c9e1857602894b3&amp;v=4"/>
+    <author>
+      <name>sachinchoolur</name>
+      <uri>https://github.com/sachinchoolur</uri>
+    </author>
+    <content type="html">
+      &lt;pre style=&#39;white-space:pre-wrap;width:81ex&#39;&gt;Update readme.md&lt;/pre&gt;
+    </content>
+  </entry>
+  <entry>
+    <id>tag:github.com,2008:Grit::Commit/f0622bb6270f41c0f7545cab63762c77931bc5d4</id>
+    <link type="text/html" rel="alternate" href="https://github.com/blakerockstar/lightgallery.js/commit/f0622bb6270f41c0f7545cab63762c77931bc5d4"/>
+    <title>
+        Update Doc
+    </title>
+    <updated>2016-08-05T10:59:32Z</updated>
+    <media:thumbnail height="30" width="30" url="https://avatars.githubusercontent.com/u/10412773?s=30&amp;v=4"/>
+    <author>
+      <name>sachinds</name>
+      <uri>https://github.com/sachinds</uri>
+    </author>
+    <content type="html">
+      &lt;pre style=&#39;white-space:pre-wrap;width:81ex&#39;&gt;Update Doc&lt;/pre&gt;
+    </content>
+  </entry>
+  <entry>
+    <id>tag:github.com,2008:Grit::Commit/76e777965ecf63bd964c4f3166af4319b0609112</id>
+    <link type="text/html" rel="alternate" href="https://github.com/blakerockstar/lightgallery.js/commit/76e777965ecf63bd964c4f3166af4319b0609112"/>
+    <title>
+        Update demo
+    </title>
+    <updated>2016-08-04T17:16:27Z</updated>
+    <media:thumbnail height="30" width="30" url="https://avatars.githubusercontent.com/u/6586706?s=30&amp;u=93c7e2e7271ec018e5e029c30c9e1857602894b3&amp;v=4"/>
+    <author>
+      <name>sachinchoolur</name>
+      <uri>https://github.com/sachinchoolur</uri>
+    </author>
+    <content type="html">
+      &lt;pre style=&#39;white-space:pre-wrap;width:81ex&#39;&gt;Update demo&lt;/pre&gt;
+    </content>
+  </entry>
+  <entry>
+    <id>tag:github.com,2008:Grit::Commit/6230e8939b95ac94122a8ef873bc870fbe755f5e</id>
+    <link type="text/html" rel="alternate" href="https://github.com/blakerockstar/lightgallery.js/commit/6230e8939b95ac94122a8ef873bc870fbe755f5e"/>
+    <title>
+        Bug fix #9
+    </title>
+    <updated>2016-08-04T17:12:35Z</updated>
+    <media:thumbnail height="30" width="30" url="https://avatars.githubusercontent.com/u/6586706?s=30&amp;u=93c7e2e7271ec018e5e029c30c9e1857602894b3&amp;v=4"/>
+    <author>
+      <name>sachinchoolur</name>
+      <uri>https://github.com/sachinchoolur</uri>
+    </author>
+    <content type="html">
+      &lt;pre style=&#39;white-space:pre-wrap;width:81ex&#39;&gt;Bug fix #9&lt;/pre&gt;
+    </content>
+  </entry>
+  <entry>
+    <id>tag:github.com,2008:Grit::Commit/481dcf8fe4913752d953a7dbe4dc7adf38d8b4c7</id>
+    <link type="text/html" rel="alternate" href="https://github.com/blakerockstar/lightgallery.js/commit/481dcf8fe4913752d953a7dbe4dc7adf38d8b4c7"/>
+    <title>
+        Update .npmignore
+    </title>
+    <updated>2016-08-04T03:47:05Z</updated>
+    <media:thumbnail height="30" width="30" url="https://avatars.githubusercontent.com/u/6586706?s=30&amp;u=93c7e2e7271ec018e5e029c30c9e1857602894b3&amp;v=4"/>
+    <author>
+      <name>sachinchoolur</name>
+      <uri>https://github.com/sachinchoolur</uri>
+    </author>
+    <content type="html">
+      &lt;pre style=&#39;white-space:pre-wrap;width:81ex&#39;&gt;Update .npmignore&lt;/pre&gt;
+    </content>
+  </entry>
+  <entry>
+    <id>tag:github.com,2008:Grit::Commit/587db55ec8474b8850a7c9908dc55862bd2378e3</id>
+    <link type="text/html" rel="alternate" href="https://github.com/blakerockstar/lightgallery.js/commit/587db55ec8474b8850a7c9908dc55862bd2378e3"/>
+    <title>
+        Merge pull request #2 from XhmikosR/img-compress
+    </title>
+    <updated>2016-08-02T16:29:33Z</updated>
+    <media:thumbnail height="30" width="30" url="https://avatars.githubusercontent.com/u/6586706?s=30&amp;u=93c7e2e7271ec018e5e029c30c9e1857602894b3&amp;v=4"/>
+    <author>
+      <name>sachinchoolur</name>
+      <uri>https://github.com/sachinchoolur</uri>
+    </author>
+    <content type="html">
+      &lt;pre style=&#39;white-space:pre-wrap;width:81ex&#39;&gt;Merge pull request #2 from XhmikosR/img-compress
+
+Losslessly compress images.&lt;/pre&gt;
+    </content>
+  </entry>
+  <entry>
+    <id>tag:github.com,2008:Grit::Commit/00d954d34be3454af3ed032517a4eb3c920c3bf0</id>
+    <link type="text/html" rel="alternate" href="https://github.com/blakerockstar/lightgallery.js/commit/00d954d34be3454af3ed032517a4eb3c920c3bf0"/>
+    <title>
+        Update readme.md
+    </title>
+    <updated>2016-08-02T16:29:25Z</updated>
+    <media:thumbnail height="30" width="30" url="https://avatars.githubusercontent.com/u/6586706?s=30&amp;u=93c7e2e7271ec018e5e029c30c9e1857602894b3&amp;v=4"/>
+    <author>
+      <name>sachinchoolur</name>
+      <uri>https://github.com/sachinchoolur</uri>
+    </author>
+    <content type="html">
+      &lt;pre style=&#39;white-space:pre-wrap;width:81ex&#39;&gt;Update readme.md&lt;/pre&gt;
+    </content>
+  </entry>
+  <entry>
+    <id>tag:github.com,2008:Grit::Commit/c4820db08ce4fe84e5b76615235775d60c3b92c1</id>
+    <link type="text/html" rel="alternate" href="https://github.com/blakerockstar/lightgallery.js/commit/c4820db08ce4fe84e5b76615235775d60c3b92c1"/>
+    <title>
+        Merge pull request #4 from XhmikosR/readme
+    </title>
+    <updated>2016-08-02T16:28:29Z</updated>
+    <media:thumbnail height="30" width="30" url="https://avatars.githubusercontent.com/u/6586706?s=30&amp;u=93c7e2e7271ec018e5e029c30c9e1857602894b3&amp;v=4"/>
+    <author>
+      <name>sachinchoolur</name>
+      <uri>https://github.com/sachinchoolur</uri>
+    </author>
+    <content type="html">
+      &lt;pre style=&#39;white-space:pre-wrap;width:81ex&#39;&gt;Merge pull request #4 from XhmikosR/readme
+
+Tweak readme.md.&lt;/pre&gt;
+    </content>
+  </entry>
+  <entry>
+    <id>tag:github.com,2008:Grit::Commit/b2f17a759c26e48b8ad4f5ddbf71c696ecc9905e</id>
+    <link type="text/html" rel="alternate" href="https://github.com/blakerockstar/lightgallery.js/commit/b2f17a759c26e48b8ad4f5ddbf71c696ecc9905e"/>
+    <title>
+        Merge pull request #1 from XhmikosR/master
+    </title>
+    <updated>2016-08-02T16:27:36Z</updated>
+    <media:thumbnail height="30" width="30" url="https://avatars.githubusercontent.com/u/6586706?s=30&amp;u=93c7e2e7271ec018e5e029c30c9e1857602894b3&amp;v=4"/>
+    <author>
+      <name>sachinchoolur</name>
+      <uri>https://github.com/sachinchoolur</uri>
+    </author>
+    <content type="html">
+      &lt;pre style=&#39;white-space:pre-wrap;width:81ex&#39;&gt;Merge pull request #1 from XhmikosR/master
+
+demo/index.html: fix validation errors and minor cleanup.&lt;/pre&gt;
+    </content>
+  </entry>
+  <entry>
+    <id>tag:github.com,2008:Grit::Commit/f196b1d99c174378934bcbb1ccc899b1e1460b12</id>
+    <link type="text/html" rel="alternate" href="https://github.com/blakerockstar/lightgallery.js/commit/f196b1d99c174378934bcbb1ccc899b1e1460b12"/>
+    <title>
+        Tweak readme.md.
+    </title>
+    <updated>2016-08-02T09:54:10Z</updated>
+    <media:thumbnail height="30" width="30" url="https://avatars.githubusercontent.com/u/349621?s=30&amp;u=7a5274e187f0b3476d3d1ea2ad2f9974a8bca846&amp;v=4"/>
+    <author>
+      <name>XhmikosR</name>
+      <uri>https://github.com/XhmikosR</uri>
+    </author>
+    <content type="html">
+      &lt;pre style=&#39;white-space:pre-wrap;width:81ex&#39;&gt;Tweak readme.md.
+
+* use `https` everywhere
+* fix a few typos
+* minor markdown tweaks&lt;/pre&gt;
+    </content>
+  </entry>
+</feed>

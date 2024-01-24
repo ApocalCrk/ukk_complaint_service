@@ -1,0 +1,338 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/" xml:lang="en-US">
+  <id>tag:github.com,2008:/fight4gold/lightgallery.js/commits/master</id>
+  <link type="text/html" rel="alternate" href="https://github.com/fight4gold/lightgallery.js/commits/master"/>
+  <link type="application/atom+xml" rel="self" href="https://github.com/fight4gold/lightgallery.js/commits/master.atom"/>
+  <title>Recent Commits to lightgallery.js:master</title>
+  <updated>2016-12-29T06:57:41Z</updated>
+  <entry>
+    <id>tag:github.com,2008:Grit::Commit/1d8f126e3f493ebb5f821fdd496884b4321645ec</id>
+    <link type="text/html" rel="alternate" href="https://github.com/fight4gold/lightgallery.js/commit/1d8f126e3f493ebb5f821fdd496884b4321645ec"/>
+    <title>
+        Update LICENSE.md
+    </title>
+    <updated>2016-12-29T06:57:41Z</updated>
+    <media:thumbnail height="30" width="30" url="https://avatars.githubusercontent.com/u/6586706?s=30&amp;u=93c7e2e7271ec018e5e029c30c9e1857602894b3&amp;v=4"/>
+    <author>
+      <name>sachinchoolur</name>
+      <uri>https://github.com/sachinchoolur</uri>
+    </author>
+    <content type="html">
+      &lt;pre style=&#39;white-space:pre-wrap;width:81ex&#39;&gt;Update LICENSE.md&lt;/pre&gt;
+    </content>
+  </entry>
+  <entry>
+    <id>tag:github.com,2008:Grit::Commit/c931ad9b3788da664f817453ab1002fba1904108</id>
+    <link type="text/html" rel="alternate" href="https://github.com/fight4gold/lightgallery.js/commit/c931ad9b3788da664f817453ab1002fba1904108"/>
+    <title>
+        Fix zoom transition performance issues on chrome..
+    </title>
+    <updated>2016-12-22T18:21:42Z</updated>
+    <media:thumbnail height="30" width="30" url="https://avatars.githubusercontent.com/u/6586706?s=30&amp;u=93c7e2e7271ec018e5e029c30c9e1857602894b3&amp;v=4"/>
+    <author>
+      <name>sachinchoolur</name>
+      <uri>https://github.com/sachinchoolur</uri>
+    </author>
+    <content type="html">
+      &lt;pre style=&#39;white-space:pre-wrap;width:81ex&#39;&gt;Fix zoom transition performance issues on chrome..&lt;/pre&gt;
+    </content>
+  </entry>
+  <entry>
+    <id>tag:github.com,2008:Grit::Commit/dba206b46bc4d3817333ac06a4aa6c8e457ef725</id>
+    <link type="text/html" rel="alternate" href="https://github.com/fight4gold/lightgallery.js/commit/dba206b46bc4d3817333ac06a4aa6c8e457ef725"/>
+    <title>
+        Fix zoom transition performance issues on chrome..
+    </title>
+    <updated>2016-12-22T18:20:17Z</updated>
+    <media:thumbnail height="30" width="30" url="https://avatars.githubusercontent.com/u/6586706?s=30&amp;u=93c7e2e7271ec018e5e029c30c9e1857602894b3&amp;v=4"/>
+    <author>
+      <name>sachinchoolur</name>
+      <uri>https://github.com/sachinchoolur</uri>
+    </author>
+    <content type="html">
+      &lt;pre style=&#39;white-space:pre-wrap;width:81ex&#39;&gt;Fix zoom transition performance issues on chrome..&lt;/pre&gt;
+    </content>
+  </entry>
+  <entry>
+    <id>tag:github.com,2008:Grit::Commit/6901a84a826f65c76a830c2fff1d4fb307d4f65d</id>
+    <link type="text/html" rel="alternate" href="https://github.com/fight4gold/lightgallery.js/commit/6901a84a826f65c76a830c2fff1d4fb307d4f65d"/>
+    <title>
+        Merge pull request #51 from limonte/patch-1
+    </title>
+    <updated>2016-11-06T06:21:44Z</updated>
+    <media:thumbnail height="30" width="30" url="https://avatars.githubusercontent.com/u/6586706?s=30&amp;u=93c7e2e7271ec018e5e029c30c9e1857602894b3&amp;v=4"/>
+    <author>
+      <name>sachinchoolur</name>
+      <uri>https://github.com/sachinchoolur</uri>
+    </author>
+    <content type="html">
+      &lt;pre style=&#39;white-space:pre-wrap;width:81ex&#39;&gt;Merge pull request #51 from limonte/patch-1
+
+Add CDN info&lt;/pre&gt;
+    </content>
+  </entry>
+  <entry>
+    <id>tag:github.com,2008:Grit::Commit/0758c03b0f90674da6c0cf3c507d9543baa7de46</id>
+    <link type="text/html" rel="alternate" href="https://github.com/fight4gold/lightgallery.js/commit/0758c03b0f90674da6c0cf3c507d9543baa7de46"/>
+    <title>
+        Add CDN info
+    </title>
+    <updated>2016-10-22T11:09:44Z</updated>
+    <media:thumbnail height="30" width="30" url="https://avatars.githubusercontent.com/u/6059356?s=30&amp;u=cab2ace6e64a163ea229cbc4d1e7c98e459db54f&amp;v=4"/>
+    <author>
+      <name>limonte</name>
+      <uri>https://github.com/limonte</uri>
+    </author>
+    <content type="html">
+      &lt;pre style=&#39;white-space:pre-wrap;width:81ex&#39;&gt;Add CDN info&lt;/pre&gt;
+    </content>
+  </entry>
+  <entry>
+    <id>tag:github.com,2008:Grit::Commit/7fc14ad0c847f528d2b15d669679b8a2f3a90706</id>
+    <link type="text/html" rel="alternate" href="https://github.com/fight4gold/lightgallery.js/commit/7fc14ad0c847f528d2b15d669679b8a2f3a90706"/>
+    <title>
+        Update demo
+    </title>
+    <updated>2016-10-05T13:04:18Z</updated>
+    <media:thumbnail height="30" width="30" url="https://avatars.githubusercontent.com/u/6586706?s=30&amp;u=93c7e2e7271ec018e5e029c30c9e1857602894b3&amp;v=4"/>
+    <author>
+      <name>sachinchoolur</name>
+      <uri>https://github.com/sachinchoolur</uri>
+    </author>
+    <content type="html">
+      &lt;pre style=&#39;white-space:pre-wrap;width:81ex&#39;&gt;Update demo&lt;/pre&gt;
+    </content>
+  </entry>
+  <entry>
+    <id>tag:github.com,2008:Grit::Commit/912869783902433089b9e88625e12167f4cfb774</id>
+    <link type="text/html" rel="alternate" href="https://github.com/fight4gold/lightgallery.js/commit/912869783902433089b9e88625e12167f4cfb774"/>
+    <title>
+        Change lincese
+    </title>
+    <updated>2016-10-05T11:24:46Z</updated>
+    <media:thumbnail height="30" width="30" url="https://avatars.githubusercontent.com/u/6586706?s=30&amp;u=93c7e2e7271ec018e5e029c30c9e1857602894b3&amp;v=4"/>
+    <author>
+      <name>sachinchoolur</name>
+      <uri>https://github.com/sachinchoolur</uri>
+    </author>
+    <content type="html">
+      &lt;pre style=&#39;white-space:pre-wrap;width:81ex&#39;&gt;Change lincese&lt;/pre&gt;
+    </content>
+  </entry>
+  <entry>
+    <id>tag:github.com,2008:Grit::Commit/9bf3b2cf92e2784bfcba5a441d206957a8e171c7</id>
+    <link type="text/html" rel="alternate" href="https://github.com/fight4gold/lightgallery.js/commit/9bf3b2cf92e2784bfcba5a441d206957a8e171c7"/>
+    <title>
+        Update readme
+    </title>
+    <updated>2016-10-05T11:10:15Z</updated>
+    <media:thumbnail height="30" width="30" url="https://avatars.githubusercontent.com/u/6586706?s=30&amp;u=93c7e2e7271ec018e5e029c30c9e1857602894b3&amp;v=4"/>
+    <author>
+      <name>sachinchoolur</name>
+      <uri>https://github.com/sachinchoolur</uri>
+    </author>
+    <content type="html">
+      &lt;pre style=&#39;white-space:pre-wrap;width:81ex&#39;&gt;Update readme&lt;/pre&gt;
+    </content>
+  </entry>
+  <entry>
+    <id>tag:github.com,2008:Grit::Commit/1bb32d10c9d94dbc29f8c4fd719a1e42565eac18</id>
+    <link type="text/html" rel="alternate" href="https://github.com/fight4gold/lightgallery.js/commit/1bb32d10c9d94dbc29f8c4fd719a1e42565eac18"/>
+    <title>
+        Version 1.0.0 release
+    </title>
+    <updated>2016-10-05T11:04:09Z</updated>
+    <media:thumbnail height="30" width="30" url="https://avatars.githubusercontent.com/u/6586706?s=30&amp;u=93c7e2e7271ec018e5e029c30c9e1857602894b3&amp;v=4"/>
+    <author>
+      <name>sachinchoolur</name>
+      <uri>https://github.com/sachinchoolur</uri>
+    </author>
+    <content type="html">
+      &lt;pre style=&#39;white-space:pre-wrap;width:81ex&#39;&gt;Version 1.0.0 release&lt;/pre&gt;
+    </content>
+  </entry>
+  <entry>
+    <id>tag:github.com,2008:Grit::Commit/d46fc056eddb0013ef4d08fc04bf069a0f62f762</id>
+    <link type="text/html" rel="alternate" href="https://github.com/fight4gold/lightgallery.js/commit/d46fc056eddb0013ef4d08fc04bf069a0f62f762"/>
+    <title>
+        Delete lg-js.sublime-project
+    </title>
+    <updated>2016-09-27T10:01:41Z</updated>
+    <media:thumbnail height="30" width="30" url="https://avatars.githubusercontent.com/u/6586706?s=30&amp;u=93c7e2e7271ec018e5e029c30c9e1857602894b3&amp;v=4"/>
+    <author>
+      <name>sachinchoolur</name>
+      <uri>https://github.com/sachinchoolur</uri>
+    </author>
+    <content type="html">
+      &lt;pre style=&#39;white-space:pre-wrap;width:81ex&#39;&gt;Delete lg-js.sublime-project&lt;/pre&gt;
+    </content>
+  </entry>
+  <entry>
+    <id>tag:github.com,2008:Grit::Commit/1cce1d2b0a8afb81ac54414b24c3eedb95348286</id>
+    <link type="text/html" rel="alternate" href="https://github.com/fight4gold/lightgallery.js/commit/1cce1d2b0a8afb81ac54414b24c3eedb95348286"/>
+    <title>
+        Delete lg-js.sublime-workspace
+    </title>
+    <updated>2016-09-27T10:01:35Z</updated>
+    <media:thumbnail height="30" width="30" url="https://avatars.githubusercontent.com/u/6586706?s=30&amp;u=93c7e2e7271ec018e5e029c30c9e1857602894b3&amp;v=4"/>
+    <author>
+      <name>sachinchoolur</name>
+      <uri>https://github.com/sachinchoolur</uri>
+    </author>
+    <content type="html">
+      &lt;pre style=&#39;white-space:pre-wrap;width:81ex&#39;&gt;Delete lg-js.sublime-workspace&lt;/pre&gt;
+    </content>
+  </entry>
+  <entry>
+    <id>tag:github.com,2008:Grit::Commit/a826f82f0b6befdc8bb5a77b2512df241cd85073</id>
+    <link type="text/html" rel="alternate" href="https://github.com/fight4gold/lightgallery.js/commit/a826f82f0b6befdc8bb5a77b2512df241cd85073"/>
+    <title>
+        Fix backdropDuration bug
+    </title>
+    <updated>2016-09-27T09:59:19Z</updated>
+    <media:thumbnail height="30" width="30" url="https://avatars.githubusercontent.com/u/6586706?s=30&amp;u=93c7e2e7271ec018e5e029c30c9e1857602894b3&amp;v=4"/>
+    <author>
+      <name>sachinchoolur</name>
+      <uri>https://github.com/sachinchoolur</uri>
+    </author>
+    <content type="html">
+      &lt;pre style=&#39;white-space:pre-wrap;width:81ex&#39;&gt;Fix backdropDuration bug&lt;/pre&gt;
+    </content>
+  </entry>
+  <entry>
+    <id>tag:github.com,2008:Grit::Commit/ded49759da4e0382ad203c02a27e735ed2813bf0</id>
+    <link type="text/html" rel="alternate" href="https://github.com/fight4gold/lightgallery.js/commit/ded49759da4e0382ad203c02a27e735ed2813bf0"/>
+    <title>
+        Fix backdropDuration bug
+    </title>
+    <updated>2016-09-27T09:58:57Z</updated>
+    <media:thumbnail height="30" width="30" url="https://avatars.githubusercontent.com/u/6586706?s=30&amp;u=93c7e2e7271ec018e5e029c30c9e1857602894b3&amp;v=4"/>
+    <author>
+      <name>sachinchoolur</name>
+      <uri>https://github.com/sachinchoolur</uri>
+    </author>
+    <content type="html">
+      &lt;pre style=&#39;white-space:pre-wrap;width:81ex&#39;&gt;Fix backdropDuration bug&lt;/pre&gt;
+    </content>
+  </entry>
+  <entry>
+    <id>tag:github.com,2008:Grit::Commit/5db6ddd7036ce7479afe37dbf81c2eabc05de7d8</id>
+    <link type="text/html" rel="alternate" href="https://github.com/fight4gold/lightgallery.js/commit/5db6ddd7036ce7479afe37dbf81c2eabc05de7d8"/>
+    <title>
+        Merge pull request #24 from a2wd/master
+    </title>
+    <updated>2016-09-27T08:57:12Z</updated>
+    <media:thumbnail height="30" width="30" url="https://avatars.githubusercontent.com/u/6586706?s=30&amp;u=93c7e2e7271ec018e5e029c30c9e1857602894b3&amp;v=4"/>
+    <author>
+      <name>sachinchoolur</name>
+      <uri>https://github.com/sachinchoolur</uri>
+    </author>
+    <content type="html">
+      &lt;pre style=&#39;white-space:pre-wrap;width:81ex&#39;&gt;Merge pull request #24 from a2wd/master
+
+Updated isVideo method to throw error when src parameter is missing&lt;/pre&gt;
+    </content>
+  </entry>
+  <entry>
+    <id>tag:github.com,2008:Grit::Commit/a2cb368a2f3a6167fba76709faffccbc07cc2aba</id>
+    <link type="text/html" rel="alternate" href="https://github.com/fight4gold/lightgallery.js/commit/a2cb368a2f3a6167fba76709faffccbc07cc2aba"/>
+    <title>
+        Merge pull request #44 from blimpage/repo-links-fix
+    </title>
+    <updated>2016-09-27T08:51:58Z</updated>
+    <media:thumbnail height="30" width="30" url="https://avatars.githubusercontent.com/u/6586706?s=30&amp;u=93c7e2e7271ec018e5e029c30c9e1857602894b3&amp;v=4"/>
+    <author>
+      <name>sachinchoolur</name>
+      <uri>https://github.com/sachinchoolur</uri>
+    </author>
+    <content type="html">
+      &lt;pre style=&#39;white-space:pre-wrap;width:81ex&#39;&gt;Merge pull request #44 from blimpage/repo-links-fix
+
+Ensure that URLs point to the correct repository&lt;/pre&gt;
+    </content>
+  </entry>
+  <entry>
+    <id>tag:github.com,2008:Grit::Commit/92c4ebe4ddfed4868eb2310de00c5063ca9cda7a</id>
+    <link type="text/html" rel="alternate" href="https://github.com/fight4gold/lightgallery.js/commit/92c4ebe4ddfed4868eb2310de00c5063ca9cda7a"/>
+    <title>
+        Merge pull request #40 from RyanZim/style
+    </title>
+    <updated>2016-09-27T08:49:26Z</updated>
+    <media:thumbnail height="30" width="30" url="https://avatars.githubusercontent.com/u/6586706?s=30&amp;u=93c7e2e7271ec018e5e029c30c9e1857602894b3&amp;v=4"/>
+    <author>
+      <name>sachinchoolur</name>
+      <uri>https://github.com/sachinchoolur</uri>
+    </author>
+    <content type="html">
+      &lt;pre style=&#39;white-space:pre-wrap;width:81ex&#39;&gt;Merge pull request #40 from RyanZim/style
+
+Add `style` field to package.json&lt;/pre&gt;
+    </content>
+  </entry>
+  <entry>
+    <id>tag:github.com,2008:Grit::Commit/a70b2abdab637640a0808234e22af2a0f38a1071</id>
+    <link type="text/html" rel="alternate" href="https://github.com/fight4gold/lightgallery.js/commit/a70b2abdab637640a0808234e22af2a0f38a1071"/>
+    <title>
+        Ensure that URLs point to the correct repository
+    </title>
+    <updated>2016-09-11T03:34:10Z</updated>
+    <media:thumbnail height="30" width="30" url="https://avatars.githubusercontent.com/u/1564277?s=30&amp;u=b3c151de5ba8d28ade7e010db1692a1c3f9c128c&amp;v=4"/>
+    <author>
+      <name>blimpage</name>
+      <uri>https://github.com/blimpage</uri>
+    </author>
+    <content type="html">
+      &lt;pre style=&#39;white-space:pre-wrap;width:81ex&#39;&gt;Ensure that URLs point to the correct repository&lt;/pre&gt;
+    </content>
+  </entry>
+  <entry>
+    <id>tag:github.com,2008:Grit::Commit/f2adf108e7393c67ab5bab778c0654cef2cd8ebf</id>
+    <link type="text/html" rel="alternate" href="https://github.com/fight4gold/lightgallery.js/commit/f2adf108e7393c67ab5bab778c0654cef2cd8ebf"/>
+    <title>
+        Add `style` field to package.json
+    </title>
+    <updated>2016-08-29T19:20:47Z</updated>
+    <media:thumbnail height="30" width="30" url="https://avatars.githubusercontent.com/u/17342435?s=30&amp;u=da5d402c2652b5aa717c51097de40367063c2de1&amp;v=4"/>
+    <author>
+      <name>RyanZim</name>
+      <uri>https://github.com/RyanZim</uri>
+    </author>
+    <content type="html">
+      &lt;pre style=&#39;white-space:pre-wrap;width:81ex&#39;&gt;Add `style` field to package.json
+
+Fixes #32&lt;/pre&gt;
+    </content>
+  </entry>
+  <entry>
+    <id>tag:github.com,2008:Grit::Commit/493010882c989239393a632e087a4cd93ee677ea</id>
+    <link type="text/html" rel="alternate" href="https://github.com/fight4gold/lightgallery.js/commit/493010882c989239393a632e087a4cd93ee677ea"/>
+    <title>
+        Merged local with upstream branches
+    </title>
+    <updated>2016-08-09T11:00:03Z</updated>
+    <media:thumbnail height="30" width="30" url="https://avatars.githubusercontent.com/u/6710254?s=30&amp;u=03649a9d5cd20e5991759b5c17208cfa992bd106&amp;v=4"/>
+    <author>
+      <name>a2wd</name>
+      <uri>https://github.com/a2wd</uri>
+    </author>
+    <content type="html">
+      &lt;pre style=&#39;white-space:pre-wrap;width:81ex&#39;&gt;Merged local with upstream branches&lt;/pre&gt;
+    </content>
+  </entry>
+  <entry>
+    <id>tag:github.com,2008:Grit::Commit/11943da3df05cd7f38be45a5e86ec8a637ff7440</id>
+    <link type="text/html" rel="alternate" href="https://github.com/fight4gold/lightgallery.js/commit/11943da3df05cd7f38be45a5e86ec8a637ff7440"/>
+    <title>
+        Changed silent null check to thrown error in isVideo method
+    </title>
+    <updated>2016-08-09T10:53:44Z</updated>
+    <media:thumbnail height="30" width="30" url="https://avatars.githubusercontent.com/u/6710254?s=30&amp;u=03649a9d5cd20e5991759b5c17208cfa992bd106&amp;v=4"/>
+    <author>
+      <name>a2wd</name>
+      <uri>https://github.com/a2wd</uri>
+    </author>
+    <content type="html">
+      &lt;pre style=&#39;white-space:pre-wrap;width:81ex&#39;&gt;Changed silent null check to thrown error in isVideo method&lt;/pre&gt;
+    </content>
+  </entry>
+</feed>

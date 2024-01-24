@@ -1,0 +1,336 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/" xml:lang="en-US">
+  <id>tag:github.com,2008:/absamindiacatra/lightgallery.js/commits/master</id>
+  <link type="text/html" rel="alternate" href="https://github.com/absamindiacatra/lightgallery.js/commits/master"/>
+  <link type="application/atom+xml" rel="self" href="https://github.com/absamindiacatra/lightgallery.js/commits/master.atom"/>
+  <title>Recent Commits to lightgallery.js:master</title>
+  <updated>2020-09-01T09:13:23Z</updated>
+  <entry>
+    <id>tag:github.com,2008:Grit::Commit/9bd8ba22f5ee1f856a05f60266f26d20ede6f735</id>
+    <link type="text/html" rel="alternate" href="https://github.com/absamindiacatra/lightgallery.js/commit/9bd8ba22f5ee1f856a05f60266f26d20ede6f735"/>
+    <title>
+        Update demo with rotate module
+    </title>
+    <updated>2020-09-01T09:13:23Z</updated>
+    <media:thumbnail height="30" width="30" url="https://avatars.githubusercontent.com/u/6586706?s=30&amp;u=93c7e2e7271ec018e5e029c30c9e1857602894b3&amp;v=4"/>
+    <author>
+      <name>sachinchoolur</name>
+      <uri>https://github.com/sachinchoolur</uri>
+    </author>
+    <content type="html">
+      &lt;pre style=&#39;white-space:pre-wrap;width:81ex&#39;&gt;Update demo with rotate module&lt;/pre&gt;
+    </content>
+  </entry>
+  <entry>
+    <id>tag:github.com,2008:Grit::Commit/29cf60a242974c7d8b078da28b64208efa5eb737</id>
+    <link type="text/html" rel="alternate" href="https://github.com/absamindiacatra/lightgallery.js/commit/29cf60a242974c7d8b078da28b64208efa5eb737"/>
+    <title>
+        Update readme
+    </title>
+    <updated>2020-09-01T09:07:07Z</updated>
+    <media:thumbnail height="30" width="30" url="https://avatars.githubusercontent.com/u/6586706?s=30&amp;u=93c7e2e7271ec018e5e029c30c9e1857602894b3&amp;v=4"/>
+    <author>
+      <name>sachinchoolur</name>
+      <uri>https://github.com/sachinchoolur</uri>
+    </author>
+    <content type="html">
+      &lt;pre style=&#39;white-space:pre-wrap;width:81ex&#39;&gt;Update readme&lt;/pre&gt;
+    </content>
+  </entry>
+  <entry>
+    <id>tag:github.com,2008:Grit::Commit/de188ef6cf6e94d9f07d70450912348e3d56d95d</id>
+    <link type="text/html" rel="alternate" href="https://github.com/absamindiacatra/lightgallery.js/commit/de188ef6cf6e94d9f07d70450912348e3d56d95d"/>
+    <title>
+        Version 1.3.0 release
+    </title>
+    <updated>2020-09-01T09:02:06Z</updated>
+    <media:thumbnail height="30" width="30" url="https://avatars.githubusercontent.com/u/6586706?s=30&amp;u=93c7e2e7271ec018e5e029c30c9e1857602894b3&amp;v=4"/>
+    <author>
+      <name>sachinchoolur</name>
+      <uri>https://github.com/sachinchoolur</uri>
+    </author>
+    <content type="html">
+      &lt;pre style=&#39;white-space:pre-wrap;width:81ex&#39;&gt;Version 1.3.0 release&lt;/pre&gt;
+    </content>
+  </entry>
+  <entry>
+    <id>tag:github.com,2008:Grit::Commit/bd8cefeeb6e6b2816273f625828b4a5773eecda4</id>
+    <link type="text/html" rel="alternate" href="https://github.com/absamindiacatra/lightgallery.js/commit/bd8cefeeb6e6b2816273f625828b4a5773eecda4"/>
+    <title>
+        Include rotate module
+    </title>
+    <updated>2020-09-01T08:48:26Z</updated>
+    <media:thumbnail height="30" width="30" url="https://avatars.githubusercontent.com/u/6586706?s=30&amp;u=93c7e2e7271ec018e5e029c30c9e1857602894b3&amp;v=4"/>
+    <author>
+      <name>sachinchoolur</name>
+      <uri>https://github.com/sachinchoolur</uri>
+    </author>
+    <content type="html">
+      &lt;pre style=&#39;white-space:pre-wrap;width:81ex&#39;&gt;Include rotate module&lt;/pre&gt;
+    </content>
+  </entry>
+  <entry>
+    <id>tag:github.com,2008:Grit::Commit/25e7302c25a9c4046636e476ca154beddcdbb00d</id>
+    <link type="text/html" rel="alternate" href="https://github.com/absamindiacatra/lightgallery.js/commit/25e7302c25a9c4046636e476ca154beddcdbb00d"/>
+    <title>
+        Update share font icon content
+    </title>
+    <updated>2020-09-01T08:47:55Z</updated>
+    <media:thumbnail height="30" width="30" url="https://avatars.githubusercontent.com/u/6586706?s=30&amp;u=93c7e2e7271ec018e5e029c30c9e1857602894b3&amp;v=4"/>
+    <author>
+      <name>sachinchoolur</name>
+      <uri>https://github.com/sachinchoolur</uri>
+    </author>
+    <content type="html">
+      &lt;pre style=&#39;white-space:pre-wrap;width:81ex&#39;&gt;Update share font icon content&lt;/pre&gt;
+    </content>
+  </entry>
+  <entry>
+    <id>tag:github.com,2008:Grit::Commit/147545dbee0543e2065b2fd63531cc231ffd265d</id>
+    <link type="text/html" rel="alternate" href="https://github.com/absamindiacatra/lightgallery.js/commit/147545dbee0543e2065b2fd63531cc231ffd265d"/>
+    <title>
+        Update fonts
+    </title>
+    <updated>2020-09-01T08:47:24Z</updated>
+    <media:thumbnail height="30" width="30" url="https://avatars.githubusercontent.com/u/6586706?s=30&amp;u=93c7e2e7271ec018e5e029c30c9e1857602894b3&amp;v=4"/>
+    <author>
+      <name>sachinchoolur</name>
+      <uri>https://github.com/sachinchoolur</uri>
+    </author>
+    <content type="html">
+      &lt;pre style=&#39;white-space:pre-wrap;width:81ex&#39;&gt;Update fonts&lt;/pre&gt;
+    </content>
+  </entry>
+  <entry>
+    <id>tag:github.com,2008:Grit::Commit/edc148317eff7d874a447651c9e8a7438b3eea86</id>
+    <link type="text/html" rel="alternate" href="https://github.com/absamindiacatra/lightgallery.js/commit/edc148317eff7d874a447651c9e8a7438b3eea86"/>
+    <title>
+        Release version 1.2.1
+    </title>
+    <updated>2020-08-18T04:58:07Z</updated>
+    <media:thumbnail height="30" width="30" url="https://avatars.githubusercontent.com/u/6586706?s=30&amp;u=93c7e2e7271ec018e5e029c30c9e1857602894b3&amp;v=4"/>
+    <author>
+      <name>sachinchoolur</name>
+      <uri>https://github.com/sachinchoolur</uri>
+    </author>
+    <content type="html">
+      &lt;pre style=&#39;white-space:pre-wrap;width:81ex&#39;&gt;Release version 1.2.1
+
+minor css-fix - Remove un-necessary outline from the outer div&lt;/pre&gt;
+    </content>
+  </entry>
+  <entry>
+    <id>tag:github.com,2008:Grit::Commit/bf664875ba40797b1fe01eaa18f31519a81f450e</id>
+    <link type="text/html" rel="alternate" href="https://github.com/absamindiacatra/lightgallery.js/commit/bf664875ba40797b1fe01eaa18f31519a81f450e"/>
+    <title>
+        Remove unnecessary outline
+    </title>
+    <updated>2020-08-18T04:53:09Z</updated>
+    <media:thumbnail height="30" width="30" url="https://avatars.githubusercontent.com/u/6586706?s=30&amp;u=93c7e2e7271ec018e5e029c30c9e1857602894b3&amp;v=4"/>
+    <author>
+      <name>sachinchoolur</name>
+      <uri>https://github.com/sachinchoolur</uri>
+    </author>
+    <content type="html">
+      &lt;pre style=&#39;white-space:pre-wrap;width:81ex&#39;&gt;Remove unnecessary outline&lt;/pre&gt;
+    </content>
+  </entry>
+  <entry>
+    <id>tag:github.com,2008:Grit::Commit/4b12e77f1f5fcf9765ee16c41dc1e1a56a264bf7</id>
+    <link type="text/html" rel="alternate" href="https://github.com/absamindiacatra/lightgallery.js/commit/4b12e77f1f5fcf9765ee16c41dc1e1a56a264bf7"/>
+    <title>
+        accessibility - add button type
+    </title>
+    <updated>2020-06-04T17:01:23Z</updated>
+    <media:thumbnail height="30" width="30" url="https://avatars.githubusercontent.com/u/6586706?s=30&amp;u=93c7e2e7271ec018e5e029c30c9e1857602894b3&amp;v=4"/>
+    <author>
+      <name>sachinchoolur</name>
+      <uri>https://github.com/sachinchoolur</uri>
+    </author>
+    <content type="html">
+      &lt;pre style=&#39;white-space:pre-wrap;width:81ex&#39;&gt;accessibility - add button type&lt;/pre&gt;
+    </content>
+  </entry>
+  <entry>
+    <id>tag:github.com,2008:Grit::Commit/50842329c9a2e1a6c852b2d594daad35567be585</id>
+    <link type="text/html" rel="alternate" href="https://github.com/absamindiacatra/lightgallery.js/commit/50842329c9a2e1a6c852b2d594daad35567be585"/>
+    <title>
+        Version 1.2.0 release
+    </title>
+    <updated>2020-05-20T16:56:01Z</updated>
+    <media:thumbnail height="30" width="30" url="https://avatars.githubusercontent.com/u/6586706?s=30&amp;u=93c7e2e7271ec018e5e029c30c9e1857602894b3&amp;v=4"/>
+    <author>
+      <name>sachinchoolur</name>
+      <uri>https://github.com/sachinchoolur</uri>
+    </author>
+    <content type="html">
+      &lt;pre style=&#39;white-space:pre-wrap;width:81ex&#39;&gt;Version 1.2.0 release&lt;/pre&gt;
+    </content>
+  </entry>
+  <entry>
+    <id>tag:github.com,2008:Grit::Commit/4aa944ceed9d650465bc9478f49e5797270c335e</id>
+    <link type="text/html" rel="alternate" href="https://github.com/absamindiacatra/lightgallery.js/commit/4aa944ceed9d650465bc9478f49e5797270c335e"/>
+    <title>
+        accessibility improvements for thumbnails module
+    </title>
+    <updated>2020-05-17T15:31:07Z</updated>
+    <media:thumbnail height="30" width="30" url="https://avatars.githubusercontent.com/u/6586706?s=30&amp;u=93c7e2e7271ec018e5e029c30c9e1857602894b3&amp;v=4"/>
+    <author>
+      <name>sachinchoolur</name>
+      <uri>https://github.com/sachinchoolur</uri>
+    </author>
+    <content type="html">
+      &lt;pre style=&#39;white-space:pre-wrap;width:81ex&#39;&gt;accessibility improvements for thumbnails module&lt;/pre&gt;
+    </content>
+  </entry>
+  <entry>
+    <id>tag:github.com,2008:Grit::Commit/e858ce4a7a9e37ac6212f5bfdc379356c1862882</id>
+    <link type="text/html" rel="alternate" href="https://github.com/absamindiacatra/lightgallery.js/commit/e858ce4a7a9e37ac6212f5bfdc379356c1862882"/>
+    <title>
+        accessibility improvements
+    </title>
+    <updated>2020-05-17T15:13:42Z</updated>
+    <media:thumbnail height="30" width="30" url="https://avatars.githubusercontent.com/u/6586706?s=30&amp;u=93c7e2e7271ec018e5e029c30c9e1857602894b3&amp;v=4"/>
+    <author>
+      <name>sachinchoolur</name>
+      <uri>https://github.com/sachinchoolur</uri>
+    </author>
+    <content type="html">
+      &lt;pre style=&#39;white-space:pre-wrap;width:81ex&#39;&gt;accessibility improvements&lt;/pre&gt;
+    </content>
+  </entry>
+  <entry>
+    <id>tag:github.com,2008:Grit::Commit/9f6b119994b266732022a5bfed230649fb36b551</id>
+    <link type="text/html" rel="alternate" href="https://github.com/absamindiacatra/lightgallery.js/commit/9f6b119994b266732022a5bfed230649fb36b551"/>
+    <title>
+        Update fullscreen module
+    </title>
+    <updated>2019-02-23T14:18:33Z</updated>
+    <media:thumbnail height="30" width="30" url="https://avatars.githubusercontent.com/u/6586706?s=30&amp;u=93c7e2e7271ec018e5e029c30c9e1857602894b3&amp;v=4"/>
+    <author>
+      <name>sachinchoolur</name>
+      <uri>https://github.com/sachinchoolur</uri>
+    </author>
+    <content type="html">
+      &lt;pre style=&#39;white-space:pre-wrap;width:81ex&#39;&gt;Update fullscreen module&lt;/pre&gt;
+    </content>
+  </entry>
+  <entry>
+    <id>tag:github.com,2008:Grit::Commit/6b4244490f6f6d9734758af884ed1c42dd7e0c9d</id>
+    <link type="text/html" rel="alternate" href="https://github.com/absamindiacatra/lightgallery.js/commit/6b4244490f6f6d9734758af884ed1c42dd7e0c9d"/>
+    <title>
+        Fix #67
+    </title>
+    <updated>2019-02-11T04:48:58Z</updated>
+    <media:thumbnail height="30" width="30" url="https://avatars.githubusercontent.com/u/6586706?s=30&amp;u=93c7e2e7271ec018e5e029c30c9e1857602894b3&amp;v=4"/>
+    <author>
+      <name>sachinchoolur</name>
+      <uri>https://github.com/sachinchoolur</uri>
+    </author>
+    <content type="html">
+      &lt;pre style=&#39;white-space:pre-wrap;width:81ex&#39;&gt;Fix #67&lt;/pre&gt;
+    </content>
+  </entry>
+  <entry>
+    <id>tag:github.com,2008:Grit::Commit/123c30982ebcf837c230d6510b0fe6d3790f78b5</id>
+    <link type="text/html" rel="alternate" href="https://github.com/absamindiacatra/lightgallery.js/commit/123c30982ebcf837c230d6510b0fe6d3790f78b5"/>
+    <title>
+        Merge pull request #121 from boboldehampsink/youtube-nocookie-detection
+    </title>
+    <updated>2019-01-14T10:19:19Z</updated>
+    <media:thumbnail height="30" width="30" url="https://avatars.githubusercontent.com/u/6586706?s=30&amp;u=93c7e2e7271ec018e5e029c30c9e1857602894b3&amp;v=4"/>
+    <author>
+      <name>sachinchoolur</name>
+      <uri>https://github.com/sachinchoolur</uri>
+    </author>
+    <content type="html">
+      &lt;pre style=&#39;white-space:pre-wrap;width:81ex&#39;&gt;Merge pull request #121 from boboldehampsink/youtube-nocookie-detection
+
+Added youtube-nocookie.com support&lt;/pre&gt;
+    </content>
+  </entry>
+  <entry>
+    <id>tag:github.com,2008:Grit::Commit/c3aa16bca4c8509772041082b1c0329680024c64</id>
+    <link type="text/html" rel="alternate" href="https://github.com/absamindiacatra/lightgallery.js/commit/c3aa16bca4c8509772041082b1c0329680024c64"/>
+    <title>
+        Added youtube-nocookie.com support
+    </title>
+    <updated>2018-12-13T08:31:14Z</updated>
+    <media:thumbnail height="30" width="30" url="https://avatars.githubusercontent.com/u/378974?s=30&amp;u=d2908f26e20308a4d71fe9e126be847e9a66fcef&amp;v=4"/>
+    <author>
+      <name>boboldehampsink</name>
+      <uri>https://github.com/boboldehampsink</uri>
+    </author>
+    <content type="html">
+      &lt;pre style=&#39;white-space:pre-wrap;width:81ex&#39;&gt;Added youtube-nocookie.com support&lt;/pre&gt;
+    </content>
+  </entry>
+  <entry>
+    <id>tag:github.com,2008:Grit::Commit/66400ba2e5e188102a1e5fd4b3cbeb4b945a3768</id>
+    <link type="text/html" rel="alternate" href="https://github.com/absamindiacatra/lightgallery.js/commit/66400ba2e5e188102a1e5fd4b3cbeb4b945a3768"/>
+    <title>
+        Merge branch &#39;master&#39; of https://github.com/sachinchoolur/lightgaller…
+    </title>
+    <updated>2018-11-27T04:37:37Z</updated>
+    <media:thumbnail height="30" width="30" url="https://avatars.githubusercontent.com/u/6586706?s=30&amp;u=93c7e2e7271ec018e5e029c30c9e1857602894b3&amp;v=4"/>
+    <author>
+      <name>sachinchoolur</name>
+      <uri>https://github.com/sachinchoolur</uri>
+    </author>
+    <content type="html">
+      &lt;pre style=&#39;white-space:pre-wrap;width:81ex&#39;&gt;Merge branch &amp;#39;master&amp;#39; of https://github.com/sachinchoolur/lightgallery.js&lt;/pre&gt;
+    </content>
+  </entry>
+  <entry>
+    <id>tag:github.com,2008:Grit::Commit/274130dac5b16a1af4de9d2d7a1fc42674d968ab</id>
+    <link type="text/html" rel="alternate" href="https://github.com/absamindiacatra/lightgallery.js/commit/274130dac5b16a1af4de9d2d7a1fc42674d968ab"/>
+    <title>
+        Merge pull request #118 from gdimitrov-propy/fix-disable-prev-arrow
+    </title>
+    <updated>2018-11-27T04:36:23Z</updated>
+    <media:thumbnail height="30" width="30" url="https://avatars.githubusercontent.com/u/6586706?s=30&amp;u=93c7e2e7271ec018e5e029c30c9e1857602894b3&amp;v=4"/>
+    <author>
+      <name>sachinchoolur</name>
+      <uri>https://github.com/sachinchoolur</uri>
+    </author>
+    <content type="html">
+      &lt;pre style=&#39;white-space:pre-wrap;width:81ex&#39;&gt;Merge pull request #118 from gdimitrov-propy/fix-disable-prev-arrow
+
+Fix for adding disable class and attribute on lg-prev button&lt;/pre&gt;
+    </content>
+  </entry>
+  <entry>
+    <id>tag:github.com,2008:Grit::Commit/7300554cf04f17cde50dbd623075ec9a9fb9153b</id>
+    <link type="text/html" rel="alternate" href="https://github.com/absamindiacatra/lightgallery.js/commit/7300554cf04f17cde50dbd623075ec9a9fb9153b"/>
+    <title>
+        Merge pull request #118 from gdimitrov-propy/fix-disable-prev-arrow
+    </title>
+    <updated>2018-11-27T04:17:15Z</updated>
+    <media:thumbnail height="30" width="30" url="https://avatars.githubusercontent.com/u/6586706?s=30&amp;u=93c7e2e7271ec018e5e029c30c9e1857602894b3&amp;v=4"/>
+    <author>
+      <name>sachinchoolur</name>
+      <uri>https://github.com/sachinchoolur</uri>
+    </author>
+    <content type="html">
+      &lt;pre style=&#39;white-space:pre-wrap;width:81ex&#39;&gt;Merge pull request #118 from gdimitrov-propy/fix-disable-prev-arrow
+
+Fix for adding disable class and attribute on lg-prev button&lt;/pre&gt;
+    </content>
+  </entry>
+  <entry>
+    <id>tag:github.com,2008:Grit::Commit/3dd2980286aac82b08f3299b2eb0cddd5cfa3b62</id>
+    <link type="text/html" rel="alternate" href="https://github.com/absamindiacatra/lightgallery.js/commit/3dd2980286aac82b08f3299b2eb0cddd5cfa3b62"/>
+    <title>
+        Fix for adding disable class and attribute on lg-prev button
+    </title>
+    <updated>2018-11-23T15:57:14Z</updated>
+    <media:thumbnail height="30" width="30" url="https://avatars.githubusercontent.com/u/40756668?s=30&amp;u=30297df513b4a3fb7c0c1a10694b0528012ffb99&amp;v=4"/>
+    <author>
+      <name>gdimitrov-propy</name>
+      <uri>https://github.com/gdimitrov-propy</uri>
+    </author>
+    <content type="html">
+      &lt;pre style=&#39;white-space:pre-wrap;width:81ex&#39;&gt;Fix for adding disable class and attribute on lg-prev button&lt;/pre&gt;
+    </content>
+  </entry>
+</feed>

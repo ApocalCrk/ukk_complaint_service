@@ -1,0 +1,348 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/" xml:lang="en-US">
+  <id>tag:github.com,2008:/akarsh2312/lightgallery.js/commits/master</id>
+  <link type="text/html" rel="alternate" href="https://github.com/akarsh2312/lightgallery.js/commits/master"/>
+  <link type="application/atom+xml" rel="self" href="https://github.com/akarsh2312/lightgallery.js/commits/master.atom"/>
+  <title>Recent Commits to lightgallery.js:master</title>
+  <updated>2020-09-21T16:12:03Z</updated>
+  <entry>
+    <id>tag:github.com,2008:Grit::Commit/966a6372d82489ff33b80e85caf9fb154d899854</id>
+    <link type="text/html" rel="alternate" href="https://github.com/akarsh2312/lightgallery.js/commit/966a6372d82489ff33b80e85caf9fb154d899854"/>
+    <title>
+        Revise #138
+    </title>
+    <updated>2020-09-21T16:12:03Z</updated>
+    <media:thumbnail height="30" width="30" url="https://avatars.githubusercontent.com/u/589034?s=30&amp;v=4"/>
+    <author>
+      <name>domoritz</name>
+      <uri>https://github.com/domoritz</uri>
+    </author>
+    <content type="html">
+      &lt;pre style=&#39;white-space:pre-wrap;width:81ex&#39;&gt;Revise #138&lt;/pre&gt;
+    </content>
+  </entry>
+  <entry>
+    <id>tag:github.com,2008:Grit::Commit/59083855de9756e207681502d6ba9ded0c2d90f2</id>
+    <link type="text/html" rel="alternate" href="https://github.com/akarsh2312/lightgallery.js/commit/59083855de9756e207681502d6ba9ded0c2d90f2"/>
+    <title>
+        Namespace group class to prevent interference
+    </title>
+    <updated>2020-09-21T16:00:34Z</updated>
+    <media:thumbnail height="30" width="30" url="https://avatars.githubusercontent.com/u/378974?s=30&amp;u=d2908f26e20308a4d71fe9e126be847e9a66fcef&amp;v=4"/>
+    <author>
+      <name>boboldehampsink</name>
+      <uri>https://github.com/boboldehampsink</uri>
+    </author>
+    <content type="html">
+      &lt;pre style=&#39;white-space:pre-wrap;width:81ex&#39;&gt;Namespace group class to prevent interference&lt;/pre&gt;
+    </content>
+  </entry>
+  <entry>
+    <id>tag:github.com,2008:Grit::Commit/70f9028921a6f13b7b6cdacfbd0c43046fe90281</id>
+    <link type="text/html" rel="alternate" href="https://github.com/akarsh2312/lightgallery.js/commit/70f9028921a6f13b7b6cdacfbd0c43046fe90281"/>
+    <title>
+        Update warning if Picturefill library is not included
+    </title>
+    <updated>2020-09-20T11:43:27Z</updated>
+    <media:thumbnail height="30" width="30" url="https://avatars.githubusercontent.com/u/6586706?s=30&amp;u=93c7e2e7271ec018e5e029c30c9e1857602894b3&amp;v=4"/>
+    <author>
+      <name>sachinchoolur</name>
+      <uri>https://github.com/sachinchoolur</uri>
+    </author>
+    <content type="html">
+      &lt;pre style=&#39;white-space:pre-wrap;width:81ex&#39;&gt;Update warning if Picturefill library is not included&lt;/pre&gt;
+    </content>
+  </entry>
+  <entry>
+    <id>tag:github.com,2008:Grit::Commit/a84c95bcafc7f3646de37bf8b3601530be57816f</id>
+    <link type="text/html" rel="alternate" href="https://github.com/akarsh2312/lightgallery.js/commit/a84c95bcafc7f3646de37bf8b3601530be57816f"/>
+    <title>
+        Update warning if Picturefill library is not included
+    </title>
+    <updated>2020-09-20T11:43:27Z</updated>
+    <media:thumbnail height="30" width="30" url="https://avatars.githubusercontent.com/u/6586706?s=30&amp;u=93c7e2e7271ec018e5e029c30c9e1857602894b3&amp;v=4"/>
+    <author>
+      <name>sachinchoolur</name>
+      <uri>https://github.com/sachinchoolur</uri>
+    </author>
+    <content type="html">
+      &lt;pre style=&#39;white-space:pre-wrap;width:81ex&#39;&gt;Update warning if Picturefill library is not included&lt;/pre&gt;
+    </content>
+  </entry>
+  <entry>
+    <id>tag:github.com,2008:Grit::Commit/2bf08c1b84ca55524e661e3291fe0904f380befa</id>
+    <link type="text/html" rel="alternate" href="https://github.com/akarsh2312/lightgallery.js/commit/2bf08c1b84ca55524e661e3291fe0904f380befa"/>
+    <title>
+        Fix #172
+    </title>
+    <updated>2020-09-20T11:43:27Z</updated>
+    <media:thumbnail height="30" width="30" url="https://avatars.githubusercontent.com/u/3381820?s=30&amp;u=c9b22a2bd0e77122b71b912350ffed1baf61cfe9&amp;v=4"/>
+    <author>
+      <name>janwidmer</name>
+      <uri>https://github.com/janwidmer</uri>
+    </author>
+    <content type="html">
+      &lt;pre style=&#39;white-space:pre-wrap;width:81ex&#39;&gt;Fix #172&lt;/pre&gt;
+    </content>
+  </entry>
+  <entry>
+    <id>tag:github.com,2008:Grit::Commit/4c370b5a3529f7a0b7c5180198c8b6bf72fc5e08</id>
+    <link type="text/html" rel="alternate" href="https://github.com/akarsh2312/lightgallery.js/commit/4c370b5a3529f7a0b7c5180198c8b6bf72fc5e08"/>
+    <title>
+        Fix #172
+    </title>
+    <updated>2020-09-20T11:43:27Z</updated>
+    <media:thumbnail height="30" width="30" url="https://avatars.githubusercontent.com/u/3381820?s=30&amp;u=c9b22a2bd0e77122b71b912350ffed1baf61cfe9&amp;v=4"/>
+    <author>
+      <name>janwidmer</name>
+      <uri>https://github.com/janwidmer</uri>
+    </author>
+    <content type="html">
+      &lt;pre style=&#39;white-space:pre-wrap;width:81ex&#39;&gt;Fix #172&lt;/pre&gt;
+    </content>
+  </entry>
+  <entry>
+    <id>tag:github.com,2008:Grit::Commit/63b2a35ae2d45fa8b000f262af1124bf2b52f6cc</id>
+    <link type="text/html" rel="alternate" href="https://github.com/akarsh2312/lightgallery.js/commit/63b2a35ae2d45fa8b000f262af1124bf2b52f6cc"/>
+    <title>
+        Turn off hideControl #171
+    </title>
+    <updated>2020-09-20T11:22:13Z</updated>
+    <media:thumbnail height="30" width="30" url="https://avatars.githubusercontent.com/u/6586706?s=30&amp;u=93c7e2e7271ec018e5e029c30c9e1857602894b3&amp;v=4"/>
+    <author>
+      <name>sachinchoolur</name>
+      <uri>https://github.com/sachinchoolur</uri>
+    </author>
+    <content type="html">
+      &lt;pre style=&#39;white-space:pre-wrap;width:81ex&#39;&gt;Turn off hideControl #171
+
+Consider hideControls only if the value is greater than 0&lt;/pre&gt;
+    </content>
+  </entry>
+  <entry>
+    <id>tag:github.com,2008:Grit::Commit/2ff4ca4d57a7b904bc83d49b448b222b6daddeb1</id>
+    <link type="text/html" rel="alternate" href="https://github.com/akarsh2312/lightgallery.js/commit/2ff4ca4d57a7b904bc83d49b448b222b6daddeb1"/>
+    <title>
+        Version 1.3.1 release
+    </title>
+    <updated>2020-09-19T12:00:55Z</updated>
+    <media:thumbnail height="30" width="30" url="https://avatars.githubusercontent.com/u/6586706?s=30&amp;u=93c7e2e7271ec018e5e029c30c9e1857602894b3&amp;v=4"/>
+    <author>
+      <name>sachinchoolur</name>
+      <uri>https://github.com/sachinchoolur</uri>
+    </author>
+    <content type="html">
+      &lt;pre style=&#39;white-space:pre-wrap;width:81ex&#39;&gt;Version 1.3.1 release&lt;/pre&gt;
+    </content>
+  </entry>
+  <entry>
+    <id>tag:github.com,2008:Grit::Commit/ee24b4871d0ce5bd7ce589a48d98736258f1451f</id>
+    <link type="text/html" rel="alternate" href="https://github.com/akarsh2312/lightgallery.js/commit/ee24b4871d0ce5bd7ce589a48d98736258f1451f"/>
+    <title>
+        Fix issue - Horizontal and vertical  flip buttons class names are int…
+    </title>
+    <updated>2020-09-19T11:57:50Z</updated>
+    <media:thumbnail height="30" width="30" url="https://avatars.githubusercontent.com/u/6586706?s=30&amp;u=93c7e2e7271ec018e5e029c30c9e1857602894b3&amp;v=4"/>
+    <author>
+      <name>sachinchoolur</name>
+      <uri>https://github.com/sachinchoolur</uri>
+    </author>
+    <content type="html">
+      &lt;pre style=&#39;white-space:pre-wrap;width:81ex&#39;&gt;Fix issue - Horizontal and vertical  flip buttons class names are interchanged&lt;/pre&gt;
+    </content>
+  </entry>
+  <entry>
+    <id>tag:github.com,2008:Grit::Commit/82953d28d2529c7ed76ce03433e6aea14a18706a</id>
+    <link type="text/html" rel="alternate" href="https://github.com/akarsh2312/lightgallery.js/commit/82953d28d2529c7ed76ce03433e6aea14a18706a"/>
+    <title>
+        Upgrade dev dependancies
+    </title>
+    <updated>2020-09-19T10:06:09Z</updated>
+    <media:thumbnail height="30" width="30" url="https://avatars.githubusercontent.com/u/6586706?s=30&amp;u=93c7e2e7271ec018e5e029c30c9e1857602894b3&amp;v=4"/>
+    <author>
+      <name>sachinchoolur</name>
+      <uri>https://github.com/sachinchoolur</uri>
+    </author>
+    <content type="html">
+      &lt;pre style=&#39;white-space:pre-wrap;width:81ex&#39;&gt;Upgrade dev dependancies&lt;/pre&gt;
+    </content>
+  </entry>
+  <entry>
+    <id>tag:github.com,2008:Grit::Commit/42a49cc797e102b6b8357827127c4fabb1411c4d</id>
+    <link type="text/html" rel="alternate" href="https://github.com/akarsh2312/lightgallery.js/commit/42a49cc797e102b6b8357827127c4fabb1411c4d"/>
+    <title>
+        Bump elliptic from 6.4.1 to 6.5.3
+    </title>
+    <updated>2020-09-18T14:13:07Z</updated>
+    <media:thumbnail height="30" width="30" url="https://avatars.githubusercontent.com/in/29110?s=30&amp;v=4"/>
+    <author>
+      <name>dependabot</name>
+      <uri>https://github.com/dependabot</uri>
+    </author>
+    <content type="html">
+      &lt;pre style=&#39;white-space:pre-wrap;width:81ex&#39;&gt;Bump elliptic from 6.4.1 to 6.5.3
+
+Bumps [elliptic](https://github.com/indutny/elliptic) from 6.4.1 to 6.5.3.
+- [Release notes](https://github.com/indutny/elliptic/releases)
+- [Commits](https://github.com/indutny/elliptic/compare/v6.4.1...v6.5.3)
+
+Signed-off-by: dependabot[bot] &amp;lt;support@github.com&amp;gt;&lt;/pre&gt;
+    </content>
+  </entry>
+  <entry>
+    <id>tag:github.com,2008:Grit::Commit/a95c80fd947ea6642ad6a10c907c536bcf4ba7cb</id>
+    <link type="text/html" rel="alternate" href="https://github.com/akarsh2312/lightgallery.js/commit/a95c80fd947ea6642ad6a10c907c536bcf4ba7cb"/>
+    <title>
+        Bump mixin-deep from 1.3.1 to 1.3.2
+    </title>
+    <updated>2020-09-18T14:12:58Z</updated>
+    <media:thumbnail height="30" width="30" url="https://avatars.githubusercontent.com/in/29110?s=30&amp;v=4"/>
+    <author>
+      <name>dependabot</name>
+      <uri>https://github.com/dependabot</uri>
+    </author>
+    <content type="html">
+      &lt;pre style=&#39;white-space:pre-wrap;width:81ex&#39;&gt;Bump mixin-deep from 1.3.1 to 1.3.2
+
+Bumps [mixin-deep](https://github.com/jonschlinkert/mixin-deep) from 1.3.1 to 1.3.2.
+- [Release notes](https://github.com/jonschlinkert/mixin-deep/releases)
+- [Commits](https://github.com/jonschlinkert/mixin-deep/compare/1.3.1...1.3.2)
+
+Signed-off-by: dependabot[bot] &amp;lt;support@github.com&amp;gt;&lt;/pre&gt;
+    </content>
+  </entry>
+  <entry>
+    <id>tag:github.com,2008:Grit::Commit/991d18dc09abad00e25ab561b819f1874e25ae04</id>
+    <link type="text/html" rel="alternate" href="https://github.com/akarsh2312/lightgallery.js/commit/991d18dc09abad00e25ab561b819f1874e25ae04"/>
+    <title>
+        Bump acorn from 5.7.3 to 5.7.4
+    </title>
+    <updated>2020-09-18T11:54:11Z</updated>
+    <media:thumbnail height="30" width="30" url="https://avatars.githubusercontent.com/in/29110?s=30&amp;v=4"/>
+    <author>
+      <name>dependabot</name>
+      <uri>https://github.com/dependabot</uri>
+    </author>
+    <content type="html">
+      &lt;pre style=&#39;white-space:pre-wrap;width:81ex&#39;&gt;Bump acorn from 5.7.3 to 5.7.4
+
+Bumps [acorn](https://github.com/acornjs/acorn) from 5.7.3 to 5.7.4.
+- [Release notes](https://github.com/acornjs/acorn/releases)
+- [Commits](https://github.com/acornjs/acorn/compare/5.7.3...5.7.4)
+
+Signed-off-by: dependabot[bot] &amp;lt;support@github.com&amp;gt;&lt;/pre&gt;
+    </content>
+  </entry>
+  <entry>
+    <id>tag:github.com,2008:Grit::Commit/4605ca67848950e93fa36799563c0e62a42a3872</id>
+    <link type="text/html" rel="alternate" href="https://github.com/akarsh2312/lightgallery.js/commit/4605ca67848950e93fa36799563c0e62a42a3872"/>
+    <title>
+        Upgrade video module
+    </title>
+    <updated>2020-09-15T06:58:40Z</updated>
+    <media:thumbnail height="30" width="30" url="https://avatars.githubusercontent.com/u/6586706?s=30&amp;u=93c7e2e7271ec018e5e029c30c9e1857602894b3&amp;v=4"/>
+    <author>
+      <name>sachinchoolur</name>
+      <uri>https://github.com/sachinchoolur</uri>
+    </author>
+    <content type="html">
+      &lt;pre style=&#39;white-space:pre-wrap;width:81ex&#39;&gt;Upgrade video module&lt;/pre&gt;
+    </content>
+  </entry>
+  <entry>
+    <id>tag:github.com,2008:Grit::Commit/9bd8ba22f5ee1f856a05f60266f26d20ede6f735</id>
+    <link type="text/html" rel="alternate" href="https://github.com/akarsh2312/lightgallery.js/commit/9bd8ba22f5ee1f856a05f60266f26d20ede6f735"/>
+    <title>
+        Update demo with rotate module
+    </title>
+    <updated>2020-09-01T09:13:23Z</updated>
+    <media:thumbnail height="30" width="30" url="https://avatars.githubusercontent.com/u/6586706?s=30&amp;u=93c7e2e7271ec018e5e029c30c9e1857602894b3&amp;v=4"/>
+    <author>
+      <name>sachinchoolur</name>
+      <uri>https://github.com/sachinchoolur</uri>
+    </author>
+    <content type="html">
+      &lt;pre style=&#39;white-space:pre-wrap;width:81ex&#39;&gt;Update demo with rotate module&lt;/pre&gt;
+    </content>
+  </entry>
+  <entry>
+    <id>tag:github.com,2008:Grit::Commit/29cf60a242974c7d8b078da28b64208efa5eb737</id>
+    <link type="text/html" rel="alternate" href="https://github.com/akarsh2312/lightgallery.js/commit/29cf60a242974c7d8b078da28b64208efa5eb737"/>
+    <title>
+        Update readme
+    </title>
+    <updated>2020-09-01T09:07:07Z</updated>
+    <media:thumbnail height="30" width="30" url="https://avatars.githubusercontent.com/u/6586706?s=30&amp;u=93c7e2e7271ec018e5e029c30c9e1857602894b3&amp;v=4"/>
+    <author>
+      <name>sachinchoolur</name>
+      <uri>https://github.com/sachinchoolur</uri>
+    </author>
+    <content type="html">
+      &lt;pre style=&#39;white-space:pre-wrap;width:81ex&#39;&gt;Update readme&lt;/pre&gt;
+    </content>
+  </entry>
+  <entry>
+    <id>tag:github.com,2008:Grit::Commit/de188ef6cf6e94d9f07d70450912348e3d56d95d</id>
+    <link type="text/html" rel="alternate" href="https://github.com/akarsh2312/lightgallery.js/commit/de188ef6cf6e94d9f07d70450912348e3d56d95d"/>
+    <title>
+        Version 1.3.0 release
+    </title>
+    <updated>2020-09-01T09:02:06Z</updated>
+    <media:thumbnail height="30" width="30" url="https://avatars.githubusercontent.com/u/6586706?s=30&amp;u=93c7e2e7271ec018e5e029c30c9e1857602894b3&amp;v=4"/>
+    <author>
+      <name>sachinchoolur</name>
+      <uri>https://github.com/sachinchoolur</uri>
+    </author>
+    <content type="html">
+      &lt;pre style=&#39;white-space:pre-wrap;width:81ex&#39;&gt;Version 1.3.0 release&lt;/pre&gt;
+    </content>
+  </entry>
+  <entry>
+    <id>tag:github.com,2008:Grit::Commit/bd8cefeeb6e6b2816273f625828b4a5773eecda4</id>
+    <link type="text/html" rel="alternate" href="https://github.com/akarsh2312/lightgallery.js/commit/bd8cefeeb6e6b2816273f625828b4a5773eecda4"/>
+    <title>
+        Include rotate module
+    </title>
+    <updated>2020-09-01T08:48:26Z</updated>
+    <media:thumbnail height="30" width="30" url="https://avatars.githubusercontent.com/u/6586706?s=30&amp;u=93c7e2e7271ec018e5e029c30c9e1857602894b3&amp;v=4"/>
+    <author>
+      <name>sachinchoolur</name>
+      <uri>https://github.com/sachinchoolur</uri>
+    </author>
+    <content type="html">
+      &lt;pre style=&#39;white-space:pre-wrap;width:81ex&#39;&gt;Include rotate module&lt;/pre&gt;
+    </content>
+  </entry>
+  <entry>
+    <id>tag:github.com,2008:Grit::Commit/25e7302c25a9c4046636e476ca154beddcdbb00d</id>
+    <link type="text/html" rel="alternate" href="https://github.com/akarsh2312/lightgallery.js/commit/25e7302c25a9c4046636e476ca154beddcdbb00d"/>
+    <title>
+        Update share font icon content
+    </title>
+    <updated>2020-09-01T08:47:55Z</updated>
+    <media:thumbnail height="30" width="30" url="https://avatars.githubusercontent.com/u/6586706?s=30&amp;u=93c7e2e7271ec018e5e029c30c9e1857602894b3&amp;v=4"/>
+    <author>
+      <name>sachinchoolur</name>
+      <uri>https://github.com/sachinchoolur</uri>
+    </author>
+    <content type="html">
+      &lt;pre style=&#39;white-space:pre-wrap;width:81ex&#39;&gt;Update share font icon content&lt;/pre&gt;
+    </content>
+  </entry>
+  <entry>
+    <id>tag:github.com,2008:Grit::Commit/147545dbee0543e2065b2fd63531cc231ffd265d</id>
+    <link type="text/html" rel="alternate" href="https://github.com/akarsh2312/lightgallery.js/commit/147545dbee0543e2065b2fd63531cc231ffd265d"/>
+    <title>
+        Update fonts
+    </title>
+    <updated>2020-09-01T08:47:24Z</updated>
+    <media:thumbnail height="30" width="30" url="https://avatars.githubusercontent.com/u/6586706?s=30&amp;u=93c7e2e7271ec018e5e029c30c9e1857602894b3&amp;v=4"/>
+    <author>
+      <name>sachinchoolur</name>
+      <uri>https://github.com/sachinchoolur</uri>
+    </author>
+    <content type="html">
+      &lt;pre style=&#39;white-space:pre-wrap;width:81ex&#39;&gt;Update fonts&lt;/pre&gt;
+    </content>
+  </entry>
+</feed>
