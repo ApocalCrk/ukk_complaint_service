@@ -17,10 +17,10 @@ use Illuminate\Support\Facades\Auth;
 Route::get('/', 'HomeController@index');
 
 
-Auth::routes(['verify' => true]);
+Auth::routes();
 
 Route::prefix('admin')
-    ->middleware(['auth', 'admin', 'verified'])
+    ->middleware(['auth', 'admin'])
     ->group(function() {
         // 
         Route::get('/', 'AdminController@index');
@@ -46,7 +46,7 @@ Route::prefix('admin')
     });
 
 Route::prefix('masyarakat')
-    ->middleware(['auth', 'public', 'verified'])
+    ->middleware(['auth', 'public'])
     ->group(function() {
         Route::get('/', 'PublicController@index');
         Route::get('/buat_aduan', 'PengaduanController@create');

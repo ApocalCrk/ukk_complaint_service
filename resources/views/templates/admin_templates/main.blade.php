@@ -2,7 +2,7 @@
 <html lang="en">
 
 <head>
-  <base href="http://ukk2021.test/admin_template/">
+  <base href="http://10.42.0.1:8081/admin_template/">
   <meta charset="utf-8">
   <meta http-equiv="X-UA-Compatible" content="IE=edge">
   <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">

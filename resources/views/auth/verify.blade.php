@@ -2,7 +2,7 @@
 <html lang="en">
 <meta http-equiv="content-type" content="text/html;charset=utf-8" />
 <head>
-    <base href="http://ukk2021.test/public_template/">
+    <base href="http://10.42.0.1:8081/public_template/">
     <!-- Required meta tags  -->
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
